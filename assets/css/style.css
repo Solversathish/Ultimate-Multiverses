@@ -23,6 +23,9 @@ body::before {
   z-index: -1;
 }
  
+.landing-page::before {
+  display: none;
+}
 /* =========================================
    LANDING PAGE
 ========================================= */
