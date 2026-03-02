@@ -14,16 +14,114 @@ body {
   background: url("../images/landing.jpg") no-repeat center center;
 background-size: cover;
 }
+ 
+/* =========================================
+   LANDING PAGE
+========================================= */
 
-.rotating-logo {
-  width: 150px;
-  animation: rotateLogo 10s linear infinite;
+.landing-body {
+  height: 100vh;
+  background: url("../images/landing.jpg") no-repeat center center;
+  background-size: cover;
+  justify-content: center;
+  display: flex;
+  align-items: center;
 }
+
+.landing-container {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* this centers logo + button */
+}
+
+.landing-title {
+  font-size: 42px;
+  letter-spacing: 3px;
+  margin-bottom: 30px;
+}
+
+.landing-logo {
+  width: 220px;
+  animation: rotateLogo 12s linear infinite;
+  margin-bottom: 30px;
+}
+
 
 @keyframes rotateLogo {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
+/* ================= FUTURISTIC ROTATING BUTTON ================= */
+
+.enter-btn {
+  position: relative;
+  padding: 14px 35px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #00ffcc;
+  background: #00ff88;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  letter-spacing: 1px;
+  z-index: 1;
+  overflow: hidden;
+}
+
+/* Rotating Border Layer */
+.enter-btn::before {
+  content: "";
+  position: absolute;
+  top: -3px;
+  left: -3px;
+  right: -3px;
+  bottom: -3px;
+  border-radius: 10px;
+
+  background: conic-gradient(
+    #40c491,
+    #0800ff,
+    transparent,
+    #ff7300,
+    transparent,
+    #19a98c
+  );
+
+  animation: rotateBorder 4s linear infinite;
+  z-index: -2;
+}
+
+/* Inner Mask Layer */
+
+.enter-btn::after {
+  content: "";
+  position: absolute;
+  inset: 3px;
+  background: rgba(0, 0, 0, 1);
+  border-radius: 6px;
+  z-index: -1;
+}
+
+/* Hover Glow */
+.enter-btn:hover {
+  color: white;
+  box-shadow: 0 0 20px #00ffcc;
+}
+
+/* Rotation Animation */
+@keyframes rotateBorder {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 
 /* =========================================
    HEADER
