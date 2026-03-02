@@ -1,35 +1,29 @@
-// ================= LOAD UNIVERSes =================
-
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", async () => {
 
   const container = document.getElementById("universeContainer");
 
-  fetch("data/universes.json")
-    .then(res => res.json())
-    .then(data => {
+  const universes = await fetch("data/universes.json")
+    .then(res => res.json());
 
-      container.innerHTML = "";
+  universes.forEach(universe => {
 
-      data.forEach(universe => {
+    const card = document.createElement("div");
+    card.className = "card";
 
-        const card = document.createElement("div");
-        card.className = "card";
+    card.innerHTML = `
+      <div class="image-wrapper">
+        <img src="${universe.image}">
+      </div>
+      <div class="card-title">${universe.name}</div>
+    `;
 
-        card.innerHTML = `
-          <div class="image-wrapper">
-            <img src="${universe.image}" alt="${universe.name}">
-          </div>
-          <div class="card-title">${universe.name}</div>
-        `;
+    card.addEventListener("click", () => {
+      window.location.href =
+        `universe.html?universe=${universe.id}`;
+    });
 
-        card.addEventListener("click", () => {
-          window.location.href = `universe.html?universe=${universe.id}`;
-        });
+    container.appendChild(card);
 
-        container.appendChild(card);
-      });
-
-    })
-    .catch(err => console.log("Error loading universes:", err));
+  });
 
 });

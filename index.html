@@ -1,101 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ultimate Multiverse</title>
-
-<style>
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  height: 100vh;
-  background: url("assets/images/landing.jpg") no-repeat center center;
-  background-size: cover;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  font-family: Arial, sans-serif;
-  color: white;
-  overflow: hidden;
-}
-
-h1 {
-  font-size: 8vw;
-  margin-bottom: 40px;
-  text-shadow: 0 0 25px #00ff88;
-}
-
-/* Rotating Image */
-.rotating-logo {
-  width: 200px;
-  animation: spin 8s linear infinite;
-  margin-bottom: 40px;
-  filter: drop-shadow(0 0 25px #00ff88);
-}
-
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-
-.enter-btn {
-  padding: 16px 35px;
-  font-size: 18px;
-  font-weight: bold;
-  color: white;
-  background: linear-gradient(45deg, #00ff88, #00cc66);
-  border: none;
-  border-radius: 40px;
-  cursor: pointer;
-  box-shadow: 0 0 20px #00ff88;
-  transition: 0.3s ease;
-}
-
-.enter-btn:hover {
-  transform: scale(1.05);
-  box-shadow: 0 0 40px #00ff88;
-}
-
-/* Desktop adjustments */
-@media (min-width: 768px) {
-  h1 {
-    font-size: 60px;
-  }
-
-  .rotating-logo {
-    width: 280px;
-  }
-
-  .enter-btn {
-    font-size: 20px;
-    padding: 18px 45px;
-  }
-}
-</style>
+  <title>Ultimate Multiverse</title>
+  <link rel="stylesheet" href="assets/css/style.css">
 </head>
+<body class="center">
 
-<body>
-
-<h1>ULTIMATE MULTIVERSE</h1>
-
-<img src="assets/images/umlogo.png" class="rotating-logo" alt="umlogo" onclick="enterUniverse()">
-
-<button class="enter-btn" onclick="enterUniverse()">
-ENTER ULTIMATE MULTIVERSE
-</button>
-
-<script>
-function enterUniverse() {
-  window.location.href = "home.html";
-}
-</script>
+  <h1>ULTIMATE MULTIVERSE</h1>
+  <button onclick="location.href='home.html'" class="btn">
+    Enter
+  </button>
 
 </body>
 </html>

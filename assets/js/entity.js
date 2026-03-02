@@ -1,25 +1,54 @@
-const params = new URLSearchParams(window.location.search);
-const entityId = params.get("id");
+document.addEventListener("DOMContentLoaded", async () => {
 
-const container = document.getElementById("entityPage");
+  const params = new URLSearchParams(window.location.search);
+  const universeId = params.get("universe");
+  const worldId = params.get("world");
+  const id = params.get("id");
 
-fetch("data/entities.json")
-  .then(res => res.json())
-  .then(data => {
+  const data = await fetch(`data/${universeId}/entities.json`)
+    .then(res => res.json());
 
-    const entity = data.find(e => e.id === entityId);
+  const entity = data.find(e => e.id === id);
 
-    if (!entity) {
-      container.innerHTML = "<h2>Entity Not Found</h2>";
-      return;
+  if (!entity) return;
+
+  document.getElementById("entityName").textContent = entity.name;
+  document.getElementById("entityHeroImage").src = entity.heroImage;
+
+  document.getElementById("entityUniverse").textContent =
+    `Universe: ${entity.universe}`;
+
+  document.getElementById("entityWorld").textContent =
+    `World: ${entity.world}`;
+
+  document.getElementById("entityType").textContent =
+    `Type: ${entity.type}`;
+
+  document.getElementById("entityAge").textContent =
+    `Age: ${entity.age}`;
+
+  const tabContent = document.getElementById("tabContent");
+
+  function loadTab(tab) {
+
+    if (tab === "description") {
+      tabContent.textContent = entity.description;
     }
 
-    container.innerHTML = `
-      <div class="card">
-        <div class="image-wrapper">
-          <img src="${entity.heroImage}" loading="lazy" alt="${entity.name}">
-        </div>
-        <div class="card-title">${entity.name}</div>
-      </div>
-    `;
-  });
+    if (tab === "powers") {
+      tabContent.textContent = entity.powers;
+    }
+
+    if (tab === "extra") {
+      tabContent.textContent = entity.extra;
+    }
+  }
+
+  document.querySelectorAll(".tab-buttons button")
+    .forEach(btn => {
+      btn.onclick = () => loadTab(btn.dataset.tab);
+    });
+
+  loadTab("description");
+
+});

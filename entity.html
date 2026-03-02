@@ -14,8 +14,35 @@
   </div>
 </header>
 
-<div class="entity-page" id="entityPage"></div>
+<main class="entity-layout">
 
-<script src="assets/js/entity.js" defer></script>
+  <div class="entity-left">
+    <img id="entityHeroImage">
+  </div>
+
+  <div class="entity-right">
+
+    <h1 id="entityName"></h1>
+
+    <div class="meta-boxes">
+      <span id="entityUniverse"></span>
+      <span id="entityWorld"></span>
+      <span id="entityType"></span>
+      <span id="entityAge"></span>
+    </div>
+
+    <div class="tab-buttons">
+      <button data-tab="description">Description</button>
+      <button data-tab="powers">Powers</button>
+      <button data-tab="extra">Extra</button>
+    </div>
+
+    <div class="tab-content" id="tabContent"></div>
+
+  </div>
+
+</main>
+
+<script src="assets/js/entity.js"></script>
 </body>
 </html>

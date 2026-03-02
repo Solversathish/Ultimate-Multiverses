@@ -1,0 +1,12 @@
+[
+  {
+    "id": "raw",
+    "name": "WWE RAW",
+    "image": "assets/images/worlds/raw.png"
+  },
+  {
+    "id": "smackdown",
+    "name": "WWE SmackDown",
+    "image": "assets/images/worlds/smackdown.png"
+  }
+]

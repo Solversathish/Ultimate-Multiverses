@@ -1,133 +1,177 @@
-// ================= GET WORLD ID =================
-const params = new URLSearchParams(window.location.search);
-const worldId = params.get("world");
+document.addEventListener("DOMContentLoaded", async () => {
 
-// ================= ELEMENTS =================
-const breadcrumbs = document.getElementById("breadcrumbs");
-const container = document.getElementById("worldContainer");
-const worldCount = document.getElementById("worldCount");
-const filterSelect = document.getElementById("filterSelect");
-const toggleBtn = document.getElementById("toggleImages");
-const alphabetBar = document.getElementById("alphabetBar");
+  const params = new URLSearchParams(window.location.search);
+  const universeId = params.get("universe");
+  const worldId = params.get("world");
 
-let allEntities = [];
+  const container = document.getElementById("worldContainer");
+  const alphabetBar = document.getElementById("alphabetBar");
+  const breadcrumbs = document.getElementById("breadcrumbs");
+  const countElement = document.getElementById("worldCount");
+  const toggleBtn = document.getElementById("toggleImages");
+  const sortSelect = document.getElementById("filterSelect");
 
-// ================= LOAD DATA =================
-Promise.all([
-  fetch("data/entities.json").then(res => res.json()),
-  fetch("data/worlds.json").then(res => res.json())
-])
-.then(([entities, worlds]) => {
+  if (!universeId || !worldId) return;
 
-  const currentWorld = worlds.find(w => w.id === worldId);
-  if (!currentWorld) return;
+  let allItems = [];
+  let currentPage = 1;
+  const perPage = 36;
 
-  // Breadcrumbs
-  breadcrumbs.innerHTML = `
-    <a href="home.html">Home</a> > 
-    <a href="universe.html?universe=${currentWorld.universe}">
-      ${currentWorld.universe}
-    </a> > 
-    ${currentWorld.name}
-  `;
+  try {
 
-  // Filter entities
-  allEntities = entities.filter(e => e.world === worldId);
+    const entities = await fetch(`data/${universeId}/${worldId}.json`)
+      .then(res => res.json());
 
-  render(allEntities);
-})
-.catch(err => console.log("World page error:", err));
+    // Filter by world
+    allItems = entities.filter(e => e.world === worldId);
 
+    render();
+    generateAlphabet();
+    updateBreadcrumb();
+    updateCount();
 
-// ================= RENDER =================
-function render(data) {
+  } catch (err) {
+    console.error("World page error:", err);
+  }
 
-  container.innerHTML = "";
+  // ================= RENDER =================
 
-  data.forEach(entity => {
+  function render() {
 
-    const card = document.createElement("div");
-    card.className = "card";
+    container.innerHTML = "";
 
-    card.innerHTML = `
-      <div class="image-wrapper">
-        <img src="${entity.thumbnail}" loading="lazy" alt="${entity.name}">
-      </div>
-      <div class="card-title">${entity.name}</div>
-    `;
+    const start = (currentPage - 1) * perPage;
+    const end = start + perPage;
 
-    card.addEventListener("click", () => {
-    window.location.href = `entity.html?id=${entity.id}`;
+    const pageItems = allItems.slice(start, end);
+
+    pageItems.forEach(entity => {
+
+      const card = document.createElement("div");
+      card.className = "card";
+      card.id = entity.id;
+
+      card.innerHTML = `
+        <div class="image-wrapper">
+          <img src="${entity.thumbnail}">
+        </div>
+        <div class="card-title">${entity.name}</div>
+      `;
+
+      card.onclick = () => {
+        window.location.href =
+          `entity.html?universe=${universeId}&world=${worldId}&id=${entity.id}`;
+      };
+
+      container.appendChild(card);
     });
 
-    container.appendChild(card);
-  });
-
-  worldCount.textContent = `${data.length} Items`;
-}
-
-
-// ================= SORT =================
-filterSelect.addEventListener("change", (e) => {
-
-  let sorted = [...allEntities];
-
-  if (e.target.value === "az") {
-    sorted.sort((a, b) => a.name.localeCompare(b.name));
+    renderPagination();
   }
 
-  if (e.target.value === "za") {
-    sorted.sort((a, b) => b.name.localeCompare(a.name));
-  }
+  // ================= PAGINATION =================
 
-  render(sorted);
-});
+  function renderPagination() {
 
+    let pagination = document.getElementById("pagination");
 
-// ================= TOGGLE IMAGES =================
-toggleBtn.addEventListener("click", () => {
+    if (!pagination) {
+      pagination = document.createElement("div");
+      pagination.id = "pagination";
+      pagination.className = "pagination";
+      container.parentNode.appendChild(pagination);
+    }
 
-  container.classList.toggle("hide-images");
+    pagination.innerHTML = "";
 
-  toggleBtn.textContent =
-    container.classList.contains("hide-images")
-      ? "Show Images"
-      : "Hide Images";
-});
+    const total = Math.ceil(allItems.length / perPage);
 
+    for (let i = 1; i <= total; i++) {
 
-// ================= ALPHABET =================
-const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+      const btn = document.createElement("button");
+      btn.textContent = i;
 
-letters.forEach(letter => {
+      if (i === currentPage) {
+        btn.style.background = "#00ff88";
+        btn.style.color = "black";
+      }
 
-  const btn = document.createElement("button");
-  btn.className = "alphabet-btn";
-  btn.textContent = letter;
+      btn.onclick = () => {
+        currentPage = i;
+        render();
+      };
 
-  btn.addEventListener("click", () => {
-    scrollToLetter(letter);
-  });
-
-  alphabetBar.appendChild(btn);
-});
-
-function scrollToLetter(letter) {
-
-  const cards = document.querySelectorAll(".card");
-
-  for (let card of cards) {
-
-    const title = card.querySelector(".card-title").textContent;
-
-    if (title.toUpperCase().startsWith(letter)) {
-
-      card.scrollIntoView({
-        behavior: "smooth",
-        block: "start"
-      });
-
-      break;
+      pagination.appendChild(btn);
     }
   }
-}
+
+  // ================= SORT =================
+
+  sortSelect.addEventListener("change", () => {
+
+    if (sortSelect.value === "az") {
+      allItems.sort((a, b) => a.name.localeCompare(b.name));
+    }
+
+    if (sortSelect.value === "za") {
+      allItems.sort((a, b) => b.name.localeCompare(a.name));
+    }
+
+    currentPage = 1;
+    render();
+  });
+
+  // ================= TOGGLE IMAGES =================
+
+  toggleBtn.onclick = () => {
+
+    container.classList.toggle("hide-images");
+
+    toggleBtn.textContent =
+      container.classList.contains("hide-images")
+        ? "Show Images"
+        : "Hide Images";
+  };
+
+  // ================= ALPHABET =================
+
+  function generateAlphabet() {
+
+    alphabetBar.innerHTML = "";
+
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").forEach(letter => {
+
+      const btn = document.createElement("button");
+      btn.className = "alphabet-btn";
+      btn.textContent = letter;
+
+      btn.onclick = () => {
+
+        const index = allItems.findIndex(item =>
+          item.name.toUpperCase().startsWith(letter)
+        );
+
+        if (index !== -1) {
+          currentPage = Math.floor(index / perPage) + 1;
+          render();
+        }
+      };
+
+      alphabetBar.appendChild(btn);
+    });
+  }
+
+  // ================= BREADCRUMB =================
+
+  function updateBreadcrumb() {
+    breadcrumbs.innerHTML =
+      `<a href="home.html">Home</a> >
+       <a href="universe.html?universe=${universeId}">
+       ${universeId}</a> > ${worldId}`;
+  }
+
+  function updateCount() {
+    countElement.textContent = `${allItems.length} Items`;
+  }
+
+});

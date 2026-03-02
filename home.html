@@ -1,25 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>Ultimate Multiverse</title>
+  <title>Home</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 
 <header class="top-bar">
-  <div class="header-container">
-    <div class="logo">ULTIMATE MULTIVERSE</div>
-
-    <div class="search-box">
-      <input type="text" id="searchInput" placeholder="🔍 Search multiverse...">
-      <div class="search-results" id="searchResults"></div>
-    </div>
-  </div>
+  <div class="logo">ULTIMATE MULTIVERSE</div>
+  <input id="searchInput" placeholder="Search...">
+  <div id="searchResults" class="search-results"></div>
 </header>
 
-<main class="grid-container" id="universeContainer"></main>
+<section class="controls">
+  <div class="row">
+    <div id="breadcrumbs">Home</div>
+    <span id="itemCount" class="count"></span>
+  </div>
+</section>
+
+<main id="contentContainer" class="grid"></main>
+
+<div id="pagination" class="pagination"></div>
+
+<script src="assets/js/main.js" defer></script>
 <script src="assets/js/home.js" defer></script>
 
 </body>

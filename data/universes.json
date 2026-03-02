@@ -2,31 +2,13 @@
   {
     "id": "anime",
     "name": "Anime",
-    "image": "assets/images/anime.png"
+    "image": "assets/images/universes/anime.png",
+    "tags": ["japanese", "animation"]
   },
   {
     "id": "wwe",
     "name": "WWE",
-    "image": "assets/images/wwe.png"
-  },
-  {
-    "id": "fruits",
-    "name": "Fruits",
-    "image": "assets/images/fruits.png"
-  },
-  {
-    "id": "vehicles",
-    "name": "Vehicles",
-    "image": "assets/images/vehicles.png"
-  },
-  {
-    "id": "sports",
-    "name": "Sports",
-    "image": "assets/images/sports.png"
-  },
-  {
-    "id": "actors",
-    "name": "Actors",
-    "image": "assets/images/actors.png"
+    "image": "assets/images/universes/wwe.png",
+    "tags": ["wrestling", "sports"]
   }
 ]

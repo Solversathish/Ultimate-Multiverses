@@ -2,8 +2,11 @@
   {
     "id": "naruto",
     "name": "Naruto",
-    "image": "assets/images/naruto-world.png",
-    "universe": "anime",
-    "created": 2002
+    "image": "assets/images/worlds/naruto.png"
+  },
+  {
+    "id": "onepiece",
+    "name": "One Piece",
+    "image": "assets/images/worlds/onepiece.png"
   }
 ]
