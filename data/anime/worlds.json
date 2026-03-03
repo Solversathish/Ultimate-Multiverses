@@ -2,11 +2,8 @@
   {
     "id": "naruto",
     "name": "Naruto",
-    "image": "assets/images/worlds/naruto.png"
-  },
-  {
-    "id": "onepiece",
-    "name": "One Piece",
-    "image": "assets/images/worlds/onepiece.png"
+    "type": "world",
+    "parent": "anime",
+    "image": "assets/images/naruto.png"
   }
 ]

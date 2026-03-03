@@ -2,51 +2,12 @@
   {
     "id": "naruto_uzumaki",
     "name": "Naruto Uzumaki",
-    "world": "naruto",
-    "universe": "anime",
-
-    "thumbnail": "assets/images/entities/thumbnails/naruto_thumb.png",
-    "heroImage": "assets/images/entities/heroes/naruto_hero.png",
-
-    "type": "Hero",
-    "age": 17,
-
-    "description": "Naruto Uzumaki is a ninja of the Hidden Leaf Village and the jinchuriki of the Nine-Tails.",
-    "powers": "Shadow Clone Jutsu, Rasengan, Sage Mode, Kurama Chakra Mode.",
-    "extra": "Dream: To become Hokage."
-  },
-
-  {
-    "id": "sasuke_uchiha",
-    "name": "Sasuke Uchiha",
-    "world": "naruto",
-    "universe": "anime",
-
-    "thumbnail": "assets/images/entities/thumbnails/sasuke_thumb.png",
-    "heroImage": "assets/images/entities/heroes/sasuke_hero.png",
-
-    "type": "Anti-Hero",
-    "age": 17,
-
-    "description": "Sasuke is one of the last surviving members of the Uchiha clan.",
-    "powers": "Sharingan, Rinnegan, Chidori.",
-    "extra": "Brother: Itachi Uchiha."
-  },
-
-  {
-    "id": "gaara",
-    "name": "Gaara",
-    "world": "naruto",
-    "universe": "anime",
-
-    "thumbnail": "assets/images/entities/thumbnails/gaara_thumb.png",
-    "heroImage": "assets/images/entities/heroes/gaara_hero.png",
-
-    "type": "Hero",
-    "age": 18,
-
-    "description": "Kazekage of the Hidden Sand Village.",
-    "powers": "Sand Control, Absolute Defense.",
-    "extra": "Beast: Shukaku."
+    "type": "entity",
+    "parent": "naruto",
+    "thumbnail": "assets/images/entities/naruto_thumb.png",
+    "heroImage": "assets/images/entities/naruto_hero.png",
+    "description": "Seventh Hokage of Hidden Leaf.",
+    "age": 33,
+    "category": "Hero"
   }
 ]

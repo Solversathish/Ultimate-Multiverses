@@ -2,13 +2,19 @@
   {
     "id": "anime",
     "name": "Anime",
-    "image": "assets/images/universes/anime.png",
-    "tags": ["japanese", "animation"]
+    "type": "universe",
+    "image": "assets/images/anime.png"
   },
   {
-    "id": "wwe",
-    "name": "WWE",
-    "image": "assets/images/universes/wwe.png",
-    "tags": ["wrestling", "sports"]
+    "id": "fruits",
+    "name": "Fruits",
+    "type": "universe",
+    "image": "assets/images/fruits.png"
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "type": "universe",
+    "image": "assets/images/sports.png"
   }
 ]

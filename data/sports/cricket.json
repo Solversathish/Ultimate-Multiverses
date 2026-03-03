@@ -1,0 +1,9 @@
+[
+  {
+    "id": "india",
+    "name": "India",
+    "type": "subworld",
+    "parent": "cricket",
+    "image": "assets/images/india.png"
+  }
+]

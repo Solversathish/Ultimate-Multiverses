@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mango",
+    "name": "Mango",
+    "type": "entity",
+    "parent": "fruits",
+    "thumbnail": "assets/images/fruits/mango_thumb.png",
+    "heroImage": "assets/images/fruits/mango_hero.png",
+    "description": "King of fruits.",
+    "category": "Tropical"
+  }
+]
