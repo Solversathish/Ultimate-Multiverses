@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", async () => {
+document.addEventListener("DOMContentLoaded", async function () {
 
   const container = document.getElementById("categoryContainer");
   const breadcrumbs = document.getElementById("breadcrumbs");
@@ -10,13 +10,14 @@ document.addEventListener("DOMContentLoaded", async () => {
   if (!container) return;
 
   const params = new URLSearchParams(window.location.search);
-  const id = params.get("id") || params.get("parent");
+  const id =
+    params.get("id") ||
+    params.get("universe") ||
+    params.get("parent");
 
   if (!id) return;
 
   let data = [];
-  let currentUniverse = null;
-  let currentWorld = null;
 
   try {
 
@@ -24,68 +25,52 @@ document.addEventListener("DOMContentLoaded", async () => {
     const universes = await fetch("data/universes.json")
       .then(res => res.json());
 
-    currentUniverse = universes.find(u => u.id === id);
+    // ================= CHECK IF UNIVERSE =================
+    const universe = universes.find(u => u.id === id);
 
-    // ================= IF ID IS UNIVERSE =================
-    if (currentUniverse) {
+    if (universe) {
 
-      const worlds = await fetch(`data/${id}/worlds.json`)
+      data = await fetch(`data/${id}/worlds.json`)
         .then(res => res.json());
-
-      data = worlds;
 
       if (breadcrumbs) {
         breadcrumbs.innerHTML =
-          `<a href="home.html">Home</a> > ${currentUniverse.name}`;
+          `<a href="home.html">Home</a> > ${universe.name}`;
       }
 
-    }
+    } else {
 
-    // ================= IF ID IS WORLD =================
-    else {
+      // ================= CHECK IF WORLD =================
+      for (let u of universes) {
 
-      for (let universe of universes) {
+        const worlds = await fetch(`data/${u.id}/worlds.json`)
+          .then(res => res.json())
+          .catch(() => []);
 
-        const worldsPath = `data/${universe.id}/worlds.json`;
+        const world = worlds.find(w => w.id === id);
 
-        try {
+        if (world) {
 
-          const worlds = await fetch(worldsPath)
+          data = await fetch(`data/${u.id}/${id}.json`)
             .then(res => res.json());
 
-          const foundWorld = worlds.find(w => w.id === id);
-
-          if (foundWorld) {
-
-            currentUniverse = universe;
-            currentWorld = foundWorld;
-
-            data = await fetch(`data/${universe.id}/${id}.json`)
-              .then(res => res.json());
-
-            if (breadcrumbs) {
-              breadcrumbs.innerHTML = `
-                <a href="home.html">Home</a> >
-                <a href="category.html?id=${universe.id}">
-                  ${universe.name}
-                </a> >
-                ${foundWorld.name}
-              `;
-            }
-
-            break;
+          if (breadcrumbs) {
+            breadcrumbs.innerHTML = `
+              <a href="home.html">Home</a> >
+              <a href="category.html?id=${u.id}">${u.name}</a> >
+              ${world.name}
+            `;
           }
 
-        } catch (e) {
-          continue;
+          break;
         }
       }
-
     }
 
-    // ================= SAFETY CHECK =================
+    // ================= IF EMPTY =================
     if (!data || data.length === 0) {
-      container.innerHTML = "<p style='color:white'>No data found.</p>";
+      container.innerHTML =
+        "<p style='color:white'>No data found.</p>";
       return;
     }
 
@@ -93,34 +78,34 @@ document.addEventListener("DOMContentLoaded", async () => {
     generateAlphabet(data);
     updateCount(data.length);
 
-    // ================= TOGGLE =================
-    if (toggleBtn) {
-      toggleBtn.addEventListener("click", () => {
-        container.classList.toggle("hide-images");
-        toggleBtn.textContent =
-          container.classList.contains("hide-images")
-            ? "Show Images"
-            : "Hide Images";
-      });
-    }
-
-    // ================= SORT =================
-    if (sortSelect) {
-      sortSelect.addEventListener("change", () => {
-        let sorted = [...data];
-
-        if (sortSelect.value === "az")
-          sorted.sort((a, b) => a.name.localeCompare(b.name));
-
-        if (sortSelect.value === "za")
-          sorted.sort((a, b) => b.name.localeCompare(a.name));
-
-        render(sorted);
-      });
-    }
-
   } catch (error) {
-    console.error("Category page error:", error);
+    console.error("Category error:", error);
+  }
+
+  // ================= TOGGLE =================
+  if (toggleBtn) {
+    toggleBtn.addEventListener("click", () => {
+      container.classList.toggle("hide-images");
+      toggleBtn.textContent =
+        container.classList.contains("hide-images")
+          ? "Show Images"
+          : "Hide Images";
+    });
+  }
+
+  // ================= SORT =================
+  if (sortSelect) {
+    sortSelect.addEventListener("change", () => {
+      let sorted = [...data];
+
+      if (sortSelect.value === "az")
+        sorted.sort((a, b) => a.name.localeCompare(b.name));
+
+      if (sortSelect.value === "za")
+        sorted.sort((a, b) => b.name.localeCompare(a.name));
+
+      render(sorted);
+    });
   }
 
 });
@@ -163,20 +148,18 @@ function render(items) {
 
 // ================= COUNT =================
 function updateCount(total) {
-  const countElement = document.getElementById("categoryCount");
-  if (countElement) {
-    countElement.textContent = `${total} Items`;
-  }
+  const el = document.getElementById("categoryCount");
+  if (el) el.textContent = `${total} Items`;
 }
 
 
 // ================= ALPHABET =================
 function generateAlphabet(items) {
 
-  const alphabetBar = document.getElementById("alphabetBar");
-  if (!alphabetBar) return;
+  const bar = document.getElementById("alphabetBar");
+  if (!bar) return;
 
-  alphabetBar.innerHTML = "";
+  bar.innerHTML = "";
 
   const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
@@ -199,7 +182,7 @@ function generateAlphabet(items) {
 
     });
 
-    alphabetBar.appendChild(btn);
+    bar.appendChild(btn);
   });
 
 }
