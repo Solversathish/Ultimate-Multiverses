@@ -1,4 +1,20 @@
-try {
+document.addEventListener("DOMContentLoaded", async () => {
+
+  const container = document.getElementById("categoryContainer");
+  const breadcrumbs = document.getElementById("breadcrumbs");
+  const countElement = document.getElementById("categoryCount");
+  const alphabetBar = document.getElementById("alphabetBar");
+  const toggleBtn = document.getElementById("toggleImages");
+  const sortSelect = document.getElementById("filterSelect");
+
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get("id");
+
+  if (!id) return;
+
+  let data = [];
+
+  try {
 
   const universesRes = await fetch("data/universes.json");
   if (!universesRes.ok) throw new Error("universes.json not found");
@@ -60,7 +76,8 @@ try {
   render(data);
   generateAlphabet(data);
   updateCount(data.length);
-
-} catch (error) {
+  }
+  catch (error) {
   console.error("Category error:", error);
 }
+});
