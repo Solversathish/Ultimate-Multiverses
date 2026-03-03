@@ -2,12 +2,19 @@
   {
     "id": "naruto_uzumaki",
     "name": "Naruto Uzumaki",
+
     "type": "entity",
     "parent": "naruto",
+    "universe": "anime",
+
     "thumbnail": "assets/images/entities/naruto_thumb.png",
     "heroImage": "assets/images/entities/naruto_hero.png",
-    "description": "Seventh Hokage of Hidden Leaf.",
+
+    "category": "Hero",
     "age": 33,
-    "category": "Hero"
+
+    "description": "Seventh Hokage of Hidden Leaf.",
+    "powers": "Rasengan, Sage Mode, Kurama Chakra.",
+    "extra": "Member of Team 7."
   }
 ]

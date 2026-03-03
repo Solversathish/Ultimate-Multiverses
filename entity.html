@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Entity</title>
+  <title>Entity | Ultimate Multiverse</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
@@ -10,39 +10,20 @@
 
 <header class="top-bar">
   <div class="header-container">
-    <div class="logo">ULTIMATE MULTIVERSE</div>
+    <div class="logo">
+      <a href="home.html" style="text-decoration:none; color:white;">
+        ULTIMATE MULTIVERSE
+      </a>
+    </div>
   </div>
 </header>
 
-<main class="entity-layout">
+<!-- ENTITY SECTION -->
+<section class="entity-page" id="entityContainer">
+  <!-- Dynamic content will load here -->
+</section>
 
-  <div class="entity-left">
-    <img id="entityHeroImage">
-  </div>
+<script src="assets/js/entity.js" defer></script>
 
-  <div class="entity-right">
-
-    <h1 id="entityName"></h1>
-
-    <div class="meta-boxes">
-      <span id="entityUniverse"></span>
-      <span id="entityWorld"></span>
-      <span id="entityType"></span>
-      <span id="entityAge"></span>
-    </div>
-
-    <div class="tab-buttons">
-      <button data-tab="description">Description</button>
-      <button data-tab="powers">Powers</button>
-      <button data-tab="extra">Extra</button>
-    </div>
-
-    <div class="tab-content" id="tabContent"></div>
-
-  </div>
-
-</main>
-
-<script src="assets/js/entity.js"></script>
 </body>
 </html>
