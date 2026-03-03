@@ -7,12 +7,16 @@
     "image": "assets/images/worlds/naruto.png"
   },
   {
-    "id": "naruto_uzumaki",
-    "name": "Naruto Uzumaki",
-    "type": "entity",
-    "parent": "naruto",
-    "thumbnail": "assets/images/entities/naruto.png",
-    "age": 33,
-    "description": "Seventh Hokage of Hidden Leaf."
-  }
+  "id": "naruto_uzumaki",
+  "name": "Naruto Uzumaki",
+  "type": "entity",
+  "parent": "naruto",
+  "thumbnail": "assets/images/entities/naruto.png",
+  "heroImage": "assets/images/entities/naruto_hero.png",
+  "category": "Hero",
+  "age": 33,
+  "description": "Seventh Hokage of Hidden Leaf.",
+  "powers": "Rasengan, Sage Mode, Kurama Chakra.",
+  "extra": "Member of Team 7."
+}
 ]

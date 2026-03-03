@@ -1,68 +1,37 @@
 document.addEventListener("DOMContentLoaded", async () => {
 
   const container = document.getElementById("entityContainer");
+
   const params = new URLSearchParams(window.location.search);
+  const universeId = params.get("universe");
   const entityId = params.get("id");
 
-  if (!entityId) {
-    container.innerHTML = "<h2>Entity not found</h2>";
+  if (!universeId || !entityId) {
+    container.innerHTML = "<p style='color:white'>Invalid entity.</p>";
     return;
   }
 
+  let database = [];
+
   try {
-
-    const universes = await fetch("data/universes.json")
-      .then(res => res.json());
-
-    let foundEntity = null;
-
-    // 🔎 Search in every universe
-    for (let universe of universes) {
-
-      // 1️⃣ Check if direct entities.json exists (like fruits)
-      try {
-        const directEntities = await fetch(`data/${universe.id}/entities.json`)
-          .then(res => res.json());
-
-        foundEntity = directEntities.find(e => e.id === entityId);
-
-        if (foundEntity) break;
-      } catch {}
-
-      // 2️⃣ Check worlds.json
-      try {
-        const worlds = await fetch(`data/${universe.id}/worlds.json`)
-          .then(res => res.json());
-
-        for (let world of worlds) {
-
-          try {
-            const worldEntities = await fetch(`data/${universe.id}/${world.id}.json`)
-              .then(res => res.json());
-
-            foundEntity = worldEntities.find(e => e.id === entityId);
-
-            if (foundEntity) break;
-
-          } catch {}
-        }
-
-        if (foundEntity) break;
-
-      } catch {}
-    }
-
-    if (!foundEntity) {
-      container.innerHTML = "<h2>Entity not found</h2>";
-      return;
-    }
-
-    renderEntity(foundEntity);
-
-  } catch (error) {
-    console.error("Entity load error:", error);
-    container.innerHTML = "<h2>Error loading entity</h2>";
+    database = await fetch(`data/${universeId}.json`)
+      .then(res => {
+        if (!res.ok) throw new Error("Universe file not found");
+        return res.json();
+      });
+  } catch (err) {
+    container.innerHTML = "<p style='color:white'>Data not found.</p>";
+    return;
   }
+
+  const entity = database.find(item => item.id === entityId);
+
+  if (!entity) {
+    container.innerHTML = "<p style='color:white'>Entity not found.</p>";
+    return;
+  }
+
+  renderEntity(entity);
 
 });
 
@@ -72,32 +41,28 @@ function renderEntity(entity) {
   const container = document.getElementById("entityContainer");
 
   container.innerHTML = `
-    <div class="entity-layout">
+    <div class="entity-container">
 
-      <!-- LEFT IMAGE -->
       <div class="entity-image">
-        <img src="${entity.heroImage}" alt="${entity.name}">
+        <img src="${entity.heroImage || entity.thumbnail || entity.image || ''}">
       </div>
 
-      <!-- RIGHT DETAILS -->
       <div class="entity-details">
 
         <h1>${entity.name}</h1>
 
-        <div class="entity-tags">
-          <span>${entity.category || "Unknown"}</span>
-          <span>Age: ${entity.age || "Unknown"}</span>
+        <div class="entity-meta">
+          ${entity.category ? `<div class="meta-box">${entity.category}</div>` : ""}
+          ${entity.age ? `<div class="meta-box">Age: ${entity.age}</div>` : ""}
         </div>
 
-        <!-- TAB BUTTONS -->
-        <div class="entity-tabs">
-          <button class="tab-btn active" data-tab="description">Description</button>
+        <div class="tab-buttons">
+          <button class="tab-btn active" data-tab="desc">Description</button>
           <button class="tab-btn" data-tab="powers">Powers</button>
           <button class="tab-btn" data-tab="extra">Extra</button>
         </div>
 
-        <!-- CONTENT AREA -->
-        <div class="entity-content" id="entityContent">
+        <div class="tab-content" id="tabContent">
           ${entity.description || "No description available."}
         </div>
 
@@ -113,7 +78,7 @@ function renderEntity(entity) {
 function setupTabs(entity) {
 
   const buttons = document.querySelectorAll(".tab-btn");
-  const content = document.getElementById("entityContent");
+  const content = document.getElementById("tabContent");
 
   buttons.forEach(btn => {
 
@@ -122,10 +87,10 @@ function setupTabs(entity) {
       buttons.forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
 
-      const tab = btn.dataset.tab;
+      const tab = btn.getAttribute("data-tab");
 
-      if (tab === "description") {
-        content.innerHTML = entity.description || "No description available.";
+      if (tab === "desc") {
+        content.innerHTML = entity.description || "No description.";
       }
 
       if (tab === "powers") {
