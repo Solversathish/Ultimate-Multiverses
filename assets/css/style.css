@@ -480,15 +480,6 @@ body::before {
   }
 }
 
-@media (max-width: 768px) {
-
-  .right-actions {
-    width: 100%;
-    justify-content: space-between;
-  }
-
-}
-
 /* ================= BREADCRUMBS ================= */
 
 .row-1 {
@@ -576,7 +567,7 @@ body::before {
   .right-actions {
     margin-right: auto;
     display: flex;
-    gap: 6px;
+    gap: 0px;
   }
 
 }
