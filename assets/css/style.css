@@ -563,7 +563,7 @@ body::before {
 
 @media (max-width: 768px) {
 
-  .row-3 {
+  .row row-3 {
     justify-content: space-between;
     align-items: center;
     flex-wrap: nowrap;
@@ -572,10 +572,6 @@ body::before {
 
   .entity-count {
     font-size: 14px;
-  }
-
-  .right-actions {
-    gap: 1px;
   }
 
   .row-3 .entity-count {
