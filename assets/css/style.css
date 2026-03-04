@@ -566,6 +566,7 @@ body::before {
   .row-3 {
     display: flex;
     align-items: center;
+    justify-content: space-between;
   }
 
   .entity-count {
@@ -588,9 +589,9 @@ body::before {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1200px;
+  max-width: 1150px;
   margin: 0 auto;
-  padding: 0px 16px;
+  padding: 0px 0px;
 }
 
 .home-title {
