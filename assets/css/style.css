@@ -586,12 +586,11 @@ body::before {
 /* HOME CONTROL BAR */
 
 .home-controls {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  max-width: 1150px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 0px 0px;
+  padding: 0 16px;
+  display: flex;
+  align-items: center;
 }
 
 .home-title {
