@@ -582,12 +582,15 @@ body::before {
 
 /* ================= HOME ROW ================= */
 
-.home-controlbar {
-  width: 100%;
+/* HOME CONTROL BAR */
+
+.home-controls {
   display: flex;
-  justify-content: space-between;   /* left + right */
+  justify-content: space-between;
   align-items: center;
-  padding: 10px 65px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0px 16px;
 }
 
 .home-title {
