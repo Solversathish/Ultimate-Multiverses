@@ -94,6 +94,11 @@ function renderEntity(entity) {
     contents["Career Stats"] = JSON.stringify(entity.stats, null, 2);
   }
 
+  if(entity.achievements){
+    tabs.push("Achievements");
+    contents["Achievements"] = entity.achievements.join("<br>");
+  }
+
   if(entity.nutrition){
     tabs.push("Nutrition");
     contents["Nutrition"] = JSON.stringify(entity.nutrition, null, 2);
