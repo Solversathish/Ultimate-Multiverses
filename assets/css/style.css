@@ -546,47 +546,8 @@ font-size:13px;
 display:block;
 }
 
-/* TABS */
 
-.entity-tabs {
-  width: 50%;
-  display: flex;
-  margin-top: 15px;
-}
 
-.entity-tabs button {
-  flex: 1;
-  padding: 10px;
-  border: 1px solid #00ff9c;
-  background: transparent;
-  color: white;
-  cursor: pointer;
-}
-
-.entity-tabs button.active {
-  background: #00ff9c;
-  color: black;
-}
-
-/* CONTENT */
-
-.entity-content {
-  border: 1px solid #00ff9c;
-  padding: 20px;
-  margin-top: -1px;
-  background: rgba(0,0,0,0.6);
-  color: white;
-  min-height: 200px;
-  width: 100%;
-}
-
-.tab-content{
-display:none;
-}
-
-.tab-content.active{
-display:block;
-}
 /* ================= BREADCRUMBS ================= */
 
 .row-1 {
