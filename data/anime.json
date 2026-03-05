@@ -9,6 +9,8 @@
   {
 "id":"naruto_uzumaki",
 "name":"Naruto Uzumaki",
+"type":"entity",
+"parent":"naruto",
 "heroImage":"assets/images/entities/naruto.png",
 
 "info":{
