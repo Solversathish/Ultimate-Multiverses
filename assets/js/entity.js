@@ -5,59 +5,107 @@ document.addEventListener("DOMContentLoaded", async () => {
   const breadcrumbs = document.getElementById("breadcrumbs");
 
   const params = new URLSearchParams(window.location.search);
-  const universeId = params.get("universe");
+  const universe = params.get("universe");
   const entityId = params.get("id");
 
-  if (!universeId || !entityId) {
-    container.innerHTML = "<p style='color:white'>Invalid entity.</p>";
+  if (!universe || !entityId) {
+    container.innerHTML = "Invalid entity";
     return;
   }
 
+  let entity = null;
+
   try {
 
-    const database = await fetch(`data/${universeId}.json`)
-      .then(res => res.json());
+    /* ================= FRUITS ================= */
 
-    const entity = database.find(item => item.id === entityId);
+    if (universe === "fruits") {
+
+      const data = await fetch(`data/fruits/fruits.json`)
+        .then(res => res.json());
+
+      entity = data.find(item => item.id === entityId);
+
+    }
+
+    /* ================= OTHER UNIVERSES ================= */
+
+    else {
+
+      const categories = await fetch(`data/${universe}/categories.json`)
+        .then(res => res.json());
+
+      for (let cat of categories) {
+
+        try {
+
+          const level1 = await fetch(`data/${universe}/${cat.id}.json`)
+            .then(res => res.json());
+
+          /* SEARCH ENTITY DIRECTLY */
+          entity = level1.find(item => item.id === entityId);
+          if (entity) break;
+
+          /* SEARCH LEVEL 2 FILES */
+          for (let sub of level1) {
+
+            if (sub.type !== "category") continue;
+
+            try {
+
+              const level2 = await fetch(`data/${universe}/${sub.id}.json`)
+                .then(res => res.json());
+
+              entity = level2.find(item => item.id === entityId);
+
+              if (entity) break;
+
+            } catch {}
+
+          }
+
+          if (entity) break;
+
+        } catch {}
+
+      }
+
+    }
 
     if (!entity) {
-      container.innerHTML = "<p style='color:white'>Entity not found.</p>";
+      container.innerHTML = "Entity not found";
       return;
     }
 
-    createBreadcrumbs(universeId, entity);
+    createBreadcrumbs(universe, entity);
     renderEntity(entity);
     renderGallery(entity);
 
   } catch (error) {
 
     console.error(error);
-    container.innerHTML = "<p style='color:white'>Error loading entity.</p>";
+    container.innerHTML = "Error loading entity";
 
   }
 
 });
 
 
-
 /* ================= BREADCRUMBS ================= */
 
-function createBreadcrumbs(universeId, entity){
+function createBreadcrumbs(universe, entity) {
 
   const breadcrumbs = document.getElementById("breadcrumbs");
 
-  if(!breadcrumbs) return;
-
   breadcrumbs.innerHTML = `
   <a href="home.html">Home</a> >
-  <a href="category.html?universe=${universeId}">
-  ${capitalize(universeId)}
+  <a href="category.html?universe=${universe}">
+  ${capitalize(universe)}
   </a> >
   <span>${entity.name}</span>
   `;
 
 }
-
 
 
 /* ================= ENTITY MAIN ================= */
@@ -89,65 +137,15 @@ function renderEntity(entity) {
     contents["Biography"] = entity.biography;
   }
 
-  if(entity.stats){
-
-  tabs.push("Career Stats");
-
-  let statsHTML = "";
-
-  Object.entries(entity.stats).forEach(([format,data]) => {
-
-    statsHTML += `<div class="stats-section"><strong>${format}</strong></div>`;
-
-    if(typeof data === "object"){
-
-      Object.entries(data).forEach(([key,value]) => {
-
-        statsHTML += `
-        <div class="info-row">
-          <div class="info-key">${key}</div>
-          <div class="info-value">${value}</div>
-        </div>
-        `;
-
-      });
-
-    } else {
-
-      statsHTML += `
-      <div class="info-row">
-        <div class="info-key">${format}</div>
-        <div class="info-value">${data}</div>
-      </div>
-      `;
-
-    }
-
-  });
-
-  contents["Career Stats"] = `
-  <div class="info-table">
-  ${statsHTML}
-  </div>
-  `;
-
-}
-
-  if(entity.achievements){
-    tabs.push("Achievements");
-    contents["Achievements"] = entity.achievements.join("<br>");
-  }
-
-  if(entity.nutrition){
-    tabs.push("Nutrition");
-    contents["Nutrition"] = JSON.stringify(entity.nutrition, null, 2);
-  }
-
   if(entity.benefits){
     tabs.push("Benefits");
     contents["Benefits"] = entity.benefits.join("<br>");
   }
 
+  if(entity.achievements){
+    tabs.push("Achievements");
+    contents["Achievements"] = entity.achievements.join("<br>");
+  }
 
   const tabButtons = tabs.map((tab,i)=>`
   <button class="tab-btn ${i===0?"active":""}" data-tab="${tab}">
@@ -190,7 +188,6 @@ function renderEntity(entity) {
 }
 
 
-
 /* ================= INFO TABLE ================= */
 
 function generateInfoTable(info){
@@ -215,7 +212,6 @@ function generateInfoTable(info){
   return html;
 
 }
-
 
 
 /* ================= GALLERY ================= */
@@ -247,7 +243,6 @@ function renderGallery(entity){
 }
 
 
-
 /* ================= TABS ================= */
 
 function setupTabs(contents){
@@ -271,7 +266,6 @@ function setupTabs(contents){
   });
 
 }
-
 
 
 /* ================= HELPER ================= */

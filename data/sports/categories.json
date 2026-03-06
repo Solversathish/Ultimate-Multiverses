@@ -1,9 +1,16 @@
 [
     {
-    "id": "cricket",
+    "id": "cricket_countries",
     "name": "Cricket",
     "type": "category",
     "parent": null,
     "image": "assets/images/sports/cricket.png"
+  },
+   {
+    "id": "football",
+    "name": "Football",
+    "type": "category",
+    "parent":null,
+    "image": "assets/images/worlds/football.png"
   }
 ]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cricket",
+    "name": "Cricket",
+    "type": "category",
+    "parent": null,
+    "image": "assets/images/sports/cricket.png"
+  },
+  {
+    "id": "india",
+    "name": "India",
+    "type": "category",
+    "parent": "cricket"
+  },
+  {
+  "id": "ms_dhoni",
+  "name": "MS Dhoni",
+  "type": "entity",
+  "parent": "india",
+  "thumbnail": "https://cdn.example.com/dhoni_thumb.jpg",
+  "heroImage": "https://cdn.example.com/dhoni_hero.jpg",
+
+  "info": {
+    "Full Name:": "Mahendra Singh Dhoni",
+    "Born:": "7 July 1981",
+    "Nationality:": "India",
+    "Role:": "Wicketkeeper-Batsman",
+    "Batting Style:": "Right-handed",
+    "Bowling Style:": "Right-arm medium",
+    "Teams:": "India, Chennai Super Kings",
+    "Captaincy:": "India (2007–2017)"
+  },
+
+  "biography": "Mahendra Singh Dhoni is a former Indian cricketer and captain of the Indian national team. Known for his calm leadership and finishing ability, he led India to victory in the 2007 ICC T20 World Cup, the 2011 Cricket World Cup, and the 2013 ICC Champions Trophy.",
+
+  "stats": {
+    "Tests": {
+      "Matches": "90",
+      "Runs": "4876",
+      "Average": "38.09"
+    },
+    "ODI": {
+      "Matches": "350",
+      "Runs": "10773",
+      "Average": "50.57"
+    },
+    "T20I": {
+      "Matches": "98",
+      "Runs": "1617",
+      "Average": "37.60"
+    },
+    "IPL": {
+      "Matches": "250+",
+      "Runs": "5000+"
+    }
+  },
+
+  "achievements": [
+    "2011 ICC Cricket World Cup Winner",
+    "2007 ICC T20 World Cup Winner",
+    "2013 ICC Champions Trophy Winner",
+    "5× IPL Champion with Chennai Super Kings",
+    "ICC ODI Player of the Year (2008, 2009)"
+  ],
+
+  "gallery": [
+    "https://cdn.example.com/dhoni1.jpg",
+    "https://cdn.example.com/dhoni2.jpg",
+    "https://cdn.example.com/dhoni3.jpg"
+  ]
+}
+]

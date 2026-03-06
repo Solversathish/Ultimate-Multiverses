@@ -1,8 +1,17 @@
 [
     {
-    "id": "india",
+    "id": "cricket_india",
     "name": "India",
     "type": "category",
-    "parent": "cricket"
+    "parent": "cricket",
+    "image": "assets/images/countries/india.png"
+  },
+  {
+    "id": "cricket_australia",
+    "name": "Australia",
+    "type": "category",
+    "parent":"cricket",
+    "image": "assets/images/countries/australia.png"
   }
+
 ]
