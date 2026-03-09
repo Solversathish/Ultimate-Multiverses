@@ -1,0 +1,44 @@
+{
+  "anime": {
+    "id": "anime",
+    "name": "Anime",
+    "heroImage": "assets/images/universes/anime.png",
+
+    "info": {
+      "Origin": "Japan",
+      "Industry": "Animation",
+      "First Era": "1917",
+      "Global Popularity": "Very High"
+    },
+
+    "description": "Anime is a style of animation that originated in Japan and has become popular worldwide.",
+
+    "extra": "Famous anime series include Naruto, One Piece, Dragon Ball, Attack on Titan.",
+
+    "gallery": [
+      "assets/images/universes/anime1.jpg",
+      "assets/images/universes/anime2.jpg"
+    ]
+  },
+
+  "sports": {
+    "id": "sports",
+    "name": "Sports",
+    "heroImage": "assets/images/universes/sports.png",
+
+    "info": {
+      "Type": "Physical Activity",
+      "Purpose": "Competition",
+      "Participants": "Individuals / Teams"
+    },
+
+    "description": "Sports are competitive physical activities that require skill and physical effort.",
+
+    "extra": "Examples include Cricket, Football, Basketball, Tennis.",
+
+    "gallery": [
+        "assets/images/universes/anime1.jpg",
+      "assets/images/universes/anime2.jpg"
+    ]
+  }
+}

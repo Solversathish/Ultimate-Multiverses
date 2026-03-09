@@ -1,0 +1,15 @@
+{
+  "cricket_india": {
+    "id": "cricket_india",
+    "name": "India Cricket Team",
+
+    "heroImage": "assets/images/teams/india.png",
+
+    "info": {
+      "Captain": "Rohit Sharma",
+      "Board": "BCCI"
+    },
+
+    "description": "India is one of the strongest cricket teams in the world."
+  }
+}

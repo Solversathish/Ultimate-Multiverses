@@ -1,0 +1,31 @@
+{
+  "naruto": {
+    "id": "naruto",
+    "name": "Naruto",
+
+    "heroImage": "assets/images/worlds/naruto.png",
+
+    "info": {
+      "Creator": "Masashi Kishimoto",
+      "First Release": "1999"
+    },
+
+    "description": "Naruto is a popular anime and manga series.",
+
+    "extra": "One of the best selling manga."
+  },
+
+  "cricket": {
+    "id": "cricket",
+    "name": "Cricket",
+
+    "heroImage": "assets/images/worlds/cricket.png",
+
+    "info": {
+      "Origin": "England",
+      "Players": "11 per team"
+    },
+
+    "description": "Cricket is one of the most popular sports."
+  }
+}
