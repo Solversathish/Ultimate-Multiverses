@@ -5,8 +5,10 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   const modal = document.getElementById("universeModal");
   const modalTitle = document.getElementById("modalTitle");
+
   const aboutBtn = document.getElementById("aboutBtn");
   const listBtn = document.getElementById("listBtn");
+
   const closeBtn = document.querySelector(".modal-close");
 
   let currentUniverse = "";
@@ -27,46 +29,50 @@ document.addEventListener("DOMContentLoaded", async () => {
   let currentPage = 1;
   const itemsPerPage = 60;
 
-  // OPEN POPUP
-  function openUniverseModal(universe){
 
-    currentUniverse = universe;
+  /* ================= POPUP OPEN ================= */
 
-    modalTitle.textContent =
-      universe.charAt(0).toUpperCase() + universe.slice(1);
+  function openUniverseModal(universeId, universeName){
+
+    currentUniverse = universeId;
+
+    modalTitle.textContent = universeName;
 
     modal.style.display = "flex";
 
   }
 
-  // CLOSE BUTTON
-  closeBtn.addEventListener("click", () => {
-    modal.style.display = "none";
-  });
 
-  // CLICK OUTSIDE MODAL
-  window.addEventListener("click", (e) => {
+  /* ================= POPUP CLOSE ================= */
+
+  closeBtn.onclick = () => modal.style.display = "none";
+
+  window.onclick = (e)=>{
     if(e.target === modal){
       modal.style.display = "none";
     }
-  });
+  }
 
-  // ABOUT BUTTON
-  aboutBtn.addEventListener("click", () => {
 
-    window.location.href =
-      `entity.html?universe=${currentUniverse}&id=${currentUniverse}`;
+  /* ================= BUTTON ACTIONS ================= */
 
-  });
-
-  // LIST BUTTON
-  listBtn.addEventListener("click", () => {
+  aboutBtn.onclick = ()=>{
 
     window.location.href =
-      `category.html?universe=${currentUniverse}`;
+    `entity.html?universe=${currentUniverse}&id=${currentUniverse}`;
 
-  });
+  }
 
+  listBtn.onclick = ()=>{
+
+    window.location.href =
+    `category.html?universe=${currentUniverse}`;
+
+  }
+
+
+
+  /* ================= RENDER UNIVERSES ================= */
 
   function renderPage() {
 
@@ -89,10 +95,11 @@ document.addEventListener("DOMContentLoaded", async () => {
         <div class="card-title">${item.name}</div>
       `;
 
-      // 👇 THIS OPENS POPUP
+      /* OPEN POPUP */
+
       card.addEventListener("click", () => {
 
-        openUniverseModal(item.id);
+        openUniverseModal(item.id, item.name);
 
       });
 
@@ -103,9 +110,13 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
 
+
+  /* ================= PAGINATION ================= */
+
   function createPagination() {
 
     const pagination = document.getElementById("pagination");
+
     pagination.innerHTML = "";
 
     const totalPages =
@@ -114,6 +125,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     for (let i = 1; i <= totalPages; i++) {
 
       const btn = document.createElement("button");
+
       btn.textContent = i;
 
       if (i === currentPage)
@@ -122,6 +134,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       btn.addEventListener("click", () => {
 
         currentPage = i;
+
         renderPage();
         createPagination();
 
@@ -138,6 +151,9 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   }
 
+
+
+  /* ================= INIT ================= */
 
   renderPage();
   createPagination();
