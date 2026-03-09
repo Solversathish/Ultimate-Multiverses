@@ -3,6 +3,14 @@ document.addEventListener("DOMContentLoaded", async () => {
   const container = document.getElementById("homeContainer");
   const countElement = document.getElementById("homeCount");
 
+  const modal = document.getElementById("universeModal");
+  const modalTitle = document.getElementById("modalTitle");
+  const aboutBtn = document.getElementById("aboutBtn");
+  const listBtn = document.getElementById("listBtn");
+  const closeBtn = document.querySelector(".modal-close");
+
+  let currentUniverse = "";
+
   let universes = [];
 
   try {
@@ -18,6 +26,47 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   let currentPage = 1;
   const itemsPerPage = 60;
+
+  // OPEN POPUP
+  function openUniverseModal(universe){
+
+    currentUniverse = universe;
+
+    modalTitle.textContent =
+      universe.charAt(0).toUpperCase() + universe.slice(1);
+
+    modal.style.display = "flex";
+
+  }
+
+  // CLOSE BUTTON
+  closeBtn.addEventListener("click", () => {
+    modal.style.display = "none";
+  });
+
+  // CLICK OUTSIDE MODAL
+  window.addEventListener("click", (e) => {
+    if(e.target === modal){
+      modal.style.display = "none";
+    }
+  });
+
+  // ABOUT BUTTON
+  aboutBtn.addEventListener("click", () => {
+
+    window.location.href =
+      `entity.html?universe=${currentUniverse}&id=${currentUniverse}`;
+
+  });
+
+  // LIST BUTTON
+  listBtn.addEventListener("click", () => {
+
+    window.location.href =
+      `category.html?universe=${currentUniverse}`;
+
+  });
+
 
   function renderPage() {
 
@@ -40,10 +89,10 @@ document.addEventListener("DOMContentLoaded", async () => {
         <div class="card-title">${item.name}</div>
       `;
 
+      // 👇 THIS OPENS POPUP
       card.addEventListener("click", () => {
 
-        window.location.href =
-          `category.html?universe=${item.id}`;
+        openUniverseModal(item.id);
 
       });
 
@@ -52,6 +101,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
 
   }
+
 
   function createPagination() {
 
@@ -88,6 +138,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   }
 
+
   renderPage();
   createPagination();
 
@@ -95,46 +146,3 @@ document.addEventListener("DOMContentLoaded", async () => {
     countElement.textContent = `${universes.length} items`;
 
 });
-
-const modal = document.getElementById("universeModal");
-const modalTitle = document.getElementById("modalTitle");
-
-const aboutBtn = document.getElementById("aboutBtn");
-const listBtn = document.getElementById("listBtn");
-
-const closeBtn = document.querySelector(".modal-close");
-
-let currentUniverse = "";
-
-
-/* OPEN MODAL */
-
-function openUniverseModal(universe){
-
-currentUniverse = universe;
-
-modalTitle.textContent = universe;
-
-modal.style.display = "flex";
-
-}
-
-
-/* CLOSE */
-
-closeBtn.onclick = () => modal.style.display = "none";
-
-window.onclick = (e)=>{
-if(e.target === modal) modal.style.display="none";
-}
-
-
-/* BUTTON ACTIONS */
-
-aboutBtn.onclick = ()=>{
-window.location.href = `entity.html?universe=${currentUniverse}&id=${currentUniverse}`;
-}
-
-listBtn.onclick = ()=>{
-window.location.href = `category.html?universe=${currentUniverse}`;
-}
