@@ -122,7 +122,7 @@ else{
 
       card.innerHTML = `
       <div class="image-wrapper">
-        <img src="${getCDNImage(item.id,"thumb")}">
+        <img src="${getCDNImage(item.id,"thumb")}" loading="lazy">
       </div>
       <div class="card-title">${item.name}</div>
       `;

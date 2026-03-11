@@ -196,7 +196,7 @@ function renderEntity(entity){
   <div class="entity-main">
 
     <div class="entity-hero">
-      <img src="${getCDNImage(entity.id,"hero")}">
+      <img src="${getCDNImage(entity.id,"hero")}" loading="lazy">
     </div>
 
     <div class="entity-details">
@@ -261,7 +261,7 @@ function renderGallery(entity){
 
   <div class="gallery-grid">
 
-  ${entity.gallery.map(img=>`<img src="${img}">`).join("")}
+  ${entity.gallery.map(img=>`<img src="${img}" loading="lazy">`).join("")}
 
   </div>
 
