@@ -6,13 +6,13 @@
     "parent": null
   },
   {
-    "id": "onepiece",
+    "id": "one_piece",
     "name": "One Piece",
     "type": "category",
     "parent": null
   },
   {
-    "id": "dragonball",
+    "id": "dragon_ball",
     "name": "Dragon Ball",
     "type": "category",
     "parent": null

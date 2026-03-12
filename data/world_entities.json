@@ -2,30 +2,65 @@
   "naruto": {
     "id": "naruto",
     "name": "Naruto",
-
-    "heroImage": "assets/images/worlds/naruto.png",
-
+    "type": "category",
+    "path": "naruto",
     "info": {
       "Creator": "Masashi Kishimoto",
-      "First Release": "1999"
+      "Studio": "Studio Pierrot",
+      "Episodes": "720"
     },
-
-    "description": "Naruto is a popular anime and manga series.",
-
-    "extra": "One of the best selling manga."
+    "description": "Naruto is a ninja anime following Naruto Uzumaki who dreams of becoming the Hokage of the Hidden Leaf Village."
   },
 
-  "cricket_countries": {
-    "id": "cricket_countries",
-    "name": "Cricket",
-
-    "heroImage": "assets/images/worlds/cricket.png",
-
+  "one_piece": {
+    "id": "one_piece",
+    "name": "One Piece",
+    "type": "category",
+    "path": "one_piece",
     "info": {
-      "Origin": "England",
-      "Players": "11 per team"
+      "Creator": "Eiichiro Oda",
+      "Studio": "Toei Animation",
+      "Episodes": "1000+"
     },
+    "description": "One Piece follows Monkey D. Luffy and his pirate crew searching for the legendary treasure called One Piece."
+  },
 
-    "description": "Cricket is one of the most popular sports."
+  "jujutsu_kaisen": {
+    "id": "jujutsu_kaisen",
+    "name": "Jujutsu Kaisen",
+    "type": "category",
+    "path": "jujutsu_kaisen",
+    "info": {
+      "Creator": "Gege Akutami",
+      "Studio": "MAPPA",
+      "Genre": "Dark Fantasy"
+    },
+    "description": "Jujutsu Kaisen follows Yuji Itadori as he enters the world of cursed spirits and jujutsu sorcerers."
+  },
+
+  "dragon_ball": {
+    "id": "dragon_ball",
+    "name": "Dragon Ball",
+    "type": "category",
+    "path": "dragon_ball",
+    "info": {
+      "Creator": "Akira Toriyama",
+      "Studio": "Toei Animation",
+      "Genre": "Action"
+    },
+    "description": "Dragon Ball follows the adventures of Goku and his friends protecting Earth from powerful enemies."
+  },
+
+  "bleach": {
+    "id": "bleach",
+    "name": "Bleach",
+    "type": "category",
+    "path": "bleach",
+    "info": {
+      "Creator": "Tite Kubo",
+      "Studio": "Pierrot",
+      "Genre": "Supernatural Action"
+    },
+    "description": "Bleach follows Ichigo Kurosaki, a teenager who gains the powers of a Soul Reaper and protects humans from evil spirits called Hollows."
   }
 }

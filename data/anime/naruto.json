@@ -1,27 +1,59 @@
 [
-{
-"id":"naruto_uzumaki",
-"name":"Naruto Uzumaki",
-"type":"entity",
-"parent":"naruto",
-"heroImage":"assets/images/entities/naruto.png",
+  {
+    "id": "naruto_uzumaki",
+    "name": "Naruto Uzumaki",
+    "type": "entity",
+    "info": {
+      "Village": "Hidden Leaf Village",
+      "Rank": "Hokage",
+      "Clan": "Uzumaki"
+    },
+    "description": "Naruto Uzumaki is the main protagonist of the Naruto series who dreams of becoming the Hokage."
+  },
 
-"info":{
-"Village:":"Hidden Leaf",
-"Rank:":"Hokage",
-"Age:":"33"
-},
+  {
+    "id": "sasuke_uchiha",
+    "name": "Sasuke Uchiha",
+    "type": "entity",
+    "info": {
+      "Village": "Hidden Leaf Village",
+      "Clan": "Uchiha",
+      "Team": "Team 7"
+    },
+    "description": "Sasuke Uchiha is Naruto's rival and one of the last surviving members of the powerful Uchiha clan."
+  },
 
-"description":"Seventh Hokage",
+  {
+    "id": "kakashi_hatake",
+    "name": "Kakashi Hatake",
+    "type": "entity",
+    "info": {
+      "Village": "Hidden Leaf Village",
+      "Rank": "Hokage",
+      "Team": "Team 7"
+    },
+    "description": "Kakashi Hatake is a legendary ninja and the leader of Team 7."
+  },
 
-"powers":"Rasengan, Sage Mode",
+  {
+    "id": "sakura_haruno",
+    "name": "Sakura Haruno",
+    "type": "entity",
+    "info": {
+      "Village": "Hidden Leaf Village",
+      "Rank": "Medical Ninja"
+    },
+    "description": "Sakura Haruno is a powerful medical ninja and one of Naruto's closest teammates."
+  },
 
-"extra":"Member of Team 7",
-
-"gallery":[
-"assets/images/entities/naruto1.png",
-"assets/images/entities/naruto2.png",
-"assets/images/entities/naruto3.png"
-]
-}
+  {
+    "id": "itachi_uchiha",
+    "name": "Itachi Uchiha",
+    "type": "entity",
+    "info": {
+      "Clan": "Uchiha",
+      "Affiliation": "Akatsuki"
+    },
+    "description": "Itachi Uchiha is a genius ninja known for his powerful Sharingan abilities."
+  }
 ]

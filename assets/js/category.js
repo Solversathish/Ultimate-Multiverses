@@ -139,7 +139,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
       card.innerHTML = `
       <div class="image-wrapper">
-        <img src="${getCDNImage(item.id,"thumb")}" loading="lazy">
+        <img src="${getCDNImage(item.id,"thumb", universe)}" loading="lazy">
       </div>
       <div class="card-title">${item.name}</div>
       `;
