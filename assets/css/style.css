@@ -319,7 +319,7 @@ body::before {
   .main-header{
     flex-direction:column;
     align-items:flex-start;
-    gap:15px;
+    gap:10px;
   }
 
   .search-box{
