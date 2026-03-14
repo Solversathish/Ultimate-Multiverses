@@ -1,0 +1,151 @@
+[
+{
+"id":"naruto_uzumaki",
+"name":"Naruto Uzumaki",
+"type":"entity",
+"parent":"naruto",
+
+"info":{
+"village":"Hidden Leaf",
+"rank":"Hokage",
+"team":"Team 7"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Naruto Uzumaki is the main protagonist of the Naruto series. He dreams of becoming Hokage and protecting his village."
+},
+"tab2":{
+"title":"Abilities",
+"content":"Naruto possesses immense chakra, Shadow Clone Jutsu, Rasengan, Sage Mode and the power of the Nine Tails."
+},
+"tab3":{
+"title":"Facts",
+"content":"Naruto eventually becomes the Seventh Hokage of the Hidden Leaf Village."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"sasuke_uchiha",
+"name":"Sasuke Uchiha",
+"type":"entity",
+"parent":"naruto",
+
+"info":{
+"clan":"Uchiha",
+"rank":"Rogue Ninja",
+"abilities":"Sharingan"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Sasuke Uchiha is Naruto's rival and one of the last surviving members of the Uchiha clan."
+},
+"tab2":{
+"title":"Abilities",
+"content":"Sasuke uses Sharingan, Rinnegan, lightning techniques and powerful sword combat."
+},
+"tab3":{
+"title":"Facts",
+"content":"Sasuke seeks revenge for his clan and later helps protect the world."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"sakura_haruno",
+"name":"Sakura Haruno",
+"type":"entity",
+"parent":"naruto",
+
+"info":{
+"village":"Hidden Leaf",
+"team":"Team 7",
+"specialty":"Medical Ninja"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Sakura Haruno is a skilled medical ninja and one of Naruto's closest teammates."
+},
+"tab2":{
+"title":"Abilities",
+"content":"She has incredible chakra control and powerful super strength."
+},
+"tab3":{
+"title":"Facts",
+"content":"Sakura becomes one of the strongest medical ninjas in the series."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"kakashi_hatake",
+"name":"Kakashi Hatake",
+"type":"entity",
+"parent":"naruto",
+
+"info":{
+"title":"Copy Ninja",
+"rank":"Hokage",
+"team":"Team 7 leader"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Kakashi Hatake is the teacher of Team 7 and one of the most skilled ninjas in the Hidden Leaf Village."
+},
+"tab2":{
+"title":"Abilities",
+"content":"Kakashi uses Sharingan, lightning blade techniques and strategic combat skills."
+},
+"tab3":{
+"title":"Facts",
+"content":"Kakashi later becomes the Sixth Hokage."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"itachi_uchiha",
+"name":"Itachi Uchiha",
+"type":"entity",
+"parent":"naruto",
+
+"info":{
+"clan":"Uchiha",
+"organization":"Akatsuki",
+"rank":"Elite Ninja"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Itachi Uchiha is one of the most powerful and mysterious characters in Naruto."
+},
+"tab2":{
+"title":"Abilities",
+"content":"He possesses Mangekyo Sharingan and powerful genjutsu techniques."
+},
+"tab3":{
+"title":"Facts",
+"content":"Itachi sacrificed everything to protect his village and his younger brother Sasuke."
+}
+},
+
+"gallery_count":5
+}
+]
