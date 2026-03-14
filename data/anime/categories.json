@@ -1,0 +1,151 @@
+[
+{
+"id":"naruto",
+"name":"Naruto",
+"type":"category",
+"parent":"anime",
+
+"info":{
+"author":"Masashi Kishimoto",
+"studio":"Studio Pierrot",
+"episodes":"720"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Naruto is a famous Japanese anime series that follows the journey of Naruto Uzumaki, a young ninja who dreams of becoming the Hokage."
+},
+"tab2":{
+"title":"Story",
+"content":"The story focuses on ninja battles, friendships, rivalries and the struggle to gain recognition and protect the village."
+},
+"tab3":{
+"title":"Facts",
+"content":"Naruto became one of the most successful anime series worldwide and inspired multiple movies and spin-offs."
+}
+},
+
+"gallery_count":4
+},
+
+{
+"id":"one_piece",
+"name":"One Piece",
+"type":"category",
+"parent":"anime",
+
+"info":{
+"author":"Eiichiro Oda",
+"studio":"Toei Animation",
+"episodes":"1000+"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"One Piece follows Monkey D. Luffy and his pirate crew searching for the legendary treasure called One Piece."
+},
+"tab2":{
+"title":"Story",
+"content":"The anime explores adventure across seas, powerful pirates, mysterious islands and legendary treasures."
+},
+"tab3":{
+"title":"Facts",
+"content":"One Piece is the best-selling manga series in history."
+}
+},
+
+"gallery_count":4
+},
+
+{
+"id":"bleach",
+"name":"Bleach",
+"type":"category",
+"parent":"anime",
+
+"info":{
+"author":"Tite Kubo",
+"studio":"Pierrot",
+"episodes":"366"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Bleach follows Ichigo Kurosaki who gains the powers of a Soul Reaper and protects humans from evil spirits."
+},
+"tab2":{
+"title":"Story",
+"content":"The story explores the spiritual world, Soul Society, and battles between Soul Reapers and Hollows."
+},
+"tab3":{
+"title":"Facts",
+"content":"Bleach is part of the famous anime 'Big Three' alongside Naruto and One Piece."
+}
+},
+
+"gallery_count":4
+},
+
+{
+"id":"dragon_ball",
+"name":"Dragon Ball",
+"type":"category",
+"parent":"anime",
+
+"info":{
+"author":"Akira Toriyama",
+"studio":"Toei Animation",
+"first_release":"1986"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Dragon Ball follows the adventures of Goku as he trains in martial arts and defends Earth from powerful enemies."
+},
+"tab2":{
+"title":"Powers",
+"content":"The series is known for powerful transformations such as Super Saiyan and intense battles."
+},
+"tab3":{
+"title":"Facts",
+"content":"Dragon Ball influenced many modern anime series."
+}
+},
+
+"gallery_count":4
+},
+
+{
+"id":"attack_on_titan",
+"name":"Attack on Titan",
+"type":"category",
+"parent":"anime",
+
+"info":{
+"author":"Hajime Isayama",
+"studio":"MAPPA",
+"episodes":"87"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Attack on Titan follows humanity's struggle against gigantic creatures known as Titans."
+},
+"tab2":{
+"title":"Story",
+"content":"The anime reveals deep political secrets, warfare and the mystery of Titan powers."
+},
+"tab3":{
+"title":"Facts",
+"content":"Attack on Titan became one of the most critically acclaimed anime of the decade."
+}
+},
+
+"gallery_count":4
+}
+]
