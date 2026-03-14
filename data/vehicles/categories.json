@@ -1,0 +1,151 @@
+[
+{
+"id":"cars",
+"name":"Cars",
+"type":"category",
+"parent":"vehicles",
+
+"info":{
+"vehicle_type":"Land Vehicle",
+"primary_use":"Personal Transport",
+"wheels":"4"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Cars are one of the most common personal transportation vehicles used worldwide. They are designed to carry passengers comfortably on roads and highways."
+},
+"tab2":{
+"title":"History",
+"content":"The first modern automobile was developed in the late 19th century by Karl Benz. Since then cars have evolved dramatically with improvements in safety, performance and technology."
+},
+"tab3":{
+"title":"Facts",
+"content":"Modern cars include electric vehicles, hybrid cars and self-driving technologies. Brands like Toyota, Tesla, BMW and Mercedes-Benz dominate the global market."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"bikes",
+"name":"Motorcycles",
+"type":"category",
+"parent":"vehicles",
+
+"info":{
+"vehicle_type":"Two Wheeler",
+"primary_use":"Personal Transport",
+"wheels":"2"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Motorcycles are two-wheeled motor vehicles designed for speed, agility and efficiency. They are widely used for commuting, racing and long-distance travel."
+},
+"tab2":{
+"title":"History",
+"content":"Motorcycles were developed in the late 1800s shortly after the invention of the automobile. Over time they evolved into multiple categories such as sport bikes, cruisers and touring bikes."
+},
+"tab3":{
+"title":"Facts",
+"content":"Some of the most famous motorcycle brands include Yamaha, Honda, Ducati, Kawasaki and Harley-Davidson."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"aircraft",
+"name":"Aircraft",
+"type":"category",
+"parent":"vehicles",
+
+"info":{
+"vehicle_type":"Air Vehicle",
+"primary_use":"Air Transport",
+"engine_type":"Jet / Propeller"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Aircraft are vehicles designed to travel through the air. They include airplanes, helicopters, fighter jets and cargo aircraft."
+},
+"tab2":{
+"title":"History",
+"content":"The first successful powered flight was achieved by the Wright Brothers in 1903. Since then aviation technology has advanced rapidly."
+},
+"tab3":{
+"title":"Facts",
+"content":"Modern aircraft can travel faster than the speed of sound and carry hundreds of passengers across continents."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"ships",
+"name":"Ships",
+"type":"category",
+"parent":"vehicles",
+
+"info":{
+"vehicle_type":"Water Vehicle",
+"primary_use":"Sea Transport",
+"power_source":"Diesel / Nuclear"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Ships are large water vessels designed for transporting goods and passengers across seas and oceans."
+},
+"tab2":{
+"title":"History",
+"content":"Ships have been used for thousands of years for exploration, trade and naval warfare."
+},
+"tab3":{
+"title":"Facts",
+"content":"Some ships such as aircraft carriers are among the largest and most powerful vehicles ever built."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"other_vehicles",
+"name":"Other Vehicles",
+"type":"category",
+"parent":"vehicles",
+
+"info":{
+"vehicle_type":"Mixed Vehicles",
+"primary_use":"Specialized Transport",
+"examples":"Bullock Cart, Rickshaw, Snowmobile"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Other vehicles include special transportation machines that do not fit into standard categories like cars or aircraft."
+},
+"tab2":{
+"title":"Usage",
+"content":"These vehicles are used for unique purposes such as rural transportation, snow travel or tourism."
+},
+"tab3":{
+"title":"Facts",
+"content":"Examples include bullock carts, horse carriages, rickshaws, snowmobiles and hoverboards."
+}
+},
+
+"gallery_count":5
+}
+]
