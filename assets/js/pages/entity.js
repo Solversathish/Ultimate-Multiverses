@@ -22,26 +22,20 @@ try{
 
 let file;
 
-/* ================= DETERMINE FILE ================= */
+/* DETERMINE FILE */
 
 if(universe === "fruits"){
-
 file="fruits";
-
 }
 else if(path){
-
 const levels = path.split(",");
 file = levels[levels.length-1];
-
 }
 else{
-
 file="categories";
-
 }
 
-/* ================= LOAD DATA ================= */
+/* LOAD DATA */
 
 const data = await fetch(`data/${universe}/${file}.json`)
 .then(r=>r.json());
@@ -58,31 +52,26 @@ container.innerHTML="Entity not found";
 return;
 }
 
-
-/* ================= BREADCRUMBS ================= */
+/* BREADCRUMBS */
 
 createBreadcrumbs(universe,path,entity);
 
-
-/* ================= RENDER ENTITY ================= */
+/* ENTITY CONTENT */
 
 renderEntity(entity,universe,path);
 
-
-/* ================= NAVIGATION ================= */
+/* NAVIGATION */
 
 renderNavigation(list,id,universe,path);
 
-
-/* ================= GALLERY ================= */
+/* GALLERY */
 
 renderGallery(entity);
 
 });
 
 
-
-/* ================= BREADCRUMBS ================= */
+/* BREADCRUMBS */
 
 function createBreadcrumbs(universe,path,entity){
 
@@ -119,7 +108,7 @@ breadcrumbs.innerHTML = html;
 
 
 
-/* ================= ENTITY PAGE ================= */
+/* ENTITY PAGE */
 
 function renderEntity(entity,universe,path){
 
@@ -157,7 +146,7 @@ window.scrollTo({top:0,behavior:"smooth"});
 
 
 
-/* ================= NAVIGATION ================= */
+/* NAVIGATION */
 
 function renderNavigation(list,id,universe,path){
 
@@ -172,7 +161,11 @@ const next = list[index+1];
 
 function buildURL(item){
 
+if(path){
 return `entity.html?universe=${universe}&path=${path}&id=${item.id}`;
+}
+
+return `entity.html?universe=${universe}&id=${item.id}`;
 
 }
 
@@ -200,7 +193,7 @@ ${next.name} →
 
 
 
-/* ================= TABS ================= */
+/* TABS */
 
 function generateTabs(entity){
 
@@ -210,9 +203,17 @@ return `
 
 <div class="tabs">
 
-<button onclick="showTab('tab1')">${entity.tabs.tab1.title}</button>
-<button onclick="showTab('tab2')">${entity.tabs.tab2.title}</button>
-<button onclick="showTab('tab3')">${entity.tabs.tab3.title}</button>
+<button class="active" onclick="showTab(event,'tab1')">
+${entity.tabs.tab1.title}
+</button>
+
+<button onclick="showTab(event,'tab2')">
+${entity.tabs.tab2.title}
+</button>
+
+<button onclick="showTab(event,'tab3')">
+${entity.tabs.tab3.title}
+</button>
 
 </div>
 
@@ -232,18 +233,23 @@ ${entity.tabs.tab3.content}
 
 }
 
-function showTab(id){
+function showTab(event,id){
 
 document.querySelectorAll(".tab-content")
 .forEach(t=>t.style.display="none");
 
+document.querySelectorAll(".tabs button")
+.forEach(btn=>btn.classList.remove("active"));
+
 document.getElementById(id).style.display="block";
+
+event.target.classList.add("active");
 
 }
 
 
 
-/* ================= INFO TABLE ================= */
+/* INFO TABLE */
 
 function generateInfoTable(info){
 
@@ -270,7 +276,7 @@ return html;
 
 
 
-/* ================= GALLERY ================= */
+/* GALLERY */
 
 function renderGallery(entity){
 
@@ -283,7 +289,7 @@ let images="";
 for(let i=1;i<=entity.gallery_count;i++){
 
 images += `
-<img src="${getCDNImage(entity.id,"gallery",entity.parent)}g${i}.png">
+<img src="${getCDNImage(entity.id,"gallery",entity.parent)}g${i}.png" loading="lazy">
 `;
 
 }
@@ -308,7 +314,7 @@ ${images}
 
 
 
-/* ================= HELPERS ================= */
+/* HELPERS */
 
 function formatName(str){
 

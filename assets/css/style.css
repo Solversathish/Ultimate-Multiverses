@@ -671,7 +671,7 @@ display:block;
   margin:auto;
   display:flex;
   gap:40px;
-  padding:30px 20px;
+  padding:30px 20px 0px 20px;
 }
 
 /* HERO IMAGE */
@@ -730,66 +730,51 @@ display:block;
   padding:8px;
 }
 
-/* TABS */
-
 /* ================= TABS ================= */
 
 .tabs{
-display:flex;
-gap:10px;
-margin-top:10px;
-margin-bottom:10px;
+  display:flex;
+  margin-top:15px;
+  margin-bottom:-1px;
 }
+
+/* TAB BUTTON */
 
 .tabs button{
-
-background:#111;
-color:#fff;
-
-border:1px solid #00ff9c;
-border-radius:6px;
-
-padding:6px 14px;
-
-cursor:pointer;
-transition:0.3s;
-
+  flex:1;
+  padding:8px;
+  border:1px solid #00ff9c;
+  border-bottom:none;
+  background:#000000;
+  color:#ffffff;
+  cursor:pointer;
+  font-size:16px;
+  transition:0.3s;
 }
 
-.tabs button:hover{
-background:#00ff9c;
-color:#000;
+/* ACTIVE TAB */
+
+.tabs button.active{
+  background:#00ff9c;
+  color:black;
+  font-weight:bold;
 }
-
-/* tab content */
-
-.tab-content{
-
-border:1px solid #00ff9c;
-padding:15px;
-border-radius:6px;
-
-margin-top:10px;
-
-}
-
-
 
 /* TAB CONTENT */
 
 .tab-content{
   border:1px solid #00ff9c;
-  padding:20px;
+  padding:15px;
   min-height:200px;
-  margin-top:-1px;
-  color:white;
-  background:rgba(0,0,0,0.4);
+  background:rgba(0,0,0,0.5);
 }
 
 .gallery-container{
   max-width:1200px;
   margin:auto;
-  padding:30px 20px;
+  padding:30px 20px 100px 20px;
+  align-items: center;
+  justify-content: center;
 }
 
 .gallery-grid{
@@ -910,22 +895,36 @@ cursor:pointer;
 
 /* ================= ENTITY NAVIGATION ================= */
 
+/* ================= ENTITY NAVIGATION ================= */
+
 .entity-navigation{
 
-position:sticky;
+position:fixed;
 bottom:0;
+left:0;
+width:100%;
 
 display:flex;
 justify-content:space-between;
 align-items:center;
 
 background:#000;
-padding:12px 20px;
+padding:14px 25px;
 
 border-top:1px solid #00ff9c;
 
 z-index:999;
 
+}
+
+/* center container */
+.entity-navigation-inner{
+max-width:1200px;
+margin:auto;
+width:100%;
+
+display:flex;
+justify-content:space-between;
 }
 
 /* navigation buttons */
