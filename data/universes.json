@@ -3,149 +3,34 @@
 "id":"anime",
 "name":"Anime",
 "type":"category",
-"parent":null,
-
-"info":{
-"origin":"Japan",
-"industry":"Animation",
-"popularity":"Global"
-},
-
-"tabs":{
-"tab1":{
-"title":"Description",
-"content":"Anime is a Japanese animation style known for colorful characters and imaginative storytelling."
-},
-"tab2":{
-"title":"Characteristics",
-"content":"Anime often includes fantasy worlds, powerful characters, dramatic battles and emotional storytelling."
-},
-"tab3":{
-"title":"Facts",
-"content":"Popular anime include Naruto, One Piece, Dragon Ball and Attack on Titan."
-}
-},
-
-"gallery_count":3
+"parent":null
 },
 
 {
 "id":"sports",
 "name":"Sports",
 "type":"category",
-"parent":null,
-
-"info":{
-"type":"Physical Activity",
-"competition":"Global",
-"events":"Olympics"
-},
-
-"tabs":{
-"tab1":{
-"title":"Description",
-"content":"Sports involve physical competitions between individuals or teams."
-},
-"tab2":{
-"title":"Skills",
-"content":"Athletes develop strength, speed, endurance and coordination."
-},
-"tab3":{
-"title":"Facts",
-"content":"Sports events attract millions of viewers worldwide."
-}
-},
-
-"gallery_count":3
+"parent":null
 },
 
 {
 "id":"fruits",
 "name":"Fruits",
 "type":"category",
-"parent":null,
-
-"info":{
-"category":"Food",
-"source":"Plants",
-"nutrition":"High"
-},
-
-"tabs":{
-"tab1":{
-"title":"Description",
-"content":"Fruits are edible plant structures rich in vitamins and nutrients."
-},
-"tab2":{
-"title":"Health Benefits",
-"content":"Fruits improve digestion, immunity and overall health."
-},
-"tab3":{
-"title":"Facts",
-"content":"There are thousands of fruit varieties across the world."
-}
-},
-
-"gallery_count":3
+"parent":null
 },
 
 {
 "id":"vehicles",
 "name":"Vehicles",
 "type":"category",
-"parent":null,
-
-"info":{
-"purpose":"Transportation",
-"types":"Land Air Water",
-"technology":"Engineering"
-},
-
-"tabs":{
-"tab1":{
-"title":"Description",
-"content":"Vehicles are machines used to transport people and goods."
-},
-"tab2":{
-"title":"Technology",
-"content":"Modern vehicles use advanced engines and electronic systems."
-},
-"tab3":{
-"title":"Facts",
-"content":"The fastest vehicles include supersonic jets and high-speed trains."
-}
-},
-
-"gallery_count":3
+"parent":null
 },
 
 {
 "id":"animals",
 "name":"Animals",
 "type":"category",
-"parent":null,
-
-"info":{
-"kingdom":"Animalia",
-"habitat":"Land Water Air",
-"species":"Millions"
-},
-
-"tabs":{
-"tab1":{
-"title":"Description",
-"content":"Animals are living organisms that move and consume other organisms for food."
-},
-"tab2":{
-"title":"Adaptations",
-"content":"Animals evolve abilities like flight, swimming and camouflage."
-},
-"tab3":{
-"title":"Facts",
-"content":"Scientists discover new animal species every year."
-}
-},
-
-"gallery_count":3
+"parent":null
 }
 ]

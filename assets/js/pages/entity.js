@@ -1,110 +1,97 @@
 document.addEventListener("DOMContentLoaded", async () => {
 
-  const container = document.getElementById("entityContainer");
-  const galleryContainer = document.getElementById("galleryContainer");
+const container = document.getElementById("entityContainer");
+const galleryContainer = document.getElementById("galleryContainer");
 
-  const params = new URLSearchParams(window.location.search);
-  const universe = params.get("universe");
-  const entityId = params.get("id");
-  let path = params.get("path");
+const params = new URLSearchParams(window.location.search);
 
-  if(!universe || !entityId){
-    container.innerHTML="Invalid entity";
-    return;
-  }
+const universe = params.get("universe");
+const entityId = params.get("id");
+const path = params.get("path");
 
-  let entity = null;
+if(!universe || !entityId){
+container.innerHTML="Invalid entity";
+return;
+}
 
-  try{
+let entity=null;
+let entityList=[];
 
-    /* ================= UNIVERSE ENTITY ================= */
+try{
 
-    const universeData = await fetch("data/universe_entities.json")
-    .then(res=>res.json());
+/* --------- UNIVERSE ENTITY --------- */
 
-    if(universeData[universe] && entityId === universe){
-      entity = universeData[universe];
-    }
+const universes = await fetch("data/universes.json").then(r=>r.json());
 
-    /* ================= WORLD ENTITY ================= */
+const uni = universes.find(u=>u.id===entityId);
 
-    if(!entity){
+if(uni){
+entity = uni;
+entityList = universes;
+}
 
-      const worldData = await fetch("data/world_entities.json")
-      .then(res=>res.json());
+/* --------- CATEGORY ENTITY --------- */
 
-      if(worldData[entityId]){
-        entity = worldData[entityId];
-      }
+if(!entity){
 
-    }
+const categories = await fetch(`data/${universe}/categories.json`)
+.then(r=>r.json());
 
-    /* ================= SUBWORLD ENTITY ================= */
+const cat = categories.find(c=>c.id===entityId);
 
-    if(!entity){
+if(cat){
+entity = cat;
+entityList = categories;
+}
 
-      const subworldData = await fetch("data/subworld_entities.json")
-      .then(res=>res.json());
+}
 
-      if(subworldData[entityId]){
-        entity = subworldData[entityId];
+/* --------- DEEP LEVEL ENTITY --------- */
 
-        if(!path && entity.path){
-          path = entity.path;
-        }
-      }
+if(!entity){
 
-    }
+let file;
 
-    /* ================= NORMAL ENTITY ================= */
+/* decide which file to open */
 
-    if(!entity){
+if(path){
 
-      if(universe === "fruits"){
+const levels = path.split(",");
+file = levels[levels.length-1];
 
-        const fruits = await fetch(`data/fruits/fruits.json`)
-        .then(res=>res.json());
+}else{
 
-        entity = fruits.find(f=>f.id === entityId);
+file = entityId;
 
-      }else{
+}
 
-        const categories = await fetch(`data/${universe}/categories.json`)
-        .then(res=>res.json());
+const list = await fetch(`data/${universe}/${file}.json`)
+.then(r=>r.json());
 
-        for(const cat of categories){
+const found = list.find(i=>i.id===entityId);
 
-          try{
+if(found){
+entity = found;
+entityList = list;
+}
 
-            const level1 = await fetch(`data/${universe}/${cat.id}.json`)
-            .then(res=>res.json());
+}
 
-            entity = level1.find(i=>i.id === entityId);
+}catch(err){
+console.error(err);
+}
 
-            if(entity) break;
+if(!entity){
+container.innerHTML="Entity not found";
+return;
+}
 
-          }catch{}
+/* render */
 
-        }
-
-      }
-
-    }
-
-  }catch(err){
-    console.error(err);
-  }
-
-  if(!entity){
-    container.innerHTML="Entity not found";
-    return;
-  }
-
-  createBreadcrumbs(universe,entity,path);
-  renderEntity(entity,universe,path);
-  renderGallery(entity);
-
-  buildNavigation(entityId);
+createBreadcrumbs(universe,path,entity);
+renderEntity(entity,universe,path);
+renderGallery(entity);
+renderNavigation(entityList,entityId,universe,path);
 
 });
 
@@ -112,46 +99,54 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 /* ================= BREADCRUMBS ================= */
 
-function createBreadcrumbs(universe, entity, forcedPath){
+function createBreadcrumbs(universe,path,entity){
 
-  const breadcrumbs = document.getElementById("breadcrumbs");
+const breadcrumbs = document.getElementById("breadcrumbs");
 
-  const params = new URLSearchParams(window.location.search);
-  const path = forcedPath || params.get("path");
-  const entityId = params.get("id");
+let html = `<a href="home.html">Home</a>`;
 
-  let html = `<a href="home.html">Home</a> > `;
+/* UNIVERSE */
 
-  if(entityId === universe){
-    html += `<span>${formatName(universe)}</span>`;
-  }else{
-    html += `<a href="category.html?universe=${universe}">
-    ${formatName(universe)}
-    </a>`;
-  }
+if(entity.id === universe){
 
-  if(path){
+html += ` > <span>${formatName(universe)}</span>`;
 
-    const levels = path.split(",");
-    let accumulated = "";
+}else{
 
-    levels.forEach((level,index)=>{
+html += ` > <a href="category.html?universe=${universe}">
+${formatName(universe)}
+</a>`;
 
-      accumulated = levels.slice(0,index+1).join(",");
+}
 
-      html += ` > <a href="category.html?universe=${universe}&path=${accumulated}">
-      ${formatName(level)}
-      </a>`;
+/* PATH LEVELS */
 
-    });
+if(path){
 
-  }
+const levels = path.split(",");
+let build = "";
 
-  if(entityId !== universe){
-    html += ` > <span>${entity.name}</span>`;
-  }
+levels.forEach((lvl,i)=>{
 
-  breadcrumbs.innerHTML = html;
+build = levels.slice(0,i+1).join(",");
+
+html += ` > <a href="category.html?universe=${universe}&path=${build}">
+${formatName(lvl)}
+</a>`;
+
+});
+
+}
+
+/* ENTITY NAME */
+
+if(entity.id !== universe){
+
+html += ` > <span>${entity.name}</span>`;
+
+}
+
+breadcrumbs.innerHTML = html;
 
 }
 
@@ -161,61 +156,103 @@ function createBreadcrumbs(universe, entity, forcedPath){
 
 function renderEntity(entity,universe,path){
 
-  const container=document.getElementById("entityContainer");
+const container=document.getElementById("entityContainer");
 
-  let viewListBtn = "";
+let listURL="";
 
-  if(entity.type !== "entity"){
+if(entity.type!=="entity"){
 
-    let listURL="";
+if(!path){
+listURL=`category.html?universe=${universe}&path=${entity.id}`;
+}
+else{
+listURL=`category.html?universe=${universe}&path=${path}`;
+}
 
-    if(entity.id === universe){
-      listURL = `category.html?universe=${universe}`;
-    }
-    else if(path){
-      listURL = `category.html?universe=${universe}&path=${path}`;
-    }
-    else{
-      listURL = `category.html?universe=${universe}&path=${entity.id}`;
-    }
+}
 
-    viewListBtn = `
-    <div class="view-list-wrapper">
-      <button class="view-list-btn"
-      onclick="window.location.href='${listURL}'">
-      View Full List of ${entity.name}
-      </button>
-    </div>
-    `;
-  }
+container.innerHTML=`
 
-  container.innerHTML=`
+<div class="entity-main">
 
-  <div class="entity-main">
+<div class="entity-hero">
+<img src="${getCDNImage(entity.id,"hero",universe,path)}">
+</div>
 
-    <div class="entity-hero">
-      <img src="${getCDNImage(entity.id,"hero",universe,path)}" loading="lazy">
-    </div>
+<div class="entity-details">
 
-    <div class="entity-details">
+<h1 class="entity-name">${entity.name}</h1>
 
-      <h1 class="entity-name">${entity.name}</h1>
+${generateInfoTable(entity.info)}
 
-      ${generateInfoTable(entity.info)}
+${generateTabs(entity)}
 
-      ${generateTabs(entity)}
+</div>
 
-    </div>
+</div>
 
-  </div>
+${entity.type!=="entity" ? `
+<div class="view-list-wrapper">
+<button onclick="window.location.href='${listURL}'">
+View Full List of ${entity.name}
+</button>
+</div>
+`:""}
 
-  ${viewListBtn}
+<button id="scrollTopBtn">↑</button>
 
-  <div id="entityNavigation"></div>
+`;
 
-  <button id="scrollTopBtn">↑</button>
+document.getElementById("scrollTopBtn").onclick=()=>{
+window.scrollTo({top:0,behavior:"smooth"});
+};
 
-  `;
+}
+
+
+
+/* ================= NAVIGATION ================= */
+
+function renderNavigation(list,id,universe,path){
+
+const nav=document.getElementById("entityNavigation");
+
+const index=list.findIndex(i=>i.id===id);
+
+if(index===-1) return;
+
+const prev=list[index-1];
+const next=list[index+1];
+
+function buildURL(item){
+
+if(!path){
+return `entity.html?universe=${universe}&id=${item.id}`;
+}
+
+return `entity.html?universe=${universe}&path=${path}&id=${item.id}`;
+
+}
+
+nav.innerHTML=`
+
+<div class="entity-navigation">
+
+${prev ? `
+<button onclick="window.location.href='${buildURL(prev)}'">
+← ${prev.name}
+</button>
+` : `<div></div>`}
+
+${next ? `
+<button onclick="window.location.href='${buildURL(next)}'">
+${next.name} →
+</button>
+` : `<div></div>`}
+
+</div>
+
+`;
 
 }
 
@@ -225,121 +262,32 @@ function renderEntity(entity,universe,path){
 
 function generateTabs(entity){
 
-  if(!entity.tabs) return "";
+if(!entity.tabs) return "";
 
-  return `
+return `
 
-  <div class="tabs">
+<div class="tabs">
 
-    <button onclick="showTab('tab1')">${entity.tabs.tab1.title}</button>
-    <button onclick="showTab('tab2')">${entity.tabs.tab2.title}</button>
-    <button onclick="showTab('tab3')">${entity.tabs.tab3.title}</button>
+<button onclick="showTab('tab1')">${entity.tabs.tab1.title}</button>
+<button onclick="showTab('tab2')">${entity.tabs.tab2.title}</button>
+<button onclick="showTab('tab3')">${entity.tabs.tab3.title}</button>
 
-  </div>
+</div>
 
-  <div id="tab1" class="tab-content">${entity.tabs.tab1.content}</div>
-  <div id="tab2" class="tab-content" style="display:none">${entity.tabs.tab2.content}</div>
-  <div id="tab3" class="tab-content" style="display:none">${entity.tabs.tab3.content}</div>
+<div id="tab1" class="tab-content">${entity.tabs.tab1.content}</div>
+<div id="tab2" class="tab-content" style="display:none">${entity.tabs.tab2.content}</div>
+<div id="tab3" class="tab-content" style="display:none">${entity.tabs.tab3.content}</div>
 
-  `;
-}
-
-function showTab(tab){
-
-  document.querySelectorAll(".tab-content")
-  .forEach(t=>t.style.display="none");
-
-  document.getElementById(tab).style.display="block";
+`;
 
 }
 
+function showTab(id){
 
+document.querySelectorAll(".tab-content")
+.forEach(t=>t.style.display="none");
 
-/* ================= PREVIOUS NEXT ================= */
-
-async function buildNavigation(entityId){
-
-  const params = new URLSearchParams(window.location.search);
-
-  const universe = params.get("universe");
-  const path = params.get("path");
-
-  let db = [];
-  let level = "";
-
-  try{
-
-    if(entityId === universe){
-
-      db = await fetch("data/universes.json")
-      .then(r=>r.json());
-
-      level = "universe";
-
-    }
-
-    else if(!path){
-
-      db = await fetch(`data/${universe}/categories.json`)
-      .then(r=>r.json());
-
-      level = "world";
-
-    }
-
-    else{
-
-      const levels = path.split(",");
-      const last = levels[levels.length-1];
-
-      db = await fetch(`data/${universe}/${last}.json`)
-      .then(r=>r.json());
-
-      level = "entity";
-
-    }
-
-  }catch{
-    return;
-  }
-
-  const index = db.findIndex(i => i.id === entityId);
-
-  if(index === -1) return;
-
-  const prev = db[index-1];
-  const next = db[index+1];
-
-  const nav = document.getElementById("entityNavigation");
-
-  function buildURL(item){
-
-    if(level === "universe"){
-      return `entity.html?universe=${item.id}&id=${item.id}`;
-    }
-
-    if(level === "world"){
-      return `entity.html?universe=${universe}&id=${item.id}`;
-    }
-
-    return `entity.html?universe=${universe}&path=${path}&id=${item.id}`;
-  }
-
-  nav.innerHTML = `
-  <div class="entity-navigation">
-
-    ${prev ? `
-    <button onclick="window.location.href='${buildURL(prev)}'">
-    ← ${prev.name}
-    </button>` : `<div></div>`}
-
-    ${next ? `
-    <button onclick="window.location.href='${buildURL(next)}'">
-    ${next.name} →
-    </button>` : `<div></div>`}
-
-  </div>
-  `;
+document.getElementById(id).style.display="block";
 
 }
 
@@ -349,22 +297,23 @@ async function buildNavigation(entityId){
 
 function generateInfoTable(info){
 
-  if(!info) return "";
+if(!info) return "";
 
-  let html=`<div class="info-table">`;
+let html=`<div class="info-table">`;
 
-  Object.entries(info).forEach(([k,v])=>{
+Object.entries(info).forEach(([k,v])=>{
 
-    html+=`
-    <div class="info-row">
-      <div class="info-key">${k}</div>
-      <div class="info-value">${v}</div>
-    </div>`;
+html+=`
+<div class="info-row">
+<div class="info-key">${k}</div>
+<div class="info-value">${v}</div>
+</div>
+`;
 
-  });
+});
 
-  html+=`</div>`;
-  return html;
+html+=`</div>`;
+return html;
 
 }
 
@@ -374,44 +323,37 @@ function generateInfoTable(info){
 
 function renderGallery(entity){
 
-  const galleryContainer=document.getElementById("galleryContainer");
+const gallery=document.getElementById("galleryContainer");
 
-  if(!entity.gallery_count) return;
+if(!entity.gallery_count) return;
 
-  let images="";
+let images="";
 
-  for(let i=1;i<=entity.gallery_count;i++){
-    images += `<img src="${getCDNImage(entity.id,"gallery")}g${i}.png" loading="lazy">`;
-  }
+for(let i=1;i<=entity.gallery_count;i++){
 
-  galleryContainer.innerHTML=`
+images+=`
+<img src="${getCDNImage(entity.id,"gallery",entity.parent)}g${i}.png">
+`;
 
-  <div class="gallery-container">
-
-  <h2>Gallery</h2>
-
-  <div class="gallery-grid">
-
-  ${images}
-
-  </div>
-
-  </div>
-
-  `;
 }
 
+gallery.innerHTML=`
 
+<div class="gallery-container">
 
-/* ================= SCROLL TOP ================= */
+<h2>Gallery</h2>
 
-document.addEventListener("click",function(e){
+<div class="gallery-grid">
 
-  if(e.target.id==="scrollTopBtn"){
-    window.scrollTo({top:0,behavior:"smooth"});
-  }
+${images}
 
-});
+</div>
+
+</div>
+
+`;
+
+}
 
 
 
@@ -419,10 +361,9 @@ document.addEventListener("click",function(e){
 
 function formatName(str){
 
-  return str
-  .replace(/_/g," ")
-  .replace(/\b\w/g,c=>c.toUpperCase())
-  .replace("Countries","")
-  .trim();
+return str
+.replace(/_/g," ")
+.replace(/\b\w/g,c=>c.toUpperCase())
+.trim();
 
 }
