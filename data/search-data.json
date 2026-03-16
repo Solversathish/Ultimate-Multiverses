@@ -2,40 +2,30 @@
   {
     "name": "Anime",
     "id": "anime",
-    "universe": "anime",
-    "parent": "",
     "type": "universe",
     "url": "category.html?universe=anime"
   },
   {
     "name": "Sports",
     "id": "sports",
-    "universe": "sports",
-    "parent": "",
     "type": "universe",
     "url": "category.html?universe=sports"
   },
   {
     "name": "Fruits",
     "id": "fruits",
-    "universe": "fruits",
-    "parent": "",
     "type": "universe",
     "url": "category.html?universe=fruits"
   },
   {
     "name": "Vehicles",
     "id": "vehicles",
-    "universe": "vehicles",
-    "parent": "",
     "type": "universe",
     "url": "category.html?universe=vehicles"
   },
   {
     "name": "Animals",
     "id": "animals",
-    "universe": "animals",
-    "parent": "",
     "type": "universe",
     "url": "category.html?universe=animals"
   },
@@ -43,7 +33,6 @@
     "name": "Eren Yeager",
     "id": "eren_yeager",
     "universe": "anime",
-    "path": "attack_on_titan",
     "parent": "attack on titan",
     "type": "entity",
     "url": "entity.html?universe=anime&path=attack_on_titan&id=eren_yeager"
@@ -52,7 +41,6 @@
     "name": "Mikasa Ackerman",
     "id": "mikasa_ackerman",
     "universe": "anime",
-    "path": "attack_on_titan",
     "parent": "attack on titan",
     "type": "entity",
     "url": "entity.html?universe=anime&path=attack_on_titan&id=mikasa_ackerman"
@@ -61,7 +49,6 @@
     "name": "Armin Arlert",
     "id": "armin_arlert",
     "universe": "anime",
-    "path": "attack_on_titan",
     "parent": "attack on titan",
     "type": "entity",
     "url": "entity.html?universe=anime&path=attack_on_titan&id=armin_arlert"
@@ -70,7 +57,6 @@
     "name": "Levi Ackerman",
     "id": "levi_ackerman",
     "universe": "anime",
-    "path": "attack_on_titan",
     "parent": "attack on titan",
     "type": "entity",
     "url": "entity.html?universe=anime&path=attack_on_titan&id=levi_ackerman"
@@ -79,7 +65,6 @@
     "name": "Reiner Braun",
     "id": "reiner_braun",
     "universe": "anime",
-    "path": "attack_on_titan",
     "parent": "attack on titan",
     "type": "entity",
     "url": "entity.html?universe=anime&path=attack_on_titan&id=reiner_braun"
@@ -88,7 +73,6 @@
     "name": "Ichigo Kurosaki",
     "id": "ichigo_kurosaki",
     "universe": "anime",
-    "path": "bleach",
     "parent": "bleach",
     "type": "entity",
     "url": "entity.html?universe=anime&path=bleach&id=ichigo_kurosaki"
@@ -97,7 +81,6 @@
     "name": "Rukia Kuchiki",
     "id": "rukia_kuchiki",
     "universe": "anime",
-    "path": "bleach",
     "parent": "bleach",
     "type": "entity",
     "url": "entity.html?universe=anime&path=bleach&id=rukia_kuchiki"
@@ -106,7 +89,6 @@
     "name": "Byakuya Kuchiki",
     "id": "byakuya_kuchiki",
     "universe": "anime",
-    "path": "bleach",
     "parent": "bleach",
     "type": "entity",
     "url": "entity.html?universe=anime&path=bleach&id=byakuya_kuchiki"
@@ -115,7 +97,6 @@
     "name": "Toshiro Hitsugaya",
     "id": "toshiro_hitsugaya",
     "universe": "anime",
-    "path": "bleach",
     "parent": "bleach",
     "type": "entity",
     "url": "entity.html?universe=anime&path=bleach&id=toshiro_hitsugaya"
@@ -124,7 +105,6 @@
     "name": "Kenpachi Zaraki",
     "id": "kenpachi_zaraki",
     "universe": "anime",
-    "path": "bleach",
     "parent": "bleach",
     "type": "entity",
     "url": "entity.html?universe=anime&path=bleach&id=kenpachi_zaraki"
@@ -133,47 +113,46 @@
     "name": "Naruto",
     "id": "naruto",
     "universe": "anime",
-    "parent": "Anime",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=anime&path=naruto"
   },
   {
     "name": "One Piece",
     "id": "one_piece",
     "universe": "anime",
-    "parent": "Anime",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=anime&path=one_piece"
   },
   {
     "name": "Bleach",
     "id": "bleach",
     "universe": "anime",
-    "parent": "Anime",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=anime&path=bleach"
   },
   {
     "name": "Dragon Ball",
     "id": "dragon_ball",
     "universe": "anime",
-    "parent": "Anime",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=anime&path=dragon_ball"
   },
   {
     "name": "Attack on Titan",
     "id": "attack_on_titan",
     "universe": "anime",
-    "parent": "Anime",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=anime&path=attack_on_titan"
   },
   {
     "name": "Kid Goku",
     "id": "kid_goku",
     "universe": "anime",
-    "path": "dragon_ball",
     "parent": "dragon ball",
     "type": "entity",
     "url": "entity.html?universe=anime&path=dragon_ball&id=kid_goku"
@@ -182,7 +161,6 @@
     "name": "Bulma",
     "id": "bulma",
     "universe": "anime",
-    "path": "dragon_ball",
     "parent": "dragon ball",
     "type": "entity",
     "url": "entity.html?universe=anime&path=dragon_ball&id=bulma"
@@ -191,7 +169,6 @@
     "name": "Krillin",
     "id": "krillin",
     "universe": "anime",
-    "path": "dragon_ball",
     "parent": "dragon ball",
     "type": "entity",
     "url": "entity.html?universe=anime&path=dragon_ball&id=krillin"
@@ -200,7 +177,6 @@
     "name": "Master Roshi",
     "id": "master_roshi",
     "universe": "anime",
-    "path": "dragon_ball",
     "parent": "dragon ball",
     "type": "entity",
     "url": "entity.html?universe=anime&path=dragon_ball&id=master_roshi"
@@ -209,7 +185,6 @@
     "name": "Yamcha",
     "id": "yamcha",
     "universe": "anime",
-    "path": "dragon_ball",
     "parent": "dragon ball",
     "type": "entity",
     "url": "entity.html?universe=anime&path=dragon_ball&id=yamcha"
@@ -218,7 +193,6 @@
     "name": "Naruto Uzumaki",
     "id": "naruto_uzumaki",
     "universe": "anime",
-    "path": "naruto",
     "parent": "naruto",
     "type": "entity",
     "url": "entity.html?universe=anime&path=naruto&id=naruto_uzumaki"
@@ -227,7 +201,6 @@
     "name": "Sasuke Uchiha",
     "id": "sasuke_uchiha",
     "universe": "anime",
-    "path": "naruto",
     "parent": "naruto",
     "type": "entity",
     "url": "entity.html?universe=anime&path=naruto&id=sasuke_uchiha"
@@ -236,7 +209,6 @@
     "name": "Sakura Haruno",
     "id": "sakura_haruno",
     "universe": "anime",
-    "path": "naruto",
     "parent": "naruto",
     "type": "entity",
     "url": "entity.html?universe=anime&path=naruto&id=sakura_haruno"
@@ -245,7 +217,6 @@
     "name": "Kakashi Hatake",
     "id": "kakashi_hatake",
     "universe": "anime",
-    "path": "naruto",
     "parent": "naruto",
     "type": "entity",
     "url": "entity.html?universe=anime&path=naruto&id=kakashi_hatake"
@@ -254,7 +225,6 @@
     "name": "Itachi Uchiha",
     "id": "itachi_uchiha",
     "universe": "anime",
-    "path": "naruto",
     "parent": "naruto",
     "type": "entity",
     "url": "entity.html?universe=anime&path=naruto&id=itachi_uchiha"
@@ -263,7 +233,6 @@
     "name": "Monkey D. Luffy",
     "id": "monkey_d_luffy",
     "universe": "anime",
-    "path": "one_piece",
     "parent": "one piece",
     "type": "entity",
     "url": "entity.html?universe=anime&path=one_piece&id=monkey_d_luffy"
@@ -272,7 +241,6 @@
     "name": "Roronoa Zoro",
     "id": "roronoa_zoro",
     "universe": "anime",
-    "path": "one_piece",
     "parent": "one piece",
     "type": "entity",
     "url": "entity.html?universe=anime&path=one_piece&id=roronoa_zoro"
@@ -281,7 +249,6 @@
     "name": "Nami",
     "id": "nami",
     "universe": "anime",
-    "path": "one_piece",
     "parent": "one piece",
     "type": "entity",
     "url": "entity.html?universe=anime&path=one_piece&id=nami"
@@ -290,7 +257,6 @@
     "name": "Sanji",
     "id": "sanji",
     "universe": "anime",
-    "path": "one_piece",
     "parent": "one piece",
     "type": "entity",
     "url": "entity.html?universe=anime&path=one_piece&id=sanji"
@@ -299,7 +265,6 @@
     "name": "Trafalgar Law",
     "id": "trafalgar_law",
     "universe": "anime",
-    "path": "one_piece",
     "parent": "one piece",
     "type": "entity",
     "url": "entity.html?universe=anime&path=one_piece&id=trafalgar_law"
@@ -308,52 +273,46 @@
     "name": "USA",
     "id": "basketball_usa",
     "universe": "sports",
-    "path": "basketball",
     "parent": "basketball",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=basketball,basketball_usa"
   },
   {
     "name": "Spain",
     "id": "basketball_spain",
     "universe": "sports",
-    "path": "basketball",
     "parent": "basketball",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=basketball,basketball_spain"
   },
   {
     "name": "Canada",
     "id": "basketball_canada",
     "universe": "sports",
-    "path": "basketball",
     "parent": "basketball",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=basketball,basketball_canada"
   },
   {
     "name": "Serbia",
     "id": "basketball_serbia",
     "universe": "sports",
-    "path": "basketball",
     "parent": "basketball",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=basketball,basketball_serbia"
   },
   {
     "name": "Australia",
     "id": "basketball_australia",
     "universe": "sports",
-    "path": "basketball",
     "parent": "basketball",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=basketball,basketball_australia"
   },
   {
     "name": "Patty Mills",
     "id": "patty_mills",
     "universe": "sports",
-    "path": "basketball_australia",
     "parent": "basketball australia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_australia&id=patty_mills"
@@ -362,7 +321,6 @@
     "name": "Ben Simmons",
     "id": "ben_simmons",
     "universe": "sports",
-    "path": "basketball_australia",
     "parent": "basketball australia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_australia&id=ben_simmons"
@@ -371,7 +329,6 @@
     "name": "Andrew Bogut",
     "id": "andrew_bogut",
     "universe": "sports",
-    "path": "basketball_australia",
     "parent": "basketball australia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_australia&id=andrew_bogut"
@@ -380,7 +337,6 @@
     "name": "Josh Giddey",
     "id": "josh_giddey",
     "universe": "sports",
-    "path": "basketball_australia",
     "parent": "basketball australia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_australia&id=josh_giddey"
@@ -389,7 +345,6 @@
     "name": "Matthew Dellavedova",
     "id": "matthew_dellavedova",
     "universe": "sports",
-    "path": "basketball_australia",
     "parent": "basketball australia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_australia&id=matthew_dellavedova"
@@ -398,7 +353,6 @@
     "name": "Steve Nash",
     "id": "steve_nash",
     "universe": "sports",
-    "path": "basketball_canada",
     "parent": "basketball canada",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_canada&id=steve_nash"
@@ -407,7 +361,6 @@
     "name": "Jamal Murray",
     "id": "jamal_murray",
     "universe": "sports",
-    "path": "basketball_canada",
     "parent": "basketball canada",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_canada&id=jamal_murray"
@@ -416,7 +369,6 @@
     "name": "Shai Gilgeous-Alexander",
     "id": "shai_gilgeous_alexander",
     "universe": "sports",
-    "path": "basketball_canada",
     "parent": "basketball canada",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_canada&id=shai_gilgeous_alexander"
@@ -425,7 +377,6 @@
     "name": "Andrew Wiggins",
     "id": "andrew_wiggins",
     "universe": "sports",
-    "path": "basketball_canada",
     "parent": "basketball canada",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_canada&id=andrew_wiggins"
@@ -434,7 +385,6 @@
     "name": "RJ Barrett",
     "id": "rj_barrett",
     "universe": "sports",
-    "path": "basketball_canada",
     "parent": "basketball canada",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_canada&id=rj_barrett"
@@ -443,7 +393,6 @@
     "name": "Nikola Jokic",
     "id": "nikola_jokic",
     "universe": "sports",
-    "path": "basketball_serbia",
     "parent": "basketball serbia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_serbia&id=nikola_jokic"
@@ -452,7 +401,6 @@
     "name": "Bogdan Bogdanovic",
     "id": "bogdan_bogdanovic",
     "universe": "sports",
-    "path": "basketball_serbia",
     "parent": "basketball serbia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_serbia&id=bogdan_bogdanovic"
@@ -461,7 +409,6 @@
     "name": "Vlade Divac",
     "id": "vlade_divac",
     "universe": "sports",
-    "path": "basketball_serbia",
     "parent": "basketball serbia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_serbia&id=vlade_divac"
@@ -470,7 +417,6 @@
     "name": "Peja Stojakovic",
     "id": "peja_stojakovic",
     "universe": "sports",
-    "path": "basketball_serbia",
     "parent": "basketball serbia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_serbia&id=peja_stojakovic"
@@ -479,7 +425,6 @@
     "name": "Milos Teodosic",
     "id": "milos_teodosic",
     "universe": "sports",
-    "path": "basketball_serbia",
     "parent": "basketball serbia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_serbia&id=milos_teodosic"
@@ -488,7 +433,6 @@
     "name": "Pau Gasol",
     "id": "pau_gasol",
     "universe": "sports",
-    "path": "basketball_spain",
     "parent": "basketball spain",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_spain&id=pau_gasol"
@@ -497,7 +441,6 @@
     "name": "Marc Gasol",
     "id": "marc_gasol",
     "universe": "sports",
-    "path": "basketball_spain",
     "parent": "basketball spain",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_spain&id=marc_gasol"
@@ -506,7 +449,6 @@
     "name": "Ricky Rubio",
     "id": "ricky_rubio",
     "universe": "sports",
-    "path": "basketball_spain",
     "parent": "basketball spain",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_spain&id=ricky_rubio"
@@ -515,7 +457,6 @@
     "name": "Juan Carlos Navarro",
     "id": "juan_carlos_navarro",
     "universe": "sports",
-    "path": "basketball_spain",
     "parent": "basketball spain",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_spain&id=juan_carlos_navarro"
@@ -524,7 +465,6 @@
     "name": "Sergio Llull",
     "id": "sergio_llull",
     "universe": "sports",
-    "path": "basketball_spain",
     "parent": "basketball spain",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_spain&id=sergio_llull"
@@ -533,7 +473,6 @@
     "name": "Michael Jordan",
     "id": "michael_jordan",
     "universe": "sports",
-    "path": "basketball_usa",
     "parent": "basketball usa",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_usa&id=michael_jordan"
@@ -542,7 +481,6 @@
     "name": "LeBron James",
     "id": "lebron_james",
     "universe": "sports",
-    "path": "basketball_usa",
     "parent": "basketball usa",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_usa&id=lebron_james"
@@ -551,7 +489,6 @@
     "name": "Kobe Bryant",
     "id": "kobe_bryant",
     "universe": "sports",
-    "path": "basketball_usa",
     "parent": "basketball usa",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_usa&id=kobe_bryant"
@@ -560,7 +497,6 @@
     "name": "Magic Johnson",
     "id": "magic_johnson",
     "universe": "sports",
-    "path": "basketball_usa",
     "parent": "basketball usa",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_usa&id=magic_johnson"
@@ -569,7 +505,6 @@
     "name": "Larry Bird",
     "id": "larry_bird",
     "universe": "sports",
-    "path": "basketball_usa",
     "parent": "basketball usa",
     "type": "entity",
     "url": "entity.html?universe=sports&path=basketball_usa&id=larry_bird"
@@ -578,92 +513,86 @@
     "name": "Cricket",
     "id": "cricket",
     "universe": "sports",
-    "parent": "Sports",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=sports&path=cricket"
   },
   {
     "name": "Football",
     "id": "football",
     "universe": "sports",
-    "parent": "Sports",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=sports&path=football"
   },
   {
     "name": "Basketball",
     "id": "basketball",
     "universe": "sports",
-    "parent": "Sports",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=sports&path=basketball"
   },
   {
     "name": "Tennis",
     "id": "tennis",
     "universe": "sports",
-    "parent": "Sports",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=sports&path=tennis"
   },
   {
     "name": "Formula 1",
     "id": "formula_1",
     "universe": "sports",
-    "parent": "Sports",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=sports&path=formula_1"
   },
   {
     "name": "India",
     "id": "cricket_india",
     "universe": "sports",
-    "path": "cricket",
     "parent": "cricket",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=cricket,cricket_india"
   },
   {
     "name": "Australia",
     "id": "cricket_australia",
     "universe": "sports",
-    "path": "cricket",
     "parent": "cricket",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=cricket,cricket_australia"
   },
   {
     "name": "England",
     "id": "cricket_england",
     "universe": "sports",
-    "path": "cricket",
     "parent": "cricket",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=cricket,cricket_england"
   },
   {
     "name": "Pakistan",
     "id": "cricket_pakistan",
     "universe": "sports",
-    "path": "cricket",
     "parent": "cricket",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=cricket,cricket_pakistan"
   },
   {
     "name": "South Africa",
     "id": "cricket_south_africa",
     "universe": "sports",
-    "path": "cricket",
     "parent": "cricket",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=cricket,cricket_south_africa"
   },
   {
     "name": "Ricky Ponting",
     "id": "ricky_ponting",
     "universe": "sports",
-    "path": "cricket_australia",
     "parent": "cricket australia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_australia&id=ricky_ponting"
@@ -672,7 +601,6 @@
     "name": "Steve Smith",
     "id": "steve_smith",
     "universe": "sports",
-    "path": "cricket_australia",
     "parent": "cricket australia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_australia&id=steve_smith"
@@ -681,7 +609,6 @@
     "name": "David Warner",
     "id": "david_warner",
     "universe": "sports",
-    "path": "cricket_australia",
     "parent": "cricket australia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_australia&id=david_warner"
@@ -690,7 +617,6 @@
     "name": "Glenn McGrath",
     "id": "glenn_mcgrath",
     "universe": "sports",
-    "path": "cricket_australia",
     "parent": "cricket australia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_australia&id=glenn_mcgrath"
@@ -699,7 +625,6 @@
     "name": "Shane Warne",
     "id": "shane_warne",
     "universe": "sports",
-    "path": "cricket_australia",
     "parent": "cricket australia",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_australia&id=shane_warne"
@@ -708,7 +633,6 @@
     "name": "Joe Root",
     "id": "joe_root",
     "universe": "sports",
-    "path": "cricket_england",
     "parent": "cricket england",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_england&id=joe_root"
@@ -717,7 +641,6 @@
     "name": "Ben Stokes",
     "id": "ben_stokes",
     "universe": "sports",
-    "path": "cricket_england",
     "parent": "cricket england",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_england&id=ben_stokes"
@@ -726,7 +649,6 @@
     "name": "James Anderson",
     "id": "james_anderson",
     "universe": "sports",
-    "path": "cricket_england",
     "parent": "cricket england",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_england&id=james_anderson"
@@ -735,7 +657,6 @@
     "name": "Jos Buttler",
     "id": "jos_buttler",
     "universe": "sports",
-    "path": "cricket_england",
     "parent": "cricket england",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_england&id=jos_buttler"
@@ -744,7 +665,6 @@
     "name": "Stuart Broad",
     "id": "stuart_broad",
     "universe": "sports",
-    "path": "cricket_england",
     "parent": "cricket england",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_england&id=stuart_broad"
@@ -753,7 +673,6 @@
     "name": "MS Dhoni",
     "id": "ms_dhoni",
     "universe": "sports",
-    "path": "cricket_india",
     "parent": "cricket india",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_india&id=ms_dhoni"
@@ -762,7 +681,6 @@
     "name": "Virat Kohli",
     "id": "virat_kohli",
     "universe": "sports",
-    "path": "cricket_india",
     "parent": "cricket india",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_india&id=virat_kohli"
@@ -771,7 +689,6 @@
     "name": "Rohit Sharma",
     "id": "rohit_sharma",
     "universe": "sports",
-    "path": "cricket_india",
     "parent": "cricket india",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_india&id=rohit_sharma"
@@ -780,7 +697,6 @@
     "name": "Jasprit Bumrah",
     "id": "jasprit_bumrah",
     "universe": "sports",
-    "path": "cricket_india",
     "parent": "cricket india",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_india&id=jasprit_bumrah"
@@ -789,7 +705,6 @@
     "name": "KL Rahul",
     "id": "kl_rahul",
     "universe": "sports",
-    "path": "cricket_india",
     "parent": "cricket india",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_india&id=kl_rahul"
@@ -798,7 +713,6 @@
     "name": "Babar Azam",
     "id": "babar_azam",
     "universe": "sports",
-    "path": "cricket_pakistan",
     "parent": "cricket pakistan",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_pakistan&id=babar_azam"
@@ -807,7 +721,6 @@
     "name": "Shahid Afridi",
     "id": "shahid_afridi",
     "universe": "sports",
-    "path": "cricket_pakistan",
     "parent": "cricket pakistan",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_pakistan&id=shahid_afridi"
@@ -816,7 +729,6 @@
     "name": "Wasim Akram",
     "id": "wasim_akram",
     "universe": "sports",
-    "path": "cricket_pakistan",
     "parent": "cricket pakistan",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_pakistan&id=wasim_akram"
@@ -825,7 +737,6 @@
     "name": "Imran Khan",
     "id": "imran_khan",
     "universe": "sports",
-    "path": "cricket_pakistan",
     "parent": "cricket pakistan",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_pakistan&id=imran_khan"
@@ -834,7 +745,6 @@
     "name": "Mohammad Rizwan",
     "id": "mohammad_rizwan",
     "universe": "sports",
-    "path": "cricket_pakistan",
     "parent": "cricket pakistan",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_pakistan&id=mohammad_rizwan"
@@ -843,7 +753,6 @@
     "name": "AB de Villiers",
     "id": "ab_de_villiers",
     "universe": "sports",
-    "path": "cricket_south_africa",
     "parent": "cricket south africa",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_south_africa&id=ab_de_villiers"
@@ -852,7 +761,6 @@
     "name": "Jacques Kallis",
     "id": "jacques_kallis",
     "universe": "sports",
-    "path": "cricket_south_africa",
     "parent": "cricket south africa",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_south_africa&id=jacques_kallis"
@@ -861,7 +769,6 @@
     "name": "Dale Steyn",
     "id": "dale_steyn",
     "universe": "sports",
-    "path": "cricket_south_africa",
     "parent": "cricket south africa",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_south_africa&id=dale_steyn"
@@ -870,7 +777,6 @@
     "name": "Faf du Plessis",
     "id": "faf_du_plessis",
     "universe": "sports",
-    "path": "cricket_south_africa",
     "parent": "cricket south africa",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_south_africa&id=faf_du_plessis"
@@ -879,7 +785,6 @@
     "name": "Quinton de Kock",
     "id": "quinton_de_kock",
     "universe": "sports",
-    "path": "cricket_south_africa",
     "parent": "cricket south africa",
     "type": "entity",
     "url": "entity.html?universe=sports&path=cricket_south_africa&id=quinton_de_kock"
@@ -888,52 +793,46 @@
     "name": "Brazil",
     "id": "football_brazil",
     "universe": "sports",
-    "path": "football",
     "parent": "football",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=football,football_brazil"
   },
   {
     "name": "Argentina",
     "id": "football_argentina",
     "universe": "sports",
-    "path": "football",
     "parent": "football",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=football,football_argentina"
   },
   {
     "name": "France",
     "id": "football_france",
     "universe": "sports",
-    "path": "football",
     "parent": "football",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=football,football_france"
   },
   {
     "name": "Germany",
     "id": "football_germany",
     "universe": "sports",
-    "path": "football",
     "parent": "football",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=football,football_germany"
   },
   {
     "name": "Spain",
     "id": "football_spain",
     "universe": "sports",
-    "path": "football",
     "parent": "football",
-    "type": "subworld",
+    "type": "category",
     "url": "category.html?universe=sports&path=football,football_spain"
   },
   {
     "name": "Lionel Messi",
     "id": "lionel_messi",
     "universe": "sports",
-    "path": "football_argentina",
     "parent": "football argentina",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_argentina&id=lionel_messi"
@@ -942,7 +841,6 @@
     "name": "Diego Maradona",
     "id": "diego_maradona",
     "universe": "sports",
-    "path": "football_argentina",
     "parent": "football argentina",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_argentina&id=diego_maradona"
@@ -951,7 +849,6 @@
     "name": "Ángel Di María",
     "id": "angel_di_maria",
     "universe": "sports",
-    "path": "football_argentina",
     "parent": "football argentina",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_argentina&id=angel_di_maria"
@@ -960,7 +857,6 @@
     "name": "Sergio Agüero",
     "id": "sergio_aguero",
     "universe": "sports",
-    "path": "football_argentina",
     "parent": "football argentina",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_argentina&id=sergio_aguero"
@@ -969,7 +865,6 @@
     "name": "Javier Zanetti",
     "id": "javier_zanetti",
     "universe": "sports",
-    "path": "football_argentina",
     "parent": "football argentina",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_argentina&id=javier_zanetti"
@@ -978,7 +873,6 @@
     "name": "Pelé",
     "id": "pele",
     "universe": "sports",
-    "path": "football_brazil",
     "parent": "football brazil",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_brazil&id=pele"
@@ -987,7 +881,6 @@
     "name": "Ronaldo Nazário",
     "id": "ronaldo_nazario",
     "universe": "sports",
-    "path": "football_brazil",
     "parent": "football brazil",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_brazil&id=ronaldo_nazario"
@@ -996,7 +889,6 @@
     "name": "Ronaldinho",
     "id": "ronaldinho",
     "universe": "sports",
-    "path": "football_brazil",
     "parent": "football brazil",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_brazil&id=ronaldinho"
@@ -1005,7 +897,6 @@
     "name": "Neymar Jr",
     "id": "neymar",
     "universe": "sports",
-    "path": "football_brazil",
     "parent": "football brazil",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_brazil&id=neymar"
@@ -1014,7 +905,6 @@
     "name": "Kaká",
     "id": "kaka",
     "universe": "sports",
-    "path": "football_brazil",
     "parent": "football brazil",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_brazil&id=kaka"
@@ -1023,7 +913,6 @@
     "name": "Zinedine Zidane",
     "id": "zinedine_zidane",
     "universe": "sports",
-    "path": "football_france",
     "parent": "football france",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_france&id=zinedine_zidane"
@@ -1032,7 +921,6 @@
     "name": "Kylian Mbappé",
     "id": "kylian_mbappe",
     "universe": "sports",
-    "path": "football_france",
     "parent": "football france",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_france&id=kylian_mbappe"
@@ -1041,7 +929,6 @@
     "name": "Thierry Henry",
     "id": "thierry_henry",
     "universe": "sports",
-    "path": "football_france",
     "parent": "football france",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_france&id=thierry_henry"
@@ -1050,7 +937,6 @@
     "name": "Michel Platini",
     "id": "michel_platini",
     "universe": "sports",
-    "path": "football_france",
     "parent": "football france",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_france&id=michel_platini"
@@ -1059,7 +945,6 @@
     "name": "Antoine Griezmann",
     "id": "antoine_griezmann",
     "universe": "sports",
-    "path": "football_france",
     "parent": "football france",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_france&id=antoine_griezmann"
@@ -1068,7 +953,6 @@
     "name": "Franz Beckenbauer",
     "id": "franz_beckenbauer",
     "universe": "sports",
-    "path": "football_germany",
     "parent": "football germany",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_germany&id=franz_beckenbauer"
@@ -1077,7 +961,6 @@
     "name": "Miroslav Klose",
     "id": "miroslav_klose",
     "universe": "sports",
-    "path": "football_germany",
     "parent": "football germany",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_germany&id=miroslav_klose"
@@ -1086,7 +969,6 @@
     "name": "Thomas Müller",
     "id": "thomas_muller",
     "universe": "sports",
-    "path": "football_germany",
     "parent": "football germany",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_germany&id=thomas_muller"
@@ -1095,7 +977,6 @@
     "name": "Manuel Neuer",
     "id": "manuel_neuer",
     "universe": "sports",
-    "path": "football_germany",
     "parent": "football germany",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_germany&id=manuel_neuer"
@@ -1104,7 +985,6 @@
     "name": "Toni Kroos",
     "id": "toni_kroos",
     "universe": "sports",
-    "path": "football_germany",
     "parent": "football germany",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_germany&id=toni_kroos"
@@ -1113,7 +993,6 @@
     "name": "Andrés Iniesta",
     "id": "andres_iniesta",
     "universe": "sports",
-    "path": "football_spain",
     "parent": "football spain",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_spain&id=andres_iniesta"
@@ -1122,7 +1001,6 @@
     "name": "Xavi",
     "id": "xavi",
     "universe": "sports",
-    "path": "football_spain",
     "parent": "football spain",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_spain&id=xavi"
@@ -1131,7 +1009,6 @@
     "name": "Sergio Ramos",
     "id": "sergio_ramos",
     "universe": "sports",
-    "path": "football_spain",
     "parent": "football spain",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_spain&id=sergio_ramos"
@@ -1140,7 +1017,6 @@
     "name": "Iker Casillas",
     "id": "iker_casillas",
     "universe": "sports",
-    "path": "football_spain",
     "parent": "football spain",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_spain&id=iker_casillas"
@@ -1149,7 +1025,6 @@
     "name": "David Villa",
     "id": "david_villa",
     "universe": "sports",
-    "path": "football_spain",
     "parent": "football spain",
     "type": "entity",
     "url": "entity.html?universe=sports&path=football_spain&id=david_villa"
@@ -1158,7 +1033,6 @@
     "name": "Lewis Hamilton",
     "id": "lewis_hamilton",
     "universe": "sports",
-    "path": "formula_1",
     "parent": "formula 1",
     "type": "entity",
     "url": "entity.html?universe=sports&path=formula_1&id=lewis_hamilton"
@@ -1167,7 +1041,6 @@
     "name": "Max Verstappen",
     "id": "max_verstappen",
     "universe": "sports",
-    "path": "formula_1",
     "parent": "formula 1",
     "type": "entity",
     "url": "entity.html?universe=sports&path=formula_1&id=max_verstappen"
@@ -1176,7 +1049,6 @@
     "name": "Michael Schumacher",
     "id": "michael_schumacher",
     "universe": "sports",
-    "path": "formula_1",
     "parent": "formula 1",
     "type": "entity",
     "url": "entity.html?universe=sports&path=formula_1&id=michael_schumacher"
@@ -1185,7 +1057,6 @@
     "name": "Ayrton Senna",
     "id": "ayrton_senna",
     "universe": "sports",
-    "path": "formula_1",
     "parent": "formula 1",
     "type": "entity",
     "url": "entity.html?universe=sports&path=formula_1&id=ayrton_senna"
@@ -1194,7 +1065,6 @@
     "name": "Sebastian Vettel",
     "id": "sebastian_vettel",
     "universe": "sports",
-    "path": "formula_1",
     "parent": "formula 1",
     "type": "entity",
     "url": "entity.html?universe=sports&path=formula_1&id=sebastian_vettel"
@@ -1203,7 +1073,6 @@
     "name": "Novak Djokovic",
     "id": "novak_djokovic",
     "universe": "sports",
-    "path": "tennis",
     "parent": "tennis",
     "type": "entity",
     "url": "entity.html?universe=sports&path=tennis&id=novak_djokovic"
@@ -1212,7 +1081,6 @@
     "name": "Rafael Nadal",
     "id": "rafael_nadal",
     "universe": "sports",
-    "path": "tennis",
     "parent": "tennis",
     "type": "entity",
     "url": "entity.html?universe=sports&path=tennis&id=rafael_nadal"
@@ -1221,7 +1089,6 @@
     "name": "Roger Federer",
     "id": "roger_federer",
     "universe": "sports",
-    "path": "tennis",
     "parent": "tennis",
     "type": "entity",
     "url": "entity.html?universe=sports&path=tennis&id=roger_federer"
@@ -1230,7 +1097,6 @@
     "name": "Carlos Alcaraz",
     "id": "carlos_alcaraz",
     "universe": "sports",
-    "path": "tennis",
     "parent": "tennis",
     "type": "entity",
     "url": "entity.html?universe=sports&path=tennis&id=carlos_alcaraz"
@@ -1239,7 +1105,6 @@
     "name": "Andy Murray",
     "id": "andy_murray",
     "universe": "sports",
-    "path": "tennis",
     "parent": "tennis",
     "type": "entity",
     "url": "entity.html?universe=sports&path=tennis&id=andy_murray"
@@ -1248,7 +1113,6 @@
     "name": "Apple",
     "id": "apple",
     "universe": "fruits",
-    "path": "fruits",
     "parent": "fruits",
     "type": "entity",
     "url": "entity.html?universe=fruits&path=fruits&id=apple"
@@ -1257,7 +1121,6 @@
     "name": "Banana",
     "id": "banana",
     "universe": "fruits",
-    "path": "fruits",
     "parent": "fruits",
     "type": "entity",
     "url": "entity.html?universe=fruits&path=fruits&id=banana"
@@ -1266,7 +1129,6 @@
     "name": "Mango",
     "id": "mango",
     "universe": "fruits",
-    "path": "fruits",
     "parent": "fruits",
     "type": "entity",
     "url": "entity.html?universe=fruits&path=fruits&id=mango"
@@ -1275,7 +1137,6 @@
     "name": "Strawberry",
     "id": "strawberry",
     "universe": "fruits",
-    "path": "fruits",
     "parent": "fruits",
     "type": "entity",
     "url": "entity.html?universe=fruits&path=fruits&id=strawberry"
@@ -1284,7 +1145,6 @@
     "name": "Pineapple",
     "id": "pineapple",
     "universe": "fruits",
-    "path": "fruits",
     "parent": "fruits",
     "type": "entity",
     "url": "entity.html?universe=fruits&path=fruits&id=pineapple"
@@ -1293,7 +1153,6 @@
     "name": "Boeing 747",
     "id": "boeing_747",
     "universe": "vehicles",
-    "path": "aircraft",
     "parent": "aircraft",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=aircraft&id=boeing_747"
@@ -1302,7 +1161,6 @@
     "name": "Airbus A380",
     "id": "airbus_a380",
     "universe": "vehicles",
-    "path": "aircraft",
     "parent": "aircraft",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=aircraft&id=airbus_a380"
@@ -1311,7 +1169,6 @@
     "name": "F-22 Raptor",
     "id": "f22_raptor",
     "universe": "vehicles",
-    "path": "aircraft",
     "parent": "aircraft",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=aircraft&id=f22_raptor"
@@ -1320,7 +1177,6 @@
     "name": "F-35 Lightning II",
     "id": "f35_lightning",
     "universe": "vehicles",
-    "path": "aircraft",
     "parent": "aircraft",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=aircraft&id=f35_lightning"
@@ -1329,7 +1185,6 @@
     "name": "B-2 Spirit",
     "id": "b2_spirit",
     "universe": "vehicles",
-    "path": "aircraft",
     "parent": "aircraft",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=aircraft&id=b2_spirit"
@@ -1338,7 +1193,6 @@
     "name": "Yamaha YZF-R1",
     "id": "yamaha_r1",
     "universe": "vehicles",
-    "path": "bikes",
     "parent": "bikes",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=bikes&id=yamaha_r1"
@@ -1347,7 +1201,6 @@
     "name": "Kawasaki Ninja H2",
     "id": "kawasaki_ninja_h2",
     "universe": "vehicles",
-    "path": "bikes",
     "parent": "bikes",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=bikes&id=kawasaki_ninja_h2"
@@ -1356,7 +1209,6 @@
     "name": "Ducati Panigale V4",
     "id": "ducati_panigale_v4",
     "universe": "vehicles",
-    "path": "bikes",
     "parent": "bikes",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=bikes&id=ducati_panigale_v4"
@@ -1365,7 +1217,6 @@
     "name": "Suzuki Hayabusa",
     "id": "suzuki_hayabusa",
     "universe": "vehicles",
-    "path": "bikes",
     "parent": "bikes",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=bikes&id=suzuki_hayabusa"
@@ -1374,7 +1225,6 @@
     "name": "BMW S1000RR",
     "id": "bmw_s1000rr",
     "universe": "vehicles",
-    "path": "bikes",
     "parent": "bikes",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=bikes&id=bmw_s1000rr"
@@ -1383,7 +1233,6 @@
     "name": "Toyota Camry",
     "id": "toyota_camry",
     "universe": "vehicles",
-    "path": "cars",
     "parent": "cars",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=cars&id=toyota_camry"
@@ -1392,7 +1241,6 @@
     "name": "Tesla Model S",
     "id": "tesla_model_s",
     "universe": "vehicles",
-    "path": "cars",
     "parent": "cars",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=cars&id=tesla_model_s"
@@ -1401,7 +1249,6 @@
     "name": "BMW M3",
     "id": "bmw_m3",
     "universe": "vehicles",
-    "path": "cars",
     "parent": "cars",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=cars&id=bmw_m3"
@@ -1410,7 +1257,6 @@
     "name": "Ford Mustang",
     "id": "ford_mustang",
     "universe": "vehicles",
-    "path": "cars",
     "parent": "cars",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=cars&id=ford_mustang"
@@ -1419,7 +1265,6 @@
     "name": "Lamborghini Aventador",
     "id": "lamborghini_aventador",
     "universe": "vehicles",
-    "path": "cars",
     "parent": "cars",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=cars&id=lamborghini_aventador"
@@ -1428,47 +1273,46 @@
     "name": "Cars",
     "id": "cars",
     "universe": "vehicles",
-    "parent": "Vehicles",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=vehicles&path=cars"
   },
   {
     "name": "Bikes",
     "id": "bikes",
     "universe": "vehicles",
-    "parent": "Vehicles",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=vehicles&path=bikes"
   },
   {
     "name": "Aircraft",
     "id": "aircraft",
     "universe": "vehicles",
-    "parent": "Vehicles",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=vehicles&path=aircraft"
   },
   {
     "name": "Ships",
     "id": "ships",
     "universe": "vehicles",
-    "parent": "Vehicles",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=vehicles&path=ships"
   },
   {
     "name": "Other Vehicles",
     "id": "other_vehicles",
     "universe": "vehicles",
-    "parent": "Vehicles",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=vehicles&path=other_vehicles"
   },
   {
     "name": "Bullock Cart",
     "id": "bullock_cart",
     "universe": "vehicles",
-    "path": "other_vehicles",
     "parent": "other vehicles",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=other_vehicles&id=bullock_cart"
@@ -1477,7 +1321,6 @@
     "name": "Horse Carriage",
     "id": "horse_carriage",
     "universe": "vehicles",
-    "path": "other_vehicles",
     "parent": "other vehicles",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=other_vehicles&id=horse_carriage"
@@ -1486,7 +1329,6 @@
     "name": "Rickshaw",
     "id": "rickshaw",
     "universe": "vehicles",
-    "path": "other_vehicles",
     "parent": "other vehicles",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=other_vehicles&id=rickshaw"
@@ -1495,7 +1337,6 @@
     "name": "Snowmobile",
     "id": "snowmobile",
     "universe": "vehicles",
-    "path": "other_vehicles",
     "parent": "other vehicles",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=other_vehicles&id=snowmobile"
@@ -1504,7 +1345,6 @@
     "name": "Segway",
     "id": "segway",
     "universe": "vehicles",
-    "path": "other_vehicles",
     "parent": "other vehicles",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=other_vehicles&id=segway"
@@ -1513,7 +1353,6 @@
     "name": "RMS Titanic",
     "id": "titanic",
     "universe": "vehicles",
-    "path": "ships",
     "parent": "ships",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=ships&id=titanic"
@@ -1522,7 +1361,6 @@
     "name": "Queen Mary 2",
     "id": "queen_mary_2",
     "universe": "vehicles",
-    "path": "ships",
     "parent": "ships",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=ships&id=queen_mary_2"
@@ -1531,7 +1369,6 @@
     "name": "USS Enterprise",
     "id": "uss_enterprise",
     "universe": "vehicles",
-    "path": "ships",
     "parent": "ships",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=ships&id=uss_enterprise"
@@ -1540,7 +1377,6 @@
     "name": "Ever Given",
     "id": "ever_given",
     "universe": "vehicles",
-    "path": "ships",
     "parent": "ships",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=ships&id=ever_given"
@@ -1549,7 +1385,6 @@
     "name": "HMS Victory",
     "id": "hms_victory",
     "universe": "vehicles",
-    "path": "ships",
     "parent": "ships",
     "type": "entity",
     "url": "entity.html?universe=vehicles&path=ships&id=hms_victory"
@@ -1558,47 +1393,46 @@
     "name": "Mammals",
     "id": "mammals",
     "universe": "animals",
-    "parent": "Animals",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=animals&path=mammals"
   },
   {
     "name": "Dogs",
     "id": "dogs",
     "universe": "animals",
-    "parent": "Animals",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=animals&path=dogs"
   },
   {
     "name": "Extinct Animals",
     "id": "extinct_animals",
     "universe": "animals",
-    "parent": "Animals",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=animals&path=extinct_animals"
   },
   {
     "name": "Insects",
     "id": "insects",
     "universe": "animals",
-    "parent": "Animals",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=animals&path=insects"
   },
   {
     "name": "Marine Animals",
     "id": "marine_animals",
     "universe": "animals",
-    "parent": "Animals",
-    "type": "world",
+    "parent": "categories",
+    "type": "category",
     "url": "category.html?universe=animals&path=marine_animals"
   },
   {
     "name": "Golden Retriever",
     "id": "golden_retriever",
     "universe": "animals",
-    "path": "dogs",
     "parent": "dogs",
     "type": "entity",
     "url": "entity.html?universe=animals&path=dogs&id=golden_retriever"
@@ -1607,7 +1441,6 @@
     "name": "German Shepherd",
     "id": "german_shepherd",
     "universe": "animals",
-    "path": "dogs",
     "parent": "dogs",
     "type": "entity",
     "url": "entity.html?universe=animals&path=dogs&id=german_shepherd"
@@ -1616,7 +1449,6 @@
     "name": "Siberian Husky",
     "id": "siberian_husky",
     "universe": "animals",
-    "path": "dogs",
     "parent": "dogs",
     "type": "entity",
     "url": "entity.html?universe=animals&path=dogs&id=siberian_husky"
@@ -1625,7 +1457,6 @@
     "name": "Bulldog",
     "id": "bulldog",
     "universe": "animals",
-    "path": "dogs",
     "parent": "dogs",
     "type": "entity",
     "url": "entity.html?universe=animals&path=dogs&id=bulldog"
@@ -1634,7 +1465,6 @@
     "name": "Labrador Retriever",
     "id": "labrador_retriever",
     "universe": "animals",
-    "path": "dogs",
     "parent": "dogs",
     "type": "entity",
     "url": "entity.html?universe=animals&path=dogs&id=labrador_retriever"
@@ -1643,7 +1473,6 @@
     "name": "Tyrannosaurus Rex",
     "id": "tyrannosaurus_rex",
     "universe": "animals",
-    "path": "extinct_animals",
     "parent": "extinct animals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=extinct_animals&id=tyrannosaurus_rex"
@@ -1652,7 +1481,6 @@
     "name": "Woolly Mammoth",
     "id": "woolly_mammoth",
     "universe": "animals",
-    "path": "extinct_animals",
     "parent": "extinct animals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=extinct_animals&id=woolly_mammoth"
@@ -1661,7 +1489,6 @@
     "name": "Dodo",
     "id": "dodo",
     "universe": "animals",
-    "path": "extinct_animals",
     "parent": "extinct animals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=extinct_animals&id=dodo"
@@ -1670,7 +1497,6 @@
     "name": "Saber-Toothed Tiger",
     "id": "saber_toothed_tiger",
     "universe": "animals",
-    "path": "extinct_animals",
     "parent": "extinct animals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=extinct_animals&id=saber_toothed_tiger"
@@ -1679,7 +1505,6 @@
     "name": "Triceratops",
     "id": "triceratops",
     "universe": "animals",
-    "path": "extinct_animals",
     "parent": "extinct animals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=extinct_animals&id=triceratops"
@@ -1688,7 +1513,6 @@
     "name": "Butterfly",
     "id": "butterfly",
     "universe": "animals",
-    "path": "insects",
     "parent": "insects",
     "type": "entity",
     "url": "entity.html?universe=animals&path=insects&id=butterfly"
@@ -1697,7 +1521,6 @@
     "name": "Honey Bee",
     "id": "honey_bee",
     "universe": "animals",
-    "path": "insects",
     "parent": "insects",
     "type": "entity",
     "url": "entity.html?universe=animals&path=insects&id=honey_bee"
@@ -1706,7 +1529,6 @@
     "name": "Ant",
     "id": "ant",
     "universe": "animals",
-    "path": "insects",
     "parent": "insects",
     "type": "entity",
     "url": "entity.html?universe=animals&path=insects&id=ant"
@@ -1715,7 +1537,6 @@
     "name": "Dragonfly",
     "id": "dragonfly",
     "universe": "animals",
-    "path": "insects",
     "parent": "insects",
     "type": "entity",
     "url": "entity.html?universe=animals&path=insects&id=dragonfly"
@@ -1724,7 +1545,6 @@
     "name": "Ladybug",
     "id": "ladybug",
     "universe": "animals",
-    "path": "insects",
     "parent": "insects",
     "type": "entity",
     "url": "entity.html?universe=animals&path=insects&id=ladybug"
@@ -1733,7 +1553,6 @@
     "name": "Lion",
     "id": "lion",
     "universe": "animals",
-    "path": "mammals",
     "parent": "mammals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=mammals&id=lion"
@@ -1742,7 +1561,6 @@
     "name": "Elephant",
     "id": "elephant",
     "universe": "animals",
-    "path": "mammals",
     "parent": "mammals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=mammals&id=elephant"
@@ -1751,7 +1569,6 @@
     "name": "Dolphin",
     "id": "dolphin",
     "universe": "animals",
-    "path": "mammals",
     "parent": "mammals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=mammals&id=dolphin"
@@ -1760,7 +1577,6 @@
     "name": "Bat",
     "id": "bat",
     "universe": "animals",
-    "path": "mammals",
     "parent": "mammals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=mammals&id=bat"
@@ -1769,7 +1585,6 @@
     "name": "Kangaroo",
     "id": "kangaroo",
     "universe": "animals",
-    "path": "mammals",
     "parent": "mammals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=mammals&id=kangaroo"
@@ -1778,7 +1593,6 @@
     "name": "Great White Shark",
     "id": "great_white_shark",
     "universe": "animals",
-    "path": "marine_animals",
     "parent": "marine animals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=marine_animals&id=great_white_shark"
@@ -1787,7 +1601,6 @@
     "name": "Octopus",
     "id": "octopus",
     "universe": "animals",
-    "path": "marine_animals",
     "parent": "marine animals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=marine_animals&id=octopus"
@@ -1796,7 +1609,6 @@
     "name": "Dolphin",
     "id": "dolphin_marine",
     "universe": "animals",
-    "path": "marine_animals",
     "parent": "marine animals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=marine_animals&id=dolphin_marine"
@@ -1805,7 +1617,6 @@
     "name": "Jellyfish",
     "id": "jellyfish",
     "universe": "animals",
-    "path": "marine_animals",
     "parent": "marine animals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=marine_animals&id=jellyfish"
@@ -1814,7 +1625,6 @@
     "name": "Seahorse",
     "id": "seahorse",
     "universe": "animals",
-    "path": "marine_animals",
     "parent": "marine animals",
     "type": "entity",
     "url": "entity.html?universe=animals&path=marine_animals&id=seahorse"
