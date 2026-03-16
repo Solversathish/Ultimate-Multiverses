@@ -173,7 +173,7 @@ window.initSearch = async function () {
 
       const imagePath = item.image
         ? item.image
-        : getCDNImage(item.id,"thumb");
+        : getCDNImage(item.id,"thumb",item.universe,item.path);
 
       div.innerHTML = `
         <img src="${imagePath}">
