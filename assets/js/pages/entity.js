@@ -322,7 +322,7 @@ document.querySelectorAll(".gallery-grid img").forEach((img, index) => {
 
   img.onclick = () => {
 
-    modal.style.display = "block";
+    modal.style.display = "flex";
     modalImg.src = img.src;
 
     renderThumbnails(allImages, index);
