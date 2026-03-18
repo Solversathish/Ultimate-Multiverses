@@ -157,18 +157,30 @@ body::before {
 
 /* ================= HEADER ================= */
 .main-header{
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  padding:20px;
-  width:100%;
+  position: fixed;
+  top: 0;
+  left: 0;              /* ✅ important */
+  width: 100%;
+  max-width: 1400px;
+  padding: 11px;
+  background: #111;
+  z-index: 9999;
+align-items: center;
+  display: flex;
+  justify-content: center;   /* ✅ THIS centers content */
+}
+
+body{
+  padding-top: 70px; /* adjust based on header height */
 }
 
 
 .header-container {
   width: 90%;
   max-width: 1400px;
-  margin: auto;
+  padding: 10px 20px;
+  margin: 0 auto;
+
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -185,6 +197,7 @@ body::before {
 .search-box{
   position: relative;
   width: 320px;
+  margin-left: auto;
 }
 
 /* SEARCH INPUT */
@@ -285,18 +298,6 @@ body::before {
   box-shadow: 0 0 12px #00ff88;
 }
 
-
-/* HEADER */
-.main-header{
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  padding:9px 20px;
-  background: #111;
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-}
 
 /* SEARCH BOX */
 .search-box{

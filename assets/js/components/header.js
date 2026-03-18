@@ -124,6 +124,17 @@ window.location.href = el.dataset.url;
 
 }
 
+document.addEventListener("click", function(e){
+
+  const searchBox = document.querySelector(".search-box");
+  const results = document.getElementById("searchResults");
+
+  if (!searchBox.contains(e.target)) {
+    results.style.display = "none";
+  }
+
+});
+
 
 /* HELPERS */
 
