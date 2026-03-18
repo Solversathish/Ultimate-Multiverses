@@ -99,6 +99,231 @@
     "url": "entity.html?universe=anime&path=naruto&id=itachi_uchiha"
   },
   {
+    "name": "Minato Namikaze",
+    "id": "minato_namikaze",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=minato_namikaze"
+  },
+  {
+    "name": "Hinata Hyuga",
+    "id": "hinata_hyuga",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=hinata_hyuga"
+  },
+  {
+    "name": "Gaara",
+    "id": "gaara",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=gaara"
+  },
+  {
+    "name": "Rock Lee",
+    "id": "rock_lee",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=rock_lee"
+  },
+  {
+    "name": "Shikamaru Nara",
+    "id": "shikamaru_nara",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=shikamaru_nara"
+  },
+  {
+    "name": "Iruka Umino",
+    "id": "iruka_umino",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=iruka_umino"
+  },
+  {
+    "name": "Konohamaru",
+    "id": "konohamaru",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=konohamaru"
+  },
+  {
+    "name": "Kiba Inuzuka",
+    "id": "kiba_inuzuka",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=kiba_inuzuka"
+  },
+  {
+    "name": "Shino Aburame",
+    "id": "shino_aburame",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=shino_aburame"
+  },
+  {
+    "name": "Choji Akimichi",
+    "id": "choji_akimichi",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=choji_akimichi"
+  },
+  {
+    "name": "Ino Yamanaka",
+    "id": "ino_yamanaka",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=ino_yamanaka"
+  },
+  {
+    "name": "Neji Hyuga",
+    "id": "neji_hyuga",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=neji_hyuga"
+  },
+  {
+    "name": "Tenten",
+    "id": "tenten",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=tenten"
+  },
+  {
+    "name": "Might Guy",
+    "id": "might_guy",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=might_guy"
+  },
+  {
+    "name": "Zabuza Momochi",
+    "id": "zabuza_momochi",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=zabuza_momochi"
+  },
+  {
+    "name": "Haku",
+    "id": "haku",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=haku"
+  },
+  {
+    "name": "Orochimaru",
+    "id": "orochimaru",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=orochimaru"
+  },
+  {
+    "name": "Jiraiya",
+    "id": "jiraiya",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=jiraiya"
+  },
+  {
+    "name": "Tsunade",
+    "id": "tsunade",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=tsunade"
+  },
+  {
+    "name": "Anko Mitarashi",
+    "id": "anko_mitarashi",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=anko_mitarashi"
+  },
+  {
+    "name": "Kurenai Yuhi",
+    "id": "kurenai_yuhi",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=kurenai_yuhi"
+  },
+  {
+    "name": "Asuma Sarutobi",
+    "id": "asuma_sarutobi",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=asuma_sarutobi"
+  },
+  {
+    "name": "Ebisu",
+    "id": "ebisu",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=ebisu"
+  },
+  {
+    "name": "Hayate Gekko",
+    "id": "hayate_gekko",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=hayate_gekko"
+  },
+  {
+    "name": "Dosu Kinuta",
+    "id": "dosu_kinuta",
+    "type": "entity",
+    "universe": "anime",
+    "path": "naruto",
+    "parent": "Naruto",
+    "url": "entity.html?universe=anime&path=naruto&id=dosu_kinuta"
+  },
+  {
     "name": "One Piece",
     "id": "one_piece",
     "type": "category",

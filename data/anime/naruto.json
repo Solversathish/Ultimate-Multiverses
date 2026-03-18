@@ -172,5 +172,735 @@
 },
 
 "gallery_count":6
+},
+
+{
+"id":"minato_namikaze",
+"name":"Minato Namikaze",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=minato_namikaze",
+"parent":"naruto",
+"info":{"Village:":"Hidden Leaf","Rank:":"Hokage","Team:":"Team Minato","Sex:":"Male","Clan:":"Namikaze clan"},
+"tabs":{
+"tab1":{"title":"Description","content":"Minato is the Fourth Hokage.<br><br>Known as Yellow Flash.<br><br>He is Naruto’s father.<br><br>He sealed Kurama inside Naruto."},
+"tab2":{"title":"Abilities","content":"<ul><li>Flying Raijin</li><li>Rasengan</li><li>Speed</li><li>Sealing Jutsu</li><li>Strategy</li><li>Reflexes</li><li>Teleportation</li><li>Battle IQ</li><li>Kunai Skills</li><li>Chakra Control</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>4th Hokage</li><li>Naruto’s father</li><li>Fastest ninja</li><li>Hero of Leaf</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"hinata_hyuga",
+"name":"Hinata Hyuga",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=hinata_hyuga",
+"parent":"naruto",
+"info":{"Village:":"Hidden Leaf","Rank:":"Jonin","Team:":"Team 8","Sex:":"Female","Clan:":"Hyuga clan"},
+"tabs":{
+"tab1":{"title":"Description","content":"Hinata is a gentle ninja from Hyuga clan.<br><br>She loves Naruto deeply.<br><br>She becomes strong over time.<br><br>She fights with courage."},
+"tab2":{"title":"Abilities","content":"<ul><li>Byakugan</li><li>Gentle Fist</li><li>Chakra Control</li><li>Speed</li><li>Defense</li><li>Taijutsu</li><li>Precision</li><li>Reflexes</li><li>Tracking</li><li>Endurance</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Hyuga princess</li><li>Naruto’s wife</li><li>Mother of Boruto</li><li>Kind nature</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"gaara",
+"name":"Gaara",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=gaara",
+"parent":"naruto",
+"info":{"Village:":"Sand Village","Rank:":"Kazekage","Team:":"Sand","Sex:":"Male","Clan:":"Kazekage clan"},
+"tabs":{
+"tab1":{"title":"Description","content":"Gaara was once feared as a monster.<br><br>He becomes a great leader.<br><br>He controls sand.<br><br>He becomes Kazekage."},
+"tab2":{"title":"Abilities","content":"<ul><li>Sand Control</li><li>Defense Shield</li><li>Sealing</li><li>Shukaku Power</li><li>Flight</li><li>Sand Coffin</li><li>Sand Burial</li><li>Speed</li><li>Control</li><li>Defense</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Kazekage</li><li>Former Jinchuriki</li><li>Friend of Naruto</li><li>Controls sand</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"rock_lee",
+"name":"Rock Lee",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=rock_lee",
+"parent":"naruto",
+"info":{"Village:":"Hidden Leaf","Rank:":"Jonin","Team:":"Team Guy","Sex:":"Male","Clan:":"Lee clan"},
+"tabs":{
+"tab1":{"title":"Description","content":"Rock Lee is a taijutsu specialist.<br><br>He cannot use ninjutsu.<br><br>He trains extremely hard.<br><br>He proves hard work beats talent."},
+"tab2":{"title":"Abilities","content":"<ul><li>Taijutsu</li><li>Eight Gates</li><li>Speed</li><li>Strength</li><li>Endurance</li><li>Combat Skills</li><li>Reflexes</li><li>Kicks</li><li>Agility</li><li>Stamina</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Student of Guy</li><li>No ninjutsu</li><li>Hard worker</li><li>Green suit</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"shikamaru_nara",
+"name":"Shikamaru Nara",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=shikamaru_nara",
+"parent":"naruto",
+"info":{"Village:":"Hidden Leaf","Rank:":"Jonin","Team:":"Team 10","Sex:":"Male","Clan:":"Nara clan"},
+"tabs":{
+"tab1":{"title":"Description","content":"Shikamaru is a genius strategist.<br><br>He prefers a lazy life.<br><br>He has high IQ.<br><br>He becomes Naruto’s advisor."},
+"tab2":{"title":"Abilities","content":"<ul><li>Shadow Possession</li><li>Strategy</li><li>High IQ</li><li>Planning</li><li>Trap Skills</li><li>Combat Intelligence</li><li>Leadership</li><li>Timing</li><li>Control</li><li>Analysis</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Lazy genius</li><li>200+ IQ</li><li>Advisor of Hokage</li><li>Chess lover</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"iruka_umino",
+"name":"Iruka Umino",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=iruka_umino",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Chunin",
+"Team:":"Academy Teacher",
+"Sex:":"Male",
+"Clan:":"Unknown"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Iruka is a kind-hearted ninja and academy teacher.<br><br>He was the first person to truly acknowledge Naruto.<br><br>He acts as a father figure to Naruto.<br><br>He believes in guiding the next generation."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Basic Ninjutsu</li><li>Shuriken Skills</li><li>Teaching Skills</li><li>Chakra Control</li><li>Combat Basics</li><li>Endurance</li><li>Team Support</li><li>Defense</li><li>Strategy</li><li>Leadership</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Academy teacher</li><li>Naruto’s mentor</li><li>Lost parents to Nine-Tails</li><li>Kind personality</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"konohamaru",
+"name":"Konohamaru",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=konohamaru",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Genin",
+"Team:":"Konohamaru Team",
+"Sex:":"Male",
+"Clan:":"Sarutobi clan"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Konohamaru is the grandson of the Third Hokage.<br><br>He looks up to Naruto as his mentor.<br><br>He is energetic and determined.<br><br>He wants to become Hokage."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Shadow Clone</li><li>Basic Rasengan</li><li>Transformation Jutsu</li><li>Stealth</li><li>Speed</li><li>Taijutsu</li><li>Chakra Control</li><li>Combat Basics</li><li>Throwing Skills</li><li>Agility</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Grandson of 3rd Hokage</li><li>Admires Naruto</li><li>Future Hokage dream</li><li>Leader of his team</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"kiba_inuzuka",
+"name":"Kiba Inuzuka",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=kiba_inuzuka",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Genin",
+"Team:":"Team 8",
+"Sex:":"Male",
+"Clan:":"Inuzuka clan"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Kiba is a wild and energetic ninja who fights alongside his dog Akamaru.<br><br>He relies on strong senses and teamwork.<br><br>He is confident and competitive.<br><br>He values loyalty deeply."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Beast Imitation</li><li>Enhanced Smell</li><li>Fang Over Fang</li><li>Speed</li><li>Tracking</li><li>Taijutsu</li><li>Team Attacks</li><li>Agility</li><li>Reflexes</li><li>Endurance</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Partner is Akamaru</li><li>Dog-based fighting style</li><li>Strong sense of smell</li><li>Loud personality</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"shino_aburame",
+"name":"Shino Aburame",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=shino_aburame",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Genin",
+"Team:":"Team 8",
+"Sex:":"Male",
+"Clan:":"Aburame clan"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Shino is a calm and mysterious ninja.<br><br>He uses insects in battle.<br><br>He rarely shows emotions.<br><br>He is highly intelligent and tactical."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Insect Control</li><li>Chakra Drain</li><li>Tracking</li><li>Strategy</li><li>Stealth</li><li>Defense</li><li>Long Range Attacks</li><li>Analysis</li><li>Patience</li><li>Control</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Uses bugs</li><li>Very calm</li><li>Hidden emotions</li><li>Rarely loses fights</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"choji_akimichi",
+"name":"Choji Akimichi",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=choji_akimichi",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Genin",
+"Team:":"Team 10",
+"Sex:":"Male",
+"Clan:":"Akimichi clan"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Choji is a kind-hearted ninja who values friendship.<br><br>He uses his body size in combat.<br><br>He gains strength from confidence.<br><br>He is loyal to his friends."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Expansion Jutsu</li><li>Human Boulder</li><li>Strength</li><li>Defense</li><li>Endurance</li><li>Speed Boost</li><li>Body Control</li><li>Team Support</li><li>Power Attacks</li><li>Resilience</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Loves food</li><li>Best friend of Shikamaru</li><li>Kind personality</li><li>Uses size power</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"ino_yamanaka",
+"name":"Ino Yamanaka",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=ino_yamanaka",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Genin",
+"Team:":"Team 10",
+"Sex:":"Female",
+"Clan:":"Yamanaka clan"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Ino is a confident and skilled kunoichi.<br><br>She specializes in mind techniques.<br><br>She is competitive with Sakura.<br><br>She values teamwork and friendship."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Mind Transfer Jutsu</li><li>Chakra Control</li><li>Intelligence</li><li>Support Skills</li><li>Communication</li><li>Strategy</li><li>Speed</li><li>Precision</li><li>Coordination</li><li>Awareness</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Flower shop owner</li><li>Rival of Sakura</li><li>Mind techniques</li><li>Team 10 member</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"neji_hyuga",
+"name":"Neji Hyuga",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=neji_hyuga",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Genin",
+"Team:":"Team Guy",
+"Sex:":"Male",
+"Clan:":"Hyuga clan"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Neji is a prodigy of the Hyuga clan.<br><br>He believes in destiny.<br><br>He uses Byakugan in combat.<br><br>He later changes his mindset."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Byakugan</li><li>Gentle Fist</li><li>Chakra Points Attack</li><li>Defense</li><li>Rotation</li><li>Speed</li><li>Precision</li><li>Vision</li><li>Reflexes</li><li>Taijutsu</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Hyuga prodigy</li><li>Cousin of Hinata</li><li>Believed in fate</li><li>Strong genius</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"tenten",
+"name":"Tenten",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=tenten",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Genin",
+"Team:":"Team Guy",
+"Sex:":"Female",
+"Clan:":"Unknown"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Tenten is a weapons specialist ninja.<br><br>She uses scroll-based attacks.<br><br>She is disciplined and focused.<br><br>She aims to become a great kunoichi."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Weapon Mastery</li><li>Scroll Attacks</li><li>Precision</li><li>Speed</li><li>Accuracy</li><li>Long Range Combat</li><li>Strategy</li><li>Agility</li><li>Reflexes</li><li>Coordination</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Weapon expert</li><li>Team Guy member</li><li>Accurate attacks</li><li>Hardworking ninja</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"might_guy",
+"name":"Might Guy",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=might_guy",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Jonin",
+"Team:":"Team Guy",
+"Sex:":"Male",
+"Clan:":"Unknown"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Might Guy is a powerful taijutsu master.<br><br>He believes in hard work.<br><br>He trains Rock Lee.<br><br>He has a strong energetic personality."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Taijutsu</li><li>Eight Gates</li><li>Speed</li><li>Strength</li><li>Endurance</li><li>Combat Skills</li><li>Reflexes</li><li>Agility</li><li>Stamina</li><li>Power Attacks</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Teacher of Lee</li><li>Green jumpsuit</li><li>Energetic</li><li>Rival of Kakashi</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"zabuza_momochi",
+"name":"Zabuza Momochi",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=zabuza_momochi",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Mist",
+"Rank:":"Missing Ninja",
+"Team:":"Seven Swordsmen",
+"Sex:":"Male",
+"Clan:":"Unknown"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Zabuza is a dangerous rogue ninja from the Mist Village.<br><br>He is known as the Demon of the Mist.<br><br>He uses a giant sword.<br><br>He shows hidden humanity through Haku."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Sword Mastery</li><li>Water Style</li><li>Silent Killing</li><li>Stealth</li><li>Strength</li><li>Endurance</li><li>Combat Skills</li><li>Speed</li><li>Fog Techniques</li><li>Assassination</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Demon of Mist</li><li>Uses big sword</li><li>Partner of Haku</li><li>Rogue ninja</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"haku",
+"name":"Haku",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=haku",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Mist",
+"Rank:":"Missing Ninja",
+"Team:":"Zabuza",
+"Sex:":"Male",
+"Clan:":"Unknown"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Haku is a gentle yet powerful ninja who serves Zabuza.<br><br>He possesses a rare Ice Release ability.<br><br>Despite being a fighter, he has a kind heart.<br><br>He values loyalty above all."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Ice Release</li><li>Crystal Ice Mirrors</li><li>Speed</li><li>Senbon Needles</li><li>Stealth</li><li>Tracking</li><li>Precision</li><li>Agility</li><li>Reflexes</li><li>Defense</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Loyal to Zabuza</li><li>Tragic childhood</li><li>Uses ice powers</li><li>Kind personality</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"orochimaru",
+"name":"Orochimaru",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=orochimaru",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf (Former)",
+"Rank:":"Rogue Ninja",
+"Team:":"Sound Village",
+"Sex:":"Male",
+"Clan:":"Unknown"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Orochimaru is a legendary Sannin obsessed with immortality.<br><br>He experiments on humans for power.<br><br>He is one of the main villains in Naruto.<br><br>He seeks ultimate knowledge of jutsu."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Snake Techniques</li><li>Regeneration</li><li>Forbidden Jutsu</li><li>Summoning (Snakes)</li><li>Immortality Experiments</li><li>Stretch Body</li><li>Curse Mark</li><li>Poison Attacks</li><li>Stealth</li><li>Strategy</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>One of the Sannin</li><li>Former Leaf ninja</li><li>Created Sound Village</li><li>Seeks immortality</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"jiraiya",
+"name":"Jiraiya",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=jiraiya",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Sannin",
+"Team:":"Legendary Sannin",
+"Sex:":"Male",
+"Clan:":"Unknown"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Jiraiya is one of the Legendary Sannin.<br><br>He is Naruto’s mentor.<br><br>He is powerful yet humorous.<br><br>He trains Naruto to become strong."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Summoning (Toads)</li><li>Rasengan</li><li>Fire Style</li><li>Spying Skills</li><li>Taijutsu</li><li>Chakra Control</li><li>Sealing Jutsu</li><li>Speed</li><li>Strength</li><li>Strategy</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>One of Sannin</li><li>Teacher of Naruto</li><li>Writes novels</li><li>Trained Minato</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"tsunade",
+"name":"Tsunade",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=tsunade",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Hokage",
+"Team:":"Legendary Sannin",
+"Sex:":"Female",
+"Clan:":"Senju clan"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Tsunade is a Legendary Sannin and medical expert.<br><br>She becomes the Fifth Hokage.<br><br>She has immense strength.<br><br>She trains Sakura."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Medical Ninjutsu</li><li>Super Strength</li><li>Healing</li><li>Chakra Control</li><li>Summoning (Slug)</li><li>Endurance</li><li>Regeneration</li><li>Combat Skills</li><li>Leadership</li><li>Defense</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>5th Hokage</li><li>Sannin member</li><li>Medical expert</li><li>Gambling habit</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"anko_mitarashi",
+"name":"Anko Mitarashi",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=anko_mitarashi",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Special Jonin",
+"Team:":"Exam Proctor",
+"Sex:":"Female",
+"Clan:":"Unknown"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Anko is a bold and fearless ninja.<br><br>She was once Orochimaru’s student.<br><br>She works as a Chunin exam proctor.<br><br>She has a wild personality."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Snake Techniques</li><li>Curse Mark</li><li>Speed</li><li>Taijutsu</li><li>Stealth</li><li>Combat Skills</li><li>Reflexes</li><li>Agility</li><li>Tracking</li><li>Endurance</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Student of Orochimaru</li><li>Chunin exam proctor</li><li>Bold personality</li><li>Uses snake jutsu</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"kurenai_yuhi",
+"name":"Kurenai Yuhi",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=kurenai_yuhi",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Jonin",
+"Team:":"Team 8",
+"Sex:":"Female",
+"Clan:":"Unknown"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Kurenai is a skilled genjutsu specialist.<br><br>She leads Team 8.<br><br>She is calm and intelligent.<br><br>She focuses on illusion techniques."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Genjutsu</li><li>Illusion Control</li><li>Strategy</li><li>Chakra Control</li><li>Defense</li><li>Tracking</li><li>Analysis</li><li>Stealth</li><li>Reflexes</li><li>Support</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Team 8 leader</li><li>Genjutsu expert</li><li>Calm personality</li><li>Leaf Jonin</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"asuma_sarutobi",
+"name":"Asuma Sarutobi",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=asuma_sarutobi",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Jonin",
+"Team:":"Team 10",
+"Sex:":"Male",
+"Clan:":"Sarutobi clan"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Asuma is a skilled Jonin and leader of Team 10.<br><br>He is calm and experienced.<br><br>He values his students deeply.<br><br>He is the son of the Third Hokage."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Chakra Blades</li><li>Wind Release</li><li>Taijutsu</li><li>Strategy</li><li>Combat Skills</li><li>Speed</li><li>Strength</li><li>Reflexes</li><li>Leadership</li><li>Endurance</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Son of 3rd Hokage</li><li>Team 10 leader</li><li>Uses chakra blades</li><li>Calm personality</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"ebisu",
+"name":"Ebisu",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=ebisu",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Jonin",
+"Team:":"Konohamaru Teacher",
+"Sex:":"Male",
+"Clan:":"Unknown"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Ebisu is a strict teacher assigned to Konohamaru.<br><br>He focuses on proper ninja training.<br><br>He initially dislikes Naruto.<br><br>He values discipline."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Teaching Skills</li><li>Chakra Control</li><li>Basic Ninjutsu</li><li>Strategy</li><li>Defense</li><li>Combat Basics</li><li>Reflexes</li><li>Support</li><li>Tracking</li><li>Awareness</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Konohamaru’s teacher</li><li>Wears sunglasses</li><li>Strict personality</li><li>Leaf ninja</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"hayate_gekko",
+"name":"Hayate Gekko",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=hayate_gekko",
+"parent":"naruto",
+
+"info":{
+"Village:":"Hidden Leaf",
+"Rank:":"Special Jonin",
+"Team:":"Exam Proctor",
+"Sex:":"Male",
+"Clan:":"Unknown"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Hayate is a calm and sickly ninja who serves as a Chunin exam proctor.<br><br>He is skilled despite his weak appearance.<br><br>He is dedicated to his duty.<br><br>He shows bravery in danger."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Swordsmanship</li><li>Speed</li><li>Stealth</li><li>Combat Skills</li><li>Reflexes</li><li>Tracking</li><li>Endurance</li><li>Precision</li><li>Defense</li><li>Awareness</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Chunin exam proctor</li><li>Always coughing</li><li>Brave ninja</li><li>Uses sword</li></ul>"
+}
+},
+
+"gallery_count":6
+},
+
+{
+"id":"dosu_kinuta",
+"name":"Dosu Kinuta",
+"type":"entity",
+"url":"entity.html?universe=anime&path=naruto&id=dosu_kinuta",
+"parent":"naruto",
+
+"info":{
+"Village:":"Sound Village",
+"Rank:":"Genin",
+"Team:":"Sound Team",
+"Sex:":"Male",
+"Clan:":"Unknown"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Dosu is a ninja from the Sound Village.<br><br>He uses sound-based attacks.<br><br>He is calm and strategic.<br><br>He participates in Chunin exams."
+},
+"tab2":{
+"title":"Abilities",
+"content":"<ul><li>Sound Attacks</li><li>Vibration Control</li><li>Strategy</li><li>Stealth</li><li>Speed</li><li>Combat Skills</li><li>Reflexes</li><li>Precision</li><li>Tracking</li><li>Defense</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Sound ninja</li><li>Uses arm device</li><li>Chunin exam fighter</li><li>Calm personality</li></ul>"
+}
+},
+
+"gallery_count":6
 }
 ]
