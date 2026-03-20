@@ -138,3 +138,11 @@ window.initSearch = async function () {
 document.addEventListener("DOMContentLoaded", () => {
   initSearch();
 });
+
+function slugify(name){
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')  // remove special chars
+    .replace(/\s+/g, '-')          // spaces → dash
+    .replace(/-+/g, '-');          // remove extra dash
+}

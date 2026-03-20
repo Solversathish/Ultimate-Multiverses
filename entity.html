@@ -56,5 +56,27 @@
 <script src="assets/js/components/entityNavigation.js"></script>
 
 <script src="assets/js/pages/entity.js"></script>
+
+<script>
+function slugify(name){
+  return name.toLowerCase().replace(/\s+/g, '-');
+}
+
+const urlParams = new URLSearchParams(window.location.search);
+
+const universe = urlParams.get("universe");
+const path = urlParams.get("path");
+const id = urlParams.get("id");
+
+// Example: naruto_uzumaki → Naruto Uzumaki
+const name = id.replace(/_/g, " ");
+const slug = slugify(name);
+
+const cleanURL = `/${universe}/${path}/${slug}`;
+
+window.history.replaceState({}, "", cleanURL);
+</script>
+
+<script src="/js/entity-loader.js"></script>
 </body>
 </html>
