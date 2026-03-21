@@ -4,15 +4,30 @@ const container = document.getElementById("entityContainer");
 const galleryContainer = document.getElementById("galleryContainer");
 const breadcrumbs = document.getElementById("breadcrumbs");
 
+/* ================= GET PARAMS (UPDATED 🔥) ================= */
+
 const params = new URLSearchParams(window.location.search);
 
-const universe = params.get("universe");
-const id = params.get("id");
-const path = params.get("path");
+let universe = params.get("universe");
+let id = params.get("id");
+let path = params.get("path");
+
+/* ✅ CLEAN URL SUPPORT (NEW 🔥) */
+if(!id){
+  const parts = window.location.pathname.split("/").filter(Boolean);
+
+  if(parts.length >= 2){
+    universe = parts[0];
+    const slug = parts[parts.length - 1];
+
+    // convert slug → id
+    id = slug.replace(/-/g, "_");
+  }
+}
 
 if(!id){
-container.innerHTML="Entity not found";
-return;
+  container.innerHTML="Entity not found";
+  return;
 }
 
 let entity=null;
@@ -53,8 +68,6 @@ return;
 }
 
 /* ================= SEO PART (FIXED 🔥) ================= */
-document.querySelector("meta[name='description']")
-document.querySelector("meta[name='keywords']")
 
 try{
 
@@ -81,12 +94,12 @@ try{
 
   // ✅ KEYWORDS
   const keywords = [
-  entity.name,
-  `${entity.name} ${entity.tabs?.tab1?.title || ""}`,
-  `${entity.name} ${entity.tabs?.tab2?.title || ""}`,
-  `${entity.name} ${entity.tabs?.tab3?.title || ""}`,
-  universe
-].join(", ");
+    entity.name,
+    `${entity.name} ${tab1Title}`,
+    `${entity.name} ${tab2Title}`,
+    `${entity.name} ${tab3Title}`,
+    universe
+  ].join(", ");
 
   const metaKeywords = document.querySelector("meta[name='keywords']");
   if(metaKeywords){
@@ -206,6 +219,7 @@ window.scrollTo({top:0,behavior:"smooth"});
 }
 
 
+
 /* ================= NAVIGATION ================= */
 
 function renderNavigation(list,id,universe,path){
@@ -222,10 +236,10 @@ const next = list[index+1];
 function buildURL(item){
 
 if(path){
-return `entity.html?universe=${universe}&path=${path}&id=${item.id}`;
+return `entity.html?universe=${universe}&path=${path}&id=${slugify(item.id)}`;
 }
 
-return `entity.html?universe=${universe}&id=${item.id}`;
+return `entity.html?universe=${universe}&id=${slugify(item.id)}`;
 
 }
 
@@ -250,7 +264,6 @@ ${next.name} →
 `;
 
 }
-
 
 /* ================= TABS ================= */
 
@@ -434,5 +447,5 @@ return str.replace(/_/g," ").replace(/\b\w/g,c=>c.toUpperCase()).trim();
 }
 
 function slugify(name){
-  return name.toLowerCase().replace(/\s+/g, '-');
+return name.toLowerCase().replace(/\s+/g, '-');
 }
