@@ -1,41 +1,53 @@
 [
-{
-"id":"naruto",
-"name":"Naruto",
-"type":"category",
-"url":"category.html?universe=anime&path=naruto",
-"parent":"anime"
-},
-
-{
-"id":"one_piece",
-"name":"One Piece",
-"type":"category",
-"url":"category.html?universe=anime&path=one_piece",
-"parent":"anime"
-},
-
-{
-"id":"bleach",
-"name":"Bleach",
-"type":"category",
-"url":"category.html?universe=anime&path=bleach",
-"parent":"anime"
-},
-
-{
-"id":"dragon_ball",
-"name":"Dragon Ball",
-"type":"category",
-"url":"category.html?universe=anime&path=dragon_ball",
-"parent":"anime"
-},
-
-{
-"id":"attack_on_titan",
-"name":"Attack on Titan",
-"type":"category",
-"url":"category.html?universe=anime&path=attack_on_titan",
-"parent":"anime"
-}
+  { "id": "akame_ga_kill", "name": "Akame ga Kill", "type": "category", "universe": "anime", "path": "akame_ga_kill", "url": "category.html?universe=anime&path=akame_ga_kill", "parent": "anime" },
+  { "id": "another", "name": "Another", "type": "category", "universe": "anime", "path": "another", "url": "category.html?universe=anime&path=another", "parent": "anime" },
+  { "id": "assassination_classroom", "name": "Assassination Classroom", "type": "category", "universe": "anime", "path": "assassination_classroom", "url": "category.html?universe=anime&path=assassination_classroom", "parent": "anime" },
+  { "id": "attack_on_titan", "name": "Attack on Titan", "type": "category", "universe": "anime", "path": "attack_on_titan", "url": "category.html?universe=anime&path=attack_on_titan", "parent": "anime" },
+  { "id": "baki_hanma", "name": "Baki Hanma", "type": "category", "universe": "anime", "path": "baki_hanma", "url": "category.html?universe=anime&path=baki_hanma", "parent": "anime" },
+  { "id": "black_clover", "name": "Black Clover", "type": "category", "universe": "anime", "path": "black_clover", "url": "category.html?universe=anime&path=black_clover", "parent": "anime" },
+  { "id": "bleach", "name": "Bleach", "type": "category", "universe": "anime", "path": "bleach", "url": "category.html?universe=anime&path=bleach", "parent": "anime" },
+  { "id": "blue_lock", "name": "Blue Lock", "type": "category", "universe": "anime", "path": "blue_lock", "url": "category.html?universe=anime&path=blue_lock", "parent": "anime" },
+  { "id": "bungo_stray_dogs", "name": "Bungo Stray Dogs", "type": "category", "universe": "anime", "path": "bungo_stray_dogs", "url": "category.html?universe=anime&path=bungo_stray_dogs", "parent": "anime" },
+  { "id": "chainsaw_man", "name": "Chainsaw Man", "type": "category", "universe": "anime", "path": "chainsaw_man", "url": "category.html?universe=anime&path=chainsaw_man", "parent": "anime" },
+  { "id": "code_geass", "name": "Code Geass", "type": "category", "universe": "anime", "path": "code_geass", "url": "category.html?universe=anime&path=code_geass", "parent": "anime" },
+  { "id": "dandadan", "name": "Dandadan", "type": "category", "universe": "anime", "path": "dandadan", "url": "category.html?universe=anime&path=dandadan", "parent": "anime" },
+  { "id": "dc_animated_universe", "name": "DC Animated Universe", "type": "category", "universe": "anime", "path": "dc_animated_universe", "url": "category.html?universe=anime&path=dc_animated_universe", "parent": "anime" },
+  { "id": "death_note", "name": "Death Note", "type": "category", "universe": "anime", "path": "death_note", "url": "category.html?universe=anime&path=death_note", "parent": "anime" },
+  { "id": "demon_slayer", "name": "Demon Slayer", "type": "category", "universe": "anime", "path": "demon_slayer", "url": "category.html?universe=anime&path=demon_slayer", "parent": "anime" },
+  { "id": "dragon_ball", "name": "Dragon Ball", "type": "category", "universe": "anime", "path": "dragon_ball", "url": "category.html?universe=anime&path=dragon_ball", "parent": "anime" },
+  { "id": "dragon_ball_super", "name": "Dragon Ball Super", "type": "category", "universe": "anime", "path": "dragon_ball_super", "url": "category.html?universe=anime&path=dragon_ball_super", "parent": "anime" },
+  { "id": "dragon_ball_z", "name": "Dragon Ball Z", "type": "category", "universe": "anime", "path": "dragon_ball_z", "url": "category.html?universe=anime&path=dragon_ball_z", "parent": "anime" },
+  { "id": "dr_stone", "name": "Dr. Stone", "type": "category", "universe": "anime", "path": "dr_stone", "url": "category.html?universe=anime&path=dr_stone", "parent": "anime" },
+  { "id": "erased", "name": "Erased", "type": "category", "universe": "anime", "path": "erased", "url": "category.html?universe=anime&path=erased", "parent": "anime" },
+  { "id": "fairy_tail", "name": "Fairy Tail", "type": "category", "universe": "anime", "path": "fairy_tail", "url": "category.html?universe=anime&path=fairy_tail", "parent": "anime" },
+  { "id": "fire_force", "name": "Fire Force", "type": "category", "universe": "anime", "path": "fire_force", "url": "category.html?universe=anime&path=fire_force", "parent": "anime" },
+  { "id": "fullmetal_alchemist", "name": "Fullmetal Alchemist", "type": "category", "universe": "anime", "path": "fullmetal_alchemist", "url": "category.html?universe=anime&path=fullmetal_alchemist", "parent": "anime" },
+  { "id": "gintama", "name": "Gintama", "type": "category", "universe": "anime", "path": "gintama", "url": "category.html?universe=anime&path=gintama", "parent": "anime" },
+  { "id": "god_of_high_school", "name": "The God of High School", "type": "category", "universe": "anime", "path": "god_of_high_school", "url": "category.html?universe=anime&path=god_of_high_school", "parent": "anime" },
+  { "id": "haikyuu", "name": "Haikyuu!!", "type": "category", "universe": "anime", "path": "haikyuu", "url": "category.html?universe=anime&path=haikyuu", "parent": "anime" },
+  { "id": "hells_paradise", "name": "Hell's Paradise", "type": "category", "universe": "anime", "path": "hells_paradise", "url": "category.html?universe=anime&path=hells_paradise", "parent": "anime" },
+  { "id": "hunter_x_hunter", "name": "Hunter x Hunter", "type": "category", "universe": "anime", "path": "hunter_x_hunter", "url": "category.html?universe=anime&path=hunter_x_hunter", "parent": "anime" },
+  { "id": "invincible", "name": "Invincible", "type": "category", "universe": "anime", "path": "invincible", "url": "category.html?universe=anime&path=invincible", "parent": "anime" },
+  { "id": "jojos_bizarre_adventure", "name": "JoJo's Bizarre Adventure", "type": "category", "universe": "anime", "path": "jojos_bizarre_adventure", "url": "category.html?universe=anime&path=jojos_bizarre_adventure", "parent": "anime" },
+  { "id": "jujutsu_kaisen", "name": "Jujutsu Kaisen", "type": "category", "universe": "anime", "path": "jujutsu_kaisen", "url": "category.html?universe=anime&path=jujutsu_kaisen", "parent": "anime" },
+  { "id": "legend_of_hanuman", "name": "The Legend of Hanuman", "type": "category", "universe": "anime", "path": "legend_of_hanuman", "url": "category.html?universe=anime&path=legend_of_hanuman", "parent": "anime" },
+  { "id": "marvel_animated_universe", "name": "Marvel Animated Universe", "type": "category", "universe": "anime", "path": "marvel_animated_universe", "url": "category.html?universe=anime&path=marvel_animated_universe", "parent": "anime" },
+  { "id": "mashle_magic_and_muscles", "name": "Mashle: Magic and Muscles", "type": "category", "universe": "anime", "path": "mashle_magic_and_muscles", "url": "category.html?universe=anime&path=mashle_magic_and_muscles", "parent": "anime" },
+  { "id": "mob_psycho_100", "name": "Mob Psycho 100", "type": "category", "universe": "anime", "path": "mob_psycho_100", "url": "category.html?universe=anime&path=mob_psycho_100", "parent": "anime" },
+  { "id": "my_hero_academia", "name": "My Hero Academia", "type": "category", "universe": "anime", "path": "my_hero_academia", "url": "category.html?universe=anime&path=my_hero_academia", "parent": "anime" },
+  { "id": "naruto", "name": "Naruto", "type": "category", "universe": "anime", "path": "naruto", "url": "category.html?universe=anime&path=naruto", "parent": "anime" },
+  { "id": "naruto_shippuden", "name": "Naruto Shippuden", "type": "category", "universe": "anime", "path": "naruto_shippuden", "url": "category.html?universe=anime&path=naruto_shippuden", "parent": "anime" },
+  { "id": "no_game_no_life", "name": "No Game No Life", "type": "category", "universe": "anime", "path": "no_game_no_life", "url": "category.html?universe=anime&path=no_game_no_life", "parent": "anime" },
+  { "id": "one_piece", "name": "One Piece", "type": "category", "universe": "anime", "path": "one_piece", "url": "category.html?universe=anime&path=one_piece", "parent": "anime" },
+  { "id": "one_punch_man", "name": "One Punch Man", "type": "category", "universe": "anime", "path": "one_punch_man", "url": "category.html?universe=anime&path=one_punch_man", "parent": "anime" },
+  { "id": "parasyte", "name": "Parasyte", "type": "category", "universe": "anime", "path": "parasyte", "url": "category.html?universe=anime&path=parasyte", "parent": "anime" },
+  { "id": "record_of_ragnarok", "name": "Record of Ragnarok", "type": "category", "universe": "anime", "path": "record_of_ragnarok", "url": "category.html?universe=anime&path=record_of_ragnarok", "parent": "anime" },
+  { "id": "re_zero", "name": "Re:Zero", "type": "category", "universe": "anime", "path": "re_zero", "url": "category.html?universe=anime&path=re_zero", "parent": "anime" },
+  { "id": "solo_leveling", "name": "Solo Leveling", "type": "category", "universe": "anime", "path": "solo_leveling", "url": "category.html?universe=anime&path=solo_leveling", "parent": "anime" },
+  { "id": "steins_gate", "name": "Steins;Gate", "type": "category", "universe": "anime", "path": "steins_gate", "url": "category.html?universe=anime&path=steins_gate", "parent": "anime" },
+  { "id": "the_seven_deadly_sins", "name": "The Seven Deadly Sins", "type": "category", "universe": "anime", "path": "the_seven_deadly_sins", "url": "category.html?universe=anime&path=the_seven_deadly_sins", "parent": "anime" },
+  { "id": "tokyo_ghoul", "name": "Tokyo Ghoul", "type": "category", "universe": "anime", "path": "tokyo_ghoul", "url": "category.html?universe=anime&path=tokyo_ghoul", "parent": "anime" },
+  { "id": "tokyo_revengers", "name": "Tokyo Revengers", "type": "category", "universe": "anime", "path": "tokyo_revengers", "url": "category.html?universe=anime&path=tokyo_revengers", "parent": "anime" },
+  { "id": "tower_of_god", "name": "Tower of God", "type": "category", "universe": "anime", "path": "tower_of_god", "url": "category.html?universe=anime&path=tower_of_god", "parent": "anime" },
+  { "id": "vinland_saga", "name": "Vinland Saga", "type": "category", "universe": "anime", "path": "vinland_saga", "url": "category.html?universe=anime&path=vinland_saga", "parent": "anime" }
 ]

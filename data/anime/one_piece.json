@@ -1064,6 +1064,66 @@
 },
 
 {
+"id":"bisley",
+"name":"Bisley",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=bisley",
+"parent":"one_piece",
+"info":{"Sea:":"Wano","Role:":"Shinuchi","Affiliation:":"Beast Pirates","Sex:":"Male","Power:":"Beast Pirate Combatant"},
+"tabs":{
+"tab1":{"title":"Description","content":"Bisley is a Shinuchi of the Beast Pirates.<br><br>He serves under Sasaki in the Armored Division.<br><br>He appears during the Wano arc.<br><br>He was later controlled by Tama's ability.<br><br>He joined the alliance temporarily."},
+"tab2":{"title":"Abilities","content":"<ul><li>Leadership Skills</li><li>Beast Pirate Combat Training</li><li>Durability</li><li>Physical Strength</li><li>Weapon Handling</li><li>Battlefield Awareness</li><li>Command Authority</li><li>Endurance</li><li>Close Combat</li><li>Tactical Adaptability</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Shinuchi rank</li><li>Serves Sasaki</li><li>Wano arc</li><li>Beast Pirates member</li><li>Controlled by Tama</li></ul>"}
+},
+"gallery_count":6
+},
+
+{
+"id":"biyo",
+"name":"Biyo",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=biyo",
+"parent":"one_piece",
+"info":{"Sea:":"New World","Role:":"Child / Experiment Victim","Affiliation:":"Punk Hazard Children","Sex:":"Male","Power:":"Gigantification (Drug-Induced)"},
+"tabs":{
+"tab1":{"title":"Description","content":"Biyo is a child held captive on Punk Hazard.<br><br>He was experimented on by Caesar Clown.<br><br>He was rescued by the Straw Hat Pirates.<br><br>He suffers from gigantification effects.<br><br>He is timid but emotional."},
+"tab2":{"title":"Abilities","content":"<ul><li>Gigantification Strength</li><li>Enhanced Size</li><li>Basic Endurance</li><li>Survival Instinct</li><li>Emotional Resilience</li><li>Increased Durability (Temporary)</li><li>Resistance to Harsh Conditions</li><li>Basic Physical Strength</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Punk Hazard victim</li><li>Rescued by Straw Hats</li><li>Child character</li><li>Affected by drugs</li><li>Emotional personality</li></ul>"}
+},
+"gallery_count":6
+},
+
+{
+"id":"bizarre",
+"name":"Bizarre",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=bizarre",
+"parent":"one_piece",
+"info":{"Sea:":"New World","Role:":"Pirate Captain","Affiliation:":"Whitebeard Pirates Allies","Sex:":"Male","Power:":"Elite Pirate Combatant"},
+"tabs":{
+"tab1":{"title":"Description","content":"Bizarre is a pirate captain from the New World.<br><br>He is allied with the Whitebeard Pirates.<br><br>He participated in major conflicts.<br><br>He is known for his large and intimidating appearance.<br><br>He is a seasoned pirate."},
+"tab2":{"title":"Abilities","content":"<ul><li>Advanced Combat Skills</li><li>Leadership</li><li>High Durability</li><li>Weapon Mastery</li><li>Pirate Experience</li><li>Physical Strength</li><li>Battle Strategy</li><li>Endurance</li><li>Intimidation</li><li>Close Combat Mastery</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Allied with Whitebeard</li><li>Pirate captain</li><li>New World fighter</li><li>Large physique</li><li>Experienced warrior</li></ul>"}
+},
+"gallery_count":6
+},
+
+{
+"id":"bjorn",
+"name":"Bjorn",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=bjorn",
+"parent":"one_piece",
+"info":{"Sea:":"Grand Line","Role:":"Giant Pirate","Affiliation:":"Giant Warrior Pirates","Sex:":"Male","Power:":"Giant Physiology"},
+"tabs":{
+"tab1":{"title":"Description","content":"Bjorn is a giant and a member of the Giant Warrior Pirates.<br><br>He appears during the Egghead arc.<br><br>He is a massive warrior with great strength.<br><br>He supports his crew in battle.<br><br>He represents the power of giants."},
+"tab2":{"title":"Abilities","content":"<ul><li>Gigantic Strength</li><li>Immense Durability</li><li>Giant Physiology</li><li>Heavy Weapon Usage</li><li>Battlefield Impact</li><li>High Endurance</li><li>Close Combat Power</li><li>Shockwave Attacks</li><li>Fear Intimidation</li><li>Warrior Experience</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Giant race</li><li>Egghead arc</li><li>Warrior pirate</li><li>Massive size</li><li>Strong fighter</li></ul>"}
+},
+"gallery_count":6
+},
+
+{
 "id":"boa_hancock",
 "name":"Boa Hancock",
 "type":"entity",
