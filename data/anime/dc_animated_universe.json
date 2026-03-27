@@ -1,0 +1,11 @@
+[
+    {
+  "id": "batman_animated_series",
+  "name": "Batman: The Animated Series",
+  "type": "category",
+  "universe": "dc_animated_universe",
+  "path": "batman_animated_series",
+  "url": "category.html?universe=dc_animated_universe&path=batman_animated_series",
+  "parent": "dc_animated_universe"
+}
+]

@@ -1,0 +1,139 @@
+[
+{
+"id":"batman",
+"name":"Batman",
+"type":"entity",
+"url":"entity.html?universe=dc_animated_universe&path=batman_animated_series&id=batman",
+"parent":"batman_animated_series",
+"info":{
+"real_name":"Bruce Wayne",
+"role":"Vigilante",
+"ability":"Peak Human Strength, Intelligence, Gadgets",
+"origin":"Gotham City"
+},
+"tabs":{
+"tab1":{"title":"Description","content":"Batman is Gotham's dark protector who fights crime using intellect, combat skills, and advanced technology."},
+"tab2":{"title":"Abilities","content":"Master detective, martial artist, strategist with high-tech gadgets and vehicles."},
+"tab3":{"title":"Facts","content":"He witnessed his parents' murder, which drove him to become Batman."}
+},
+"gallery_count":5
+},
+
+{
+"id":"joker",
+"name":"Joker",
+"type":"entity",
+"url":"entity.html?universe=dc_animated_universe&path=batman_animated_series&id=joker",
+"parent":"batman_animated_series",
+"info":{
+"role":"Villain",
+"ability":"Genius-level intellect, chaos tactics",
+"origin":"Gotham City"
+},
+"tabs":{
+"tab1":{"title":"Description","content":"The Joker is Batman’s greatest enemy, known for his unpredictable and chaotic nature."},
+"tab2":{"title":"Abilities","content":"Highly intelligent, expert in chemical weapons and psychological warfare."},
+"tab3":{"title":"Facts","content":"His true identity is unknown in most versions."}
+},
+"gallery_count":5
+},
+
+{
+"id":"harley_quinn",
+"name":"Harley Quinn",
+"type":"entity",
+"url":"entity.html?universe=dc_animated_universe&path=batman_animated_series&id=harley_quinn",
+"parent":"batman_animated_series",
+"info":{
+"real_name":"Harleen Quinzel",
+"role":"Villain",
+"ability":"Agility, Acrobatics, Weapon skills",
+"origin":"Gotham City"
+},
+"tabs":{
+"tab1":{"title":"Description","content":"Harley Quinn is Joker’s partner, known for her playful yet dangerous personality."},
+"tab2":{"title":"Abilities","content":"Highly agile fighter with unpredictable combat style."},
+"tab3":{"title":"Facts","content":"She was originally created for this animated series."}
+},
+"gallery_count":5
+},
+
+{
+"id":"robin",
+"name":"Robin",
+"type":"entity",
+"url":"entity.html?universe=dc_animated_universe&path=batman_animated_series&id=robin",
+"parent":"batman_animated_series",
+"info":{
+"real_name":"Dick Grayson",
+"role":"Sidekick",
+"ability":"Acrobatics, Combat skills",
+"origin":"Gotham City"
+},
+"tabs":{
+"tab1":{"title":"Description","content":"Robin is Batman’s trusted partner and helps him fight crime."},
+"tab2":{"title":"Abilities","content":"Expert acrobat and skilled fighter trained by Batman."},
+"tab3":{"title":"Facts","content":"Former circus performer before becoming Robin."}
+},
+"gallery_count":5
+},
+
+{
+"id":"alfred_pennyworth",
+"name":"Alfred Pennyworth",
+"type":"entity",
+"url":"entity.html?universe=dc_animated_universe&path=batman_animated_series&id=alfred_pennyworth",
+"parent":"batman_animated_series",
+"info":{
+"role":"Butler",
+"ability":"Medical knowledge, Intelligence",
+"origin":"Wayne Manor"
+},
+"tabs":{
+"tab1":{"title":"Description","content":"Alfred is Bruce Wayne’s loyal butler and father figure."},
+"tab2":{"title":"Abilities","content":"Highly intelligent with medical and tactical support skills."},
+"tab3":{"title":"Facts","content":"He often assists Batman behind the scenes."}
+},
+"gallery_count":5
+},
+
+{
+"id":"catwoman",
+"name":"Catwoman",
+"type":"entity",
+"url":"entity.html?universe=dc_animated_universe&path=batman_animated_series&id=catwoman",
+"parent":"batman_animated_series",
+"info":{
+"real_name":"Selina Kyle",
+"role":"Anti-hero",
+"ability":"Stealth, Agility",
+"origin":"Gotham City"
+},
+"tabs":{
+"tab1":{"title":"Description","content":"Catwoman is a skilled thief with a complex relationship with Batman."},
+"tab2":{"title":"Abilities","content":"Expert in stealth, acrobatics, and hand-to-hand combat."},
+"tab3":{"title":"Facts","content":"She often switches between villain and ally."}
+},
+"gallery_count":5
+},
+
+{
+"id":"two_face",
+"name":"Two-Face",
+"type":"entity",
+"url":"entity.html?universe=dc_animated_universe&path=batman_animated_series&id=two_face",
+"parent":"batman_animated_series",
+"info":{
+"real_name":"Harvey Dent",
+"role":"Villain",
+"ability":"Dual personality, Strategy",
+"origin":"Gotham City"
+},
+"tabs":{
+"tab1":{"title":"Description","content":"Two-Face is a former district attorney turned villain with a split personality."},
+"tab2":{"title":"Abilities","content":"Strategic thinker who relies on chance using a coin flip."},
+"tab3":{"title":"Facts","content":"He was once Bruce Wayne’s close friend."}
+},
+"gallery_count":5
+}
+]

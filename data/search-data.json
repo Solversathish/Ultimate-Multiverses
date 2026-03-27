@@ -45,6 +45,24 @@
     "url": "category.html?universe=animals"
   },
   {
+    "name": "Afro Samurai",
+    "id": "afro_samurai",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=afro_samurai"
+  },
+  {
+    "name": "Ajin: Demi-Human",
+    "id": "ajin",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=ajin"
+  },
+  {
     "name": "Akame ga Kill",
     "id": "akame_ga_kill",
     "type": "category",
@@ -52,6 +70,15 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=akame_ga_kill"
+  },
+  {
+    "name": "Akira",
+    "id": "akira",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=akira"
   },
   {
     "name": "Another",
@@ -63,6 +90,15 @@
     "url": "category.html?universe=anime&path=another"
   },
   {
+    "name": "The Apothecary Diaries",
+    "id": "apothecary_diaries",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=apothecary_diaries"
+  },
+  {
     "name": "Assassination Classroom",
     "id": "assassination_classroom",
     "type": "category",
@@ -70,6 +106,15 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=assassination_classroom"
+  },
+  {
+    "name": "Astra Lost in Space",
+    "id": "astra_lost_in_space",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=astra_lost_in_space"
   },
   {
     "name": "Attack on Titan",
@@ -135,6 +180,15 @@
     "url": "category.html?universe=anime&path=baki_hanma"
   },
   {
+    "name": "Banana Fish",
+    "id": "banana_fish",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=banana_fish"
+  },
+  {
     "name": "Beelzebub",
     "id": "beelzebub",
     "type": "category",
@@ -142,6 +196,24 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=beelzebub"
+  },
+  {
+    "name": "Berserk",
+    "id": "berserk",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=berserk"
+  },
+  {
+    "name": "Black Butler",
+    "id": "black_butler",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=black_butler"
   },
   {
     "name": "Black Clover",
@@ -207,6 +279,42 @@
     "url": "entity.html?universe=anime&path=bleach&id=kenpachi_zaraki"
   },
   {
+    "name": "Bleach: Thousand-Year Blood War",
+    "id": "bleach_thousand_year_blood_war",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=bleach_thousand_year_blood_war"
+  },
+  {
+    "name": "Blue Box",
+    "id": "blue_box",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=blue_box"
+  },
+  {
+    "name": "Blue Exorcist",
+    "id": "blue_exorcist",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=blue_exorcist"
+  },
+  {
+    "name": "Blue Eye Samurai",
+    "id": "blue_eye_samurai",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=blue_eye_samurai"
+  },
+  {
     "name": "Blue Lock",
     "id": "blue_lock",
     "type": "category",
@@ -214,6 +322,15 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=blue_lock"
+  },
+  {
+    "name": "Boruto: Naruto Next Generations",
+    "id": "boruto",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=boruto"
   },
   {
     "name": "Bungo Stray Dogs",
@@ -225,6 +342,15 @@
     "url": "category.html?universe=anime&path=bungo_stray_dogs"
   },
   {
+    "name": "Castlevania",
+    "id": "castlevania",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=castlevania"
+  },
+  {
     "name": "Chainsaw Man",
     "id": "chainsaw_man",
     "type": "category",
@@ -234,6 +360,24 @@
     "url": "category.html?universe=anime&path=chainsaw_man"
   },
   {
+    "name": "Classroom of the Elite",
+    "id": "classroom_of_the_elite",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=classroom_of_the_elite"
+  },
+  {
+    "name": "Claymore",
+    "id": "claymore",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=claymore"
+  },
+  {
     "name": "Code Geass",
     "id": "code_geass",
     "type": "category",
@@ -241,6 +385,33 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=code_geass"
+  },
+  {
+    "name": "Cowboy Bebop",
+    "id": "cowboy_bebop",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=cowboy_bebop"
+  },
+  {
+    "name": "Cyberpunk: Edgerunners",
+    "id": "cyberpunk_edgerunners",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=cyberpunk_edgerunners"
+  },
+  {
+    "name": "D.Gray-man",
+    "id": "d_gray_man",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=d_gray_man"
   },
   {
     "name": "Dandadan",
@@ -261,6 +432,78 @@
     "url": "category.html?universe=anime&path=dc_animated_universe"
   },
   {
+    "name": "Batman: The Animated Series",
+    "id": "batman_animated_series",
+    "type": "category",
+    "universe": "anime",
+    "path": "dc_animated_universe",
+    "parent": "DC Animated Universe",
+    "url": "category.html?universe=anime&path=dc_animated_universe,batman_animated_series"
+  },
+  {
+    "name": "Batman",
+    "id": "batman",
+    "type": "entity",
+    "universe": "anime",
+    "path": "dc_animated_universe,batman_animated_series",
+    "parent": "Batman: The Animated Series",
+    "url": "entity.html?universe=anime&path=dc_animated_universe,batman_animated_series&id=batman"
+  },
+  {
+    "name": "Joker",
+    "id": "joker",
+    "type": "entity",
+    "universe": "anime",
+    "path": "dc_animated_universe,batman_animated_series",
+    "parent": "Batman: The Animated Series",
+    "url": "entity.html?universe=anime&path=dc_animated_universe,batman_animated_series&id=joker"
+  },
+  {
+    "name": "Harley Quinn",
+    "id": "harley_quinn",
+    "type": "entity",
+    "universe": "anime",
+    "path": "dc_animated_universe,batman_animated_series",
+    "parent": "Batman: The Animated Series",
+    "url": "entity.html?universe=anime&path=dc_animated_universe,batman_animated_series&id=harley_quinn"
+  },
+  {
+    "name": "Robin",
+    "id": "robin",
+    "type": "entity",
+    "universe": "anime",
+    "path": "dc_animated_universe,batman_animated_series",
+    "parent": "Batman: The Animated Series",
+    "url": "entity.html?universe=anime&path=dc_animated_universe,batman_animated_series&id=robin"
+  },
+  {
+    "name": "Alfred Pennyworth",
+    "id": "alfred_pennyworth",
+    "type": "entity",
+    "universe": "anime",
+    "path": "dc_animated_universe,batman_animated_series",
+    "parent": "Batman: The Animated Series",
+    "url": "entity.html?universe=anime&path=dc_animated_universe,batman_animated_series&id=alfred_pennyworth"
+  },
+  {
+    "name": "Catwoman",
+    "id": "catwoman",
+    "type": "entity",
+    "universe": "anime",
+    "path": "dc_animated_universe,batman_animated_series",
+    "parent": "Batman: The Animated Series",
+    "url": "entity.html?universe=anime&path=dc_animated_universe,batman_animated_series&id=catwoman"
+  },
+  {
+    "name": "Two-Face",
+    "id": "two_face",
+    "type": "entity",
+    "universe": "anime",
+    "path": "dc_animated_universe,batman_animated_series",
+    "parent": "Batman: The Animated Series",
+    "url": "entity.html?universe=anime&path=dc_animated_universe,batman_animated_series&id=two_face"
+  },
+  {
     "name": "Death Note",
     "id": "death_note",
     "type": "category",
@@ -277,6 +520,24 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=demon_slayer"
+  },
+  {
+    "name": "Devilman Crybaby",
+    "id": "devilman_crybaby",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=devilman_crybaby"
+  },
+  {
+    "name": "Dororo",
+    "id": "dororo",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=dororo"
   },
   {
     "name": "Dragon Ball",
@@ -333,6 +594,15 @@
     "url": "entity.html?universe=anime&path=dragon_ball&id=yamcha"
   },
   {
+    "name": "Dragon Ball Daima",
+    "id": "dragon_ball_daima",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=dragon_ball_daima"
+  },
+  {
     "name": "Dragon Ball Super",
     "id": "dragon_ball_super",
     "type": "category",
@@ -360,6 +630,15 @@
     "url": "category.html?universe=anime&path=dr_stone"
   },
   {
+    "name": "The Eminence in Shadow",
+    "id": "eminence_in_shadow",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=eminence_in_shadow"
+  },
+  {
     "name": "Erased",
     "id": "erased",
     "type": "category",
@@ -378,6 +657,15 @@
     "url": "category.html?universe=anime&path=fairy_tail"
   },
   {
+    "name": "Fate/stay night: Unlimited Blade Works",
+    "id": "fate_unlimited_blade_works",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=fate_unlimited_blade_works"
+  },
+  {
     "name": "Fire Force",
     "id": "fire_force",
     "type": "category",
@@ -385,6 +673,15 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=fire_force"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "id": "frieren_beyond_journeys_end",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=frieren_beyond_journeys_end"
   },
   {
     "name": "Fullmetal Alchemist",
@@ -396,6 +693,15 @@
     "url": "category.html?universe=anime&path=fullmetal_alchemist"
   },
   {
+    "name": "Gachiakuta",
+    "id": "gachiakuta",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=gachiakuta"
+  },
+  {
     "name": "Gintama",
     "id": "gintama",
     "type": "category",
@@ -403,6 +709,33 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=gintama"
+  },
+  {
+    "name": "Golden Kamuy",
+    "id": "golden_kamuy",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=golden_kamuy"
+  },
+  {
+    "name": "Great Pretender",
+    "id": "great_pretender",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=great_pretender"
+  },
+  {
+    "name": "Gurren Lagann",
+    "id": "gurren_lagann",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=gurren_lagann"
   },
   {
     "name": "Haikyuu!!",
@@ -414,13 +747,13 @@
     "url": "category.html?universe=anime&path=haikyuu"
   },
   {
-    "name": "Hell's Paradise",
-    "id": "hells_paradise",
+    "name": "Hellsing Ultimate",
+    "id": "hellsing_ultimate",
     "type": "category",
     "universe": "anime",
     "path": "",
     "parent": "anime",
-    "url": "category.html?universe=anime&path=hells_paradise"
+    "url": "category.html?universe=anime&path=hellsing_ultimate"
   },
   {
     "name": "Hunter x Hunter",
@@ -459,6 +792,33 @@
     "url": "category.html?universe=anime&path=jujutsu_kaisen"
   },
   {
+    "name": "Kaiju No. 8",
+    "id": "kaiju_no_8",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=kaiju_no_8"
+  },
+  {
+    "name": "Kengan Ashura",
+    "id": "kengan_ashura",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=kengan_ashura"
+  },
+  {
+    "name": "Kill la Kill",
+    "id": "kill_la_kill",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=kill_la_kill"
+  },
+  {
     "name": "Kuroko's Basketball",
     "id": "kurokos_basketball",
     "type": "category",
@@ -466,6 +826,24 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=kurokos_basketball"
+  },
+  {
+    "name": "Last Exile",
+    "id": "last_exile",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=last_exile"
+  },
+  {
+    "name": "Link Click",
+    "id": "link_click",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=link_click"
   },
   {
     "name": "Marvel Animated Universe",
@@ -486,6 +864,15 @@
     "url": "category.html?universe=anime&path=mashle_magic_and_muscles"
   },
   {
+    "name": "Megalo Box",
+    "id": "megalo_box",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=megalo_box"
+  },
+  {
     "name": "Mob Psycho 100",
     "id": "mob_psycho_100",
     "type": "category",
@@ -493,6 +880,42 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=mob_psycho_100"
+  },
+  {
+    "name": "Monster",
+    "id": "monster",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=monster"
+  },
+  {
+    "name": "Moriarty the Patriot",
+    "id": "moriarty_the_patriot",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=moriarty_the_patriot"
+  },
+  {
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "id": "mushoku_tensei",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=mushoku_tensei"
+  },
+  {
+    "name": "My Daemon",
+    "id": "my_daemon",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=my_daemon"
   },
   {
     "name": "My Hero Academia",
@@ -792,6 +1215,15 @@
     "url": "category.html?universe=anime&path=naruto_shippuden"
   },
   {
+    "name": "Neon Genesis Evangelion",
+    "id": "neon_genesis_evangelion",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=neon_genesis_evangelion"
+  },
+  {
     "name": "No Game No Life",
     "id": "no_game_no_life",
     "type": "category",
@@ -799,6 +1231,15 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=no_game_no_life"
+  },
+  {
+    "name": "Noragami",
+    "id": "noragami",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=noragami"
   },
   {
     "name": "One Piece",
@@ -1809,6 +2250,33 @@
     "url": "category.html?universe=anime&path=one_punch_man"
   },
   {
+    "name": "Overlord",
+    "id": "overlord",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=overlord"
+  },
+  {
+    "name": "Pantheon",
+    "id": "pantheon",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=pantheon"
+  },
+  {
+    "name": "Paranoia Agent",
+    "id": "paranoia_agent",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=paranoia_agent"
+  },
+  {
     "name": "Parasyte",
     "id": "parasyte",
     "type": "category",
@@ -1818,13 +2286,31 @@
     "url": "category.html?universe=anime&path=parasyte"
   },
   {
-    "name": "Record of Ragnarok",
-    "id": "record_of_ragnarok",
+    "name": "Pluto",
+    "id": "pluto",
     "type": "category",
     "universe": "anime",
     "path": "",
     "parent": "anime",
-    "url": "category.html?universe=anime&path=record_of_ragnarok"
+    "url": "category.html?universe=anime&path=pluto"
+  },
+  {
+    "name": "The Promised Neverland",
+    "id": "promised_neverland",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=promised_neverland"
+  },
+  {
+    "name": "Psycho-Pass",
+    "id": "psycho_pass",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=psycho_pass"
   },
   {
     "name": "Re:Zero",
@@ -1836,6 +2322,78 @@
     "url": "category.html?universe=anime&path=re_zero"
   },
   {
+    "name": "Record of Ragnarok",
+    "id": "record_of_ragnarok",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=record_of_ragnarok"
+  },
+  {
+    "name": "Rurouni Kenshin",
+    "id": "rurouni_kenshin",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=rurouni_kenshin"
+  },
+  {
+    "name": "Sakamoto Days",
+    "id": "sakamoto_days",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=sakamoto_days"
+  },
+  {
+    "name": "Samurai Champloo",
+    "id": "samurai_champloo",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=samurai_champloo"
+  },
+  {
+    "name": "Samurai Jack",
+    "id": "samurai_jack",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=samurai_jack"
+  },
+  {
+    "name": "Serial Experiments Lain",
+    "id": "serial_experiments_lain",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=serial_experiments_lain"
+  },
+  {
+    "name": "The Rising of the Shield Hero",
+    "id": "shield_hero",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=shield_hero"
+  },
+  {
+    "name": "SK8 the Infinity",
+    "id": "sk8",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=sk8"
+  },
+  {
     "name": "Solo Leveling",
     "id": "solo_leveling",
     "type": "category",
@@ -1845,6 +2403,15 @@
     "url": "category.html?universe=anime&path=solo_leveling"
   },
   {
+    "name": "Spy x Family",
+    "id": "spy_x_family",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=spy_x_family"
+  },
+  {
     "name": "Steins;Gate",
     "id": "steins_gate",
     "type": "category",
@@ -1852,6 +2419,24 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=steins_gate"
+  },
+  {
+    "name": "Swallowed Star",
+    "id": "swallowed_star",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=swallowed_star"
+  },
+  {
+    "name": "Terror in Resonance",
+    "id": "terror_in_resonance",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=terror_in_resonance"
   },
   {
     "name": "The God of High School",
@@ -1879,6 +2464,15 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=the_seven_deadly_sins"
+  },
+  {
+    "name": "To Your Eternity",
+    "id": "to_your_eternity",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=to_your_eternity"
   },
   {
     "name": "Tokyo Ghoul",
@@ -1917,6 +2511,15 @@
     "url": "category.html?universe=anime&path=vinland_saga"
   },
   {
+    "name": "Violet Evergarden",
+    "id": "violet_evergarden",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=violet_evergarden"
+  },
+  {
     "name": "Wind Breaker",
     "id": "wind_breaker",
     "type": "category",
@@ -1924,6 +2527,24 @@
     "path": "",
     "parent": "anime",
     "url": "category.html?universe=anime&path=wind_breaker"
+  },
+  {
+    "name": "Yuri on Ice",
+    "id": "yuri_on_ice",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=yuri_on_ice"
+  },
+  {
+    "name": "Zom 100: Bucket List of the Dead",
+    "id": "zom_100",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=zom_100"
   },
   {
     "name": "Cricket",
