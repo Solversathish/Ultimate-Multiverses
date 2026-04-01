@@ -1,0 +1,302 @@
+[
+{
+"id":"amina_khalil",
+"name":"Amina Khalil",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=amina_khalil",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Egyptian",
+"Date of Birth:":"26 October 1988",
+"Famous For:":"TV dramas and films",
+"Active Years:":"2011–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Amina Khalil is a modern Egyptian actress known for her strong performances in television series and films. She gained popularity through critically acclaimed roles and has become one of the leading actresses of her generation."},
+"tab2":{"title":"Notable Works","content":"Grand Hotel, Layali Eugenie, Leh Laa"},
+"tab3":{"title":"Facts","content":"She studied acting in the United States before entering Egyptian cinema."}
+},
+"gallery_count":5
+},
+{
+"id":"asmaa_galal",
+"name":"Asmaa Galal",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=asmaa_galal",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Egyptian",
+"Date of Birth:":"22 May 1995",
+"Famous For:":"Modern TV series",
+"Active Years:":"2017–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Asmaa Galal is a rising Egyptian actress known for her roles in youth-oriented TV series and modern dramas."},
+"tab2":{"title":"Notable Works","content":"Nasibi wa Qismatak, The Choice"},
+"tab3":{"title":"Facts","content":"She quickly gained fame through television appearances."}
+},
+"gallery_count":5
+},
+{
+"id":"cyrine_abdelnour",
+"name":"Cyrine Abdelnour",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=cyrine_abdelnour",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Lebanese",
+"Date of Birth:":"21 February 1977",
+"Famous For:":"Music and acting",
+"Active Years:":"2000–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Cyrine Abdelnour is a Lebanese actress and singer known for her success in both music and television."},
+"tab2":{"title":"Notable Works","content":"Ruby, Al Hayba"},
+"tab3":{"title":"Facts","content":"She is also a successful pop singer."}
+},
+"gallery_count":5
+},
+{
+"id":"dina_el_sherbiny",
+"name":"Dina El Sherbiny",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=dina_el_sherbiny",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Egyptian",
+"Date of Birth:":"17 March 1985",
+"Famous For:":"Drama and films",
+"Active Years:":"2011–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Dina El Sherbiny is an Egyptian actress known for her roles in both cinema and television, gaining wide recognition in recent years."},
+"tab2":{"title":"Notable Works","content":"Zay El Shams, Grand Hotel"},
+"tab3":{"title":"Facts","content":"She started her career as a TV presenter."}
+},
+"gallery_count":5
+},
+{
+"id":"elham_shaheen",
+"name":"Elham Shaheen",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=elham_shaheen",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Egyptian",
+"Date of Birth:":"3 January 1961",
+"Famous For:":"Classic cinema",
+"Active Years:":"1980–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Elham Shaheen is a veteran Egyptian actress known for her powerful roles in films and television."},
+"tab2":{"title":"Notable Works","content":"Al-Massir, Bawab El Halq"},
+"tab3":{"title":"Facts","content":"She has won several acting awards."}
+},
+"gallery_count":5
+},
+{
+"id":"ghada_abdel_razek",
+"name":"Ghada Abdel Razek",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=ghada_abdel_razek",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Egyptian",
+"Date of Birth:":"6 July 1965",
+"Famous For:":"Drama series",
+"Active Years:":"1997–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Ghada Abdel Razek is a popular Egyptian actress known for strong and dramatic roles in television."},
+"tab2":{"title":"Notable Works","content":"Hekayat Hayah, Ma’a Sabq El Esrar"},
+"tab3":{"title":"Facts","content":"She is known for emotional performances."}
+},
+"gallery_count":5
+},
+{
+"id":"hend_sabry",
+"name":"Hend Sabry",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=hend_sabry",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Tunisian",
+"Date of Birth:":"20 November 1979",
+"Famous For:":"Egyptian cinema",
+"Active Years:":"1994–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Hend Sabry is a Tunisian actress who became one of the most successful stars in Egyptian cinema."},
+"tab2":{"title":"Notable Works","content":"Asmaa, The Blue Elephant"},
+"tab3":{"title":"Facts","content":"She is also a UN goodwill ambassador."}
+},
+"gallery_count":5
+},
+{
+"id":"huda_el_mufti",
+"name":"Huda El Mufti",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=huda_el_mufti",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Egyptian",
+"Date of Birth:":"6 December 1994",
+"Famous For:":"Youth roles",
+"Active Years:":"2018–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Huda El Mufti is a young Egyptian actress known for modern roles appealing to younger audiences."},
+"tab2":{"title":"Notable Works","content":"Huda, New Generation"},
+"tab3":{"title":"Facts","content":"She gained popularity quickly."}
+},
+"gallery_count":5
+},
+{
+"id":"lebleba",
+"name":"Lebleba",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=lebleba",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Egyptian",
+"Date of Birth:":"14 November 1946",
+"Famous For:":"Comedy and classic films",
+"Active Years:":"1950–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Lebleba is a legendary Egyptian actress known for her long career in comedy and cinema."},
+"tab2":{"title":"Notable Works","content":"Hassan and Marcus, Layali El Helmeya"},
+"tab3":{"title":"Facts","content":"Started acting as a child."}
+},
+"gallery_count":5
+},
+{
+"id":"menna_shalabi",
+"name":"Menna Shalabi",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=menna_shalabi",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Egyptian",
+"Date of Birth:":"24 July 1982",
+"Famous For:":"Drama films",
+"Active Years:":"2001–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Menna Shalabi is an award-winning Egyptian actress known for powerful roles in cinema."},
+"tab2":{"title":"Notable Works","content":"When We Were Born, Nawara"},
+"tab3":{"title":"Facts","content":"Won multiple awards."}
+},
+"gallery_count":5
+},
+{
+"id":"mona_zaki",
+"name":"Mona Zaki",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=mona_zaki",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Egyptian",
+"Date of Birth:":"18 November 1976",
+"Famous For:":"Top Egyptian films",
+"Active Years:":"1993–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Mona Zaki is one of the most famous Egyptian actresses with a long successful career."},
+"tab2":{"title":"Notable Works","content":"Africano, El Saher"},
+"tab3":{"title":"Facts","content":"One of Egypt’s highest-paid actresses."}
+},
+"gallery_count":5
+},
+{
+"id":"nadine_nassib_njeim",
+"name":"Nadine Nassib Njeim",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=nadine_nassib_njeim",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Lebanese",
+"Date of Birth:":"7 February 1984",
+"Famous For:":"TV dramas",
+"Active Years:":"2004–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Nadine Nassib Njeim is a Lebanese actress and former beauty queen."},
+"tab2":{"title":"Notable Works","content":"Al Hayba, 2020"},
+"tab3":{"title":"Facts","content":"Won Miss Lebanon 2004."}
+},
+"gallery_count":5
+},
+{
+"id":"nelly_karim",
+"name":"Nelly Karim",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=nelly_karim",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Egyptian",
+"Date of Birth:":"18 December 1974",
+"Famous For:":"Drama series",
+"Active Years:":"1995–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Nelly Karim is known for emotional and dramatic roles."},
+"tab2":{"title":"Notable Works","content":"Zaat, 100 Wesh"},
+"tab3":{"title":"Facts","content":"Also a trained ballerina."}
+},
+"gallery_count":5
+},
+{
+"id":"rania_youssef",
+"name":"Rania Youssef",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=rania_youssef",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Egyptian",
+"Date of Birth:":"1 December 1973",
+"Famous For:":"TV roles",
+"Active Years:":"1993–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Rania Youssef is known for television roles in Egypt."},
+"tab2":{"title":"Notable Works","content":"Ahl Cairo"},
+"tab3":{"title":"Facts","content":"Popular TV personality."}
+},
+"gallery_count":5
+},
+{
+"id":"yasmine_abdel_aziz",
+"name":"Yasmine Abdel Aziz",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actress&id=yasmine_abdel_aziz",
+"parent":"arabic_actress",
+"info":{
+"Profession:":"Actress",
+"Nationality:":"Egyptian",
+"Date of Birth:":"16 January 1980",
+"Famous For:":"Comedy and drama",
+"Active Years:":"1998–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Yasmine Abdel Aziz is a leading Egyptian actress known for comedy and drama roles."},
+"tab2":{"title":"Notable Works","content":"Dada Dodi, We Nحب تاني ليه"},
+"tab3":{"title":"Facts","content":"One of Egypt’s top TV stars."}
+},
+"gallery_count":5
+}
+]

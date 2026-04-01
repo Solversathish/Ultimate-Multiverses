@@ -1,0 +1,691 @@
+[
+{
+"id":"andy_lau",
+"name":"Andy Lau",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=andy_lau",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Hong Kong","Date of Birth:":"27 September 1961","Famous For:":"Action and crime films","Active Years:":"1981–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Andy Lau is one of the most influential actors in Hong Kong cinema with a career spanning decades.<br><br>He began in television before becoming a major film star.<br><br>Known for versatility across genres, he remains a global icon.<br><br>He is also a singer and producer."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Infernal Affairs</li><li>House of Flying Daggers</li><li>The Warlords</li><li>Shock Wave</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Four Heavenly Kings member</li><li>150+ films</li><li>Successful singer</li><li>Global star</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"bai_yu",
+"name":"Bai Yu",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=bai_yu",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"8 April 1990","Famous For:":"Drama series","Active Years:":"2014–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Bai Yu is a Chinese actor known for modern drama roles.<br><br>He gained fame through web series and emotional performances.<br><br>His natural acting style connects with youth audiences.<br><br>He continues to rise in popularity."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Guardian</li><li>The Long Night</li><li>Love O2O</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Web drama star</li><li>Expressive acting</li><li>Youth icon</li><li>Strong fanbase</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"bruce_lee",
+"name":"Bruce Lee",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=bruce_lee",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Hong Kong-American","Date of Birth:":"27 November 1940","Famous For:":"Martial arts films","Active Years:":"1941–1973"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Bruce Lee revolutionized martial arts cinema globally.<br><br>He introduced realistic fighting styles and broke barriers.<br><br>His philosophy influenced millions worldwide.<br><br>He remains a global legend."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Enter the Dragon</li><li>Fist of Fury</li><li>Way of the Dragon</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Founder of Jeet Kune Do</li><li>Global icon</li><li>Inspired MMA</li><li>Film pioneer</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chen_kun",
+"name":"Chen Kun",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=chen_kun",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"4 February 1976","Famous For:":"Drama films","Active Years:":"1999–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Chen Kun is known for emotionally deep performances.<br><br>He moved from television to films and gained acclaim.<br><br>His acting focuses on realism and complexity.<br><br>He is highly respected."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Painted Skin</li><li>Mojin</li><li>The Knot</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Critically acclaimed</li><li>Also singer</li><li>Art film expert</li><li>Charity work</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chen_xingxu",
+"name":"Chen Xingxu",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=chen_xingxu",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"31 March 1996","Famous For:":"Historical dramas","Active Years:":"2010–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Chen Xingxu is a rising actor known for historical dramas.<br><br>He began as a child actor.<br><br>His performances show emotional depth.<br><br>He is gaining popularity quickly."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Goodbye My Princess</li><li>Starry Love</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Child actor</li><li>Historical roles</li><li>Rising star</li><li>Emotional acting</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chow_yun_fat",
+"name":"Chow Yun-Fat",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=chow_yun_fat",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Hong Kong","Date of Birth:":"18 May 1955","Famous For:":"Action films","Active Years:":"1974–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Chow Yun-Fat is a legendary Hong Kong actor known for stylish action roles.<br><br>He gained global fame through crime films.<br><br>His performances are iconic and influential.<br><br>He also worked in Hollywood."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Crouching Tiger Hidden Dragon</li><li>The Killer</li><li>Hard Boiled</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Global icon</li><li>Hollywood actor</li><li>Charity supporter</li><li>Action legend</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"deng_chao",
+"name":"Deng Chao",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=deng_chao",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"8 February 1979","Famous For:":"Comedy films","Active Years:":"2000–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Deng Chao is a versatile actor known for comedy and drama.<br><br>He transitioned from TV to films successfully.<br><br>His energy makes him popular.<br><br>He is also a director."},
+"tab2":{"title":"Notable Works","content":"<ul><li>The Mermaid</li><li>Shadow</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Director</li><li>TV personality</li><li>Comedy expert</li><li>Popular star</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"deng_lun",
+"name":"Deng Lun",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=deng_lun",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"21 October 1992","Famous For:":"Romantic dramas","Active Years:":"2012–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Deng Lun is known for romantic and fantasy dramas.<br><br>He gained fame through emotional roles.<br><br>His charm attracts young audiences.<br><br>He is widely popular."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Ashes of Love</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Romance star</li><li>Youth icon</li><li>Popular actor</li><li>Fan favorite</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"donnie_yen",
+"name":"Donnie Yen",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=donnie_yen",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"27 July 1963","Famous For:":"Martial arts films","Active Years:":"1984–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Donnie Yen is a martial arts legend in modern cinema.<br><br>He combines traditional and modern action styles.<br><br>His films are fast and realistic.<br><br>He gained global recognition."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Ip Man Series</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Martial artist</li><li>Action star</li><li>Choreographer</li><li>Global fame</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"eddie_peng",
+"name":"Eddie Peng",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=eddie_peng",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Taiwanese","Date of Birth:":"24 March 1982","Famous For:":"Action roles","Active Years:":"2002–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Eddie Peng is known for intense physical roles.<br><br>He trains heavily for characters.<br><br>His dedication is widely respected.<br><br>He is a major action actor."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Operation Mekong</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Fitness icon</li><li>Method actor</li><li>Action star</li><li>Dedicated performer</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"feng_shaofeng",
+"name":"Feng Shaofeng",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=feng_shaofeng",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"7 October 1978","Famous For:":"Historical dramas","Active Years:":"2001–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Feng Shaofeng is known for costume dramas.<br><br>He gained fame through TV and films.<br><br>His roles combine charm and depth.<br><br>He is a consistent performer."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Prince of Lan Ling</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Drama star</li><li>Versatile actor</li><li>Popular figure</li><li>Strong presence</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ge_you",
+"name":"Ge You",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=ge_you",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"19 April 1957","Famous For:":"Comedy films","Active Years:":"1985–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Ge You is a legendary Chinese comedy actor.<br><br>His style blends humor and realism.<br><br>He is highly respected.<br><br>He has many award-winning roles."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Let the Bullets Fly</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Comedy legend</li><li>Award winner</li><li>Unique style</li><li>Respected actor</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"gordon_liu",
+"name":"Gordon Liu",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=gordon_liu",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Hong Kong","Date of Birth:":"22 August 1955","Famous For:":"Kung fu films","Active Years:":"1970–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Gordon Liu is a martial arts film legend.<br><br>He became famous for Shaolin roles.<br><br>His films are classics.<br><br>He influenced action cinema."},
+"tab2":{"title":"Notable Works","content":"<ul><li>36th Chamber of Shaolin</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Kung fu legend</li><li>Shaolin icon</li><li>Classic actor</li><li>Influential</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"hu_ge",
+"name":"Hu Ge",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=hu_ge",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"20 September 1982","Famous For:":"Drama series","Active Years:":"2005–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Hu Ge is a top Chinese drama actor.<br><br>He gained fame through historical series.<br><br>His acting is highly respected.<br><br>He is one of the best in China."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Nirvana in Fire</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Highly respected</li><li>Drama expert</li><li>Award winner</li><li>Top actor</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"huang_bo",
+"name":"Huang Bo",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=huang_bo",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"26 August 1974","Famous For:":"Comedy and drama films","Active Years:":"2000–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Huang Bo is one of China’s most successful actors known for comedy and versatile performances.<br><br>He rose to fame through box office hits and unique roles.<br><br>His acting blends humor with emotional depth.<br><br>He is among the highest-grossing actors in China."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Lost in Thailand</li><li>The Mermaid</li><li>Crazy Stone</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Box office king</li><li>Comedy expert</li><li>Also director</li><li>Highly popular</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"huang_xiaoming",
+"name":"Huang Xiaoming",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=huang_xiaoming",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"13 November 1977","Famous For:":"Drama and historical roles","Active Years:":"1998–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Huang Xiaoming is a well-known Chinese actor famous for television dramas and films.<br><br>He gained recognition through leading roles in romantic and historical series.<br><br>His versatility helped him maintain a long career.<br><br>He is also involved in business ventures."},
+"tab2":{"title":"Notable Works","content":"<ul><li>The Message</li><li>American Dreams in China</li><li>Return of the Condor Heroes</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also producer</li><li>Businessman</li><li>Popular star</li><li>Long career</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"jackie_chan",
+"name":"Jackie Chan",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=jackie_chan",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Hong Kong","Date of Birth:":"7 April 1954","Famous For:":"Action-comedy films","Active Years:":"1962–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Jackie Chan is a global superstar known for blending martial arts with comedy.<br><br>He performs his own stunts, making his films unique.<br><br>His work spans Hong Kong and Hollywood cinema.<br><br>He is one of the most recognized actors worldwide."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Rush Hour Series</li><li>Police Story</li><li>Drunken Master</li><li>Project A</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Performs own stunts</li><li>Global icon</li><li>Singer</li><li>Hollywood star</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"jackson_yee",
+"name":"Jackson Yee",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=jackson_yee",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"28 November 2000","Famous For:":"Youth films","Active Years:":"2013–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Jackson Yee is a young Chinese actor and singer who gained fame early in his career.<br><br>He started as a child artist and became a major celebrity.<br><br>His performances have earned critical acclaim.<br><br>He represents the new generation of actors."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Better Days</li><li>A Little Red Flower</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Young star</li><li>Idol turned actor</li><li>Critically acclaimed</li><li>Huge fanbase</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"jet_li",
+"name":"Jet Li",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=jet_li",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"26 April 1963","Famous For:":"Martial arts films","Active Years:":"1982–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Jet Li is a legendary martial artist and actor known worldwide.<br><br>He was a national Wushu champion before acting.<br><br>His films combine traditional martial arts and storytelling.<br><br>He gained fame internationally."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Hero</li><li>Fearless</li><li>Once Upon a Time in China</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Wushu champion</li><li>Global star</li><li>Hollywood actor</li><li>Martial arts icon</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"jing_boran",
+"name":"Jing Boran",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=jing_boran",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"19 April 1989","Famous For:":"Films and dramas","Active Years:":"2007–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Jing Boran is a Chinese actor and singer known for his versatile roles.<br><br>He gained fame through films and television series.<br><br>His performances are charming and emotional.<br><br>He continues to grow in popularity."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Monster Hunt</li><li>Time Raiders</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also singer</li><li>Versatile actor</li><li>Popular star</li><li>Fan favorite</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"kris_wu",
+"name":"Kris Wu",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=kris_wu",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese-Canadian","Date of Birth:":"6 November 1990","Famous For:":"Music and films","Active Years:":"2012–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Kris Wu is a Chinese-Canadian actor and singer known for global fame.<br><br>He started as an idol before entering films.<br><br>His international appeal made him a crossover star.<br><br>He worked in both China and Hollywood."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Mr. Six</li><li>Valerian</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Former EXO member</li><li>Global popularity</li><li>Multi-talented</li><li>International projects</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"leo_wu",
+"name":"Leo Wu",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=leo_wu",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"26 December 1999","Famous For:":"Drama series","Active Years:":"2005–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Leo Wu is a young Chinese actor who began as a child artist.<br><br>He gained fame through popular drama series.<br><br>His acting shows maturity and growth.<br><br>He is part of the new generation of stars."},
+"tab2":{"title":"Notable Works","content":"<ul><li>The Long Ballad</li><li>Love Like the Galaxy</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Child actor</li><li>Young star</li><li>Highly popular</li><li>Future icon</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"li_xian",
+"name":"Li Xian",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=li_xian",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"19 October 1991","Famous For:":"Romantic dramas","Active Years:":"2011–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Li Xian is known for romantic drama roles.<br><br>He gained massive popularity through hit series.<br><br>His charm and acting skills made him famous.<br><br>He is widely recognized across Asia."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Go Go Squid</li><li>Meet Yourself</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Romance star</li><li>Huge fanbase</li><li>Popular actor</li><li>Consistent performer</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"li_yifeng",
+"name":"Li Yifeng",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=li_yifeng",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"4 May 1987","Famous For:":"Fantasy dramas","Active Years:":"2007–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Li Yifeng is known for fantasy and action dramas.<br><br>He rose to fame through television series.<br><br>His roles mix action and emotion.<br><br>He remains popular."},
+"tab2":{"title":"Notable Works","content":"<ul><li>The Lost Tomb</li><li>Swords of Legends</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Fantasy star</li><li>Popular idol</li><li>Strong fanbase</li><li>Versatile roles</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"liang_chaowei",
+"name":"Liang Chaowei (Tony Leung)",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=liang_chaowei",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Hong Kong","Date of Birth:":"27 June 1962","Famous For:":"Drama films","Active Years:":"1982–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Tony Leung is one of Asia’s greatest actors.<br><br>He is known for emotional and subtle performances.<br><br>His films are critically acclaimed worldwide.<br><br>He has worked internationally."},
+"tab2":{"title":"Notable Works","content":"<ul><li>In the Mood for Love</li><li>Shang-Chi</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Highly awarded</li><li>Global actor</li><li>Legendary performer</li><li>Art cinema icon</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"lin_gengxin",
+"name":"Lin Gengxin",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=lin_gengxin",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"13 February 1988","Famous For:":"Historical dramas","Active Years:":"2011–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Lin Gengxin is known for historical and action dramas.<br><br>He gained popularity through costume roles.<br><br>His acting combines strength and emotion.<br><br>He is widely recognized."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Princess Agents</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Drama star</li><li>Popular actor</li><li>Strong presence</li><li>Versatile roles</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"liu_haoran",
+"name":"Liu Haoran",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=liu_haoran",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"10 October 1997","Famous For:":"Detective films","Active Years:":"2014–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Liu Haoran is a young actor known for detective and comedy films.<br><br>He gained fame through major franchises.<br><br>His acting combines intelligence and charm.<br><br>He is a rising star."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Detective Chinatown</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Young star</li><li>Popular actor</li><li>Versatile roles</li><li>Huge fanbase</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"luhan",
+"name":"Luhan",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=luhan",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"20 April 1990","Famous For:":"Music and films","Active Years:":"2012–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Luhan is a Chinese actor and singer known globally.<br><br>He gained fame as an EXO member.<br><br>He later became a successful actor.<br><br>He has a massive fanbase."},
+"tab2":{"title":"Notable Works","content":"<ul><li>The Witness</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>EXO member</li><li>Global star</li><li>Multi-talented</li><li>Popular idol</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mark_chao",
+"name":"Mark Chao",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=mark_chao",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Taiwanese","Date of Birth:":"25 September 1984","Famous For:":"Romantic and fantasy dramas","Active Years:":"2009–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Mark Chao is a Taiwanese actor known for his roles in romantic and fantasy drama series.<br><br>He gained popularity through major television hits.<br><br>His acting style combines charm with emotional depth.<br><br>He is widely recognized across Chinese entertainment."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Eternal Love</li><li>Detective Dee</li><li>Black & White</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Drama specialist</li><li>Romantic lead roles</li><li>Popular across Asia</li><li>Award-winning actor</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"peng_yuyan",
+"name":"Peng Yuyan",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=peng_yuyan",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Taiwanese","Date of Birth:":"24 March 1982","Famous For:":"Action films","Active Years:":"2002–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Peng Yuyan is a Taiwanese actor known for his intense dedication to physically demanding roles.<br><br>He is famous for transforming his body for films.<br><br>His performances are realistic and powerful.<br><br>He is one of the most respected action actors."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Unbeatable</li><li>Operation Mekong</li><li>Rise of the Legend</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Fitness icon</li><li>Method actor</li><li>Action specialist</li><li>Highly disciplined</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"qin_hao",
+"name":"Qin Hao",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=qin_hao",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"19 May 1978","Famous For:":"Art films and dramas","Active Years:":"2000–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Qin Hao is a Chinese actor known for serious and artistic roles.<br><br>He has appeared in critically acclaimed films and dramas.<br><br>His acting style is subtle and realistic.<br><br>He is respected in both mainstream and art cinema."},
+"tab2":{"title":"Notable Works","content":"<ul><li>The Bad Kids</li><li>Spring Fever</li><li>Long Day's Journey Into Night</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Art film specialist</li><li>Critically acclaimed</li><li>Subtle acting style</li><li>Highly respected</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ren_jialun",
+"name":"Ren Jialun",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=ren_jialun",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"11 April 1989","Famous For:":"Historical dramas","Active Years:":"2014–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Ren Jialun is a Chinese actor known for his strong presence in historical dramas.<br><br>He gained fame through costume drama roles.<br><br>His characters often portray loyalty and strength.<br><br>He has a dedicated fan base."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Under the Power</li><li>One and Only</li><li>Forever and Ever</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Historical drama star</li><li>Fan favorite</li><li>Consistent performer</li><li>Popular actor</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shawn_dou",
+"name":"Shawn Dou",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=shawn_dou",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese-Canadian","Date of Birth:":"15 December 1988","Famous For:":"Films and dramas","Active Years:":"2010–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Shawn Dou is a Chinese-Canadian actor known for emotional performances.<br><br>He gained recognition through film roles.<br><br>His acting style is natural and expressive.<br><br>He works in both domestic and international productions."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Under the Hawthorn Tree</li><li>Princess Agents</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>International actor</li><li>Emotional roles</li><li>Versatile performer</li><li>Recognized talent</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"stephen_chow",
+"name":"Stephen Chow",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=stephen_chow",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Hong Kong","Date of Birth:":"22 June 1962","Famous For:":"Comedy films","Active Years:":"1980–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Stephen Chow is a legendary Chinese actor and filmmaker known for his unique comedy style.<br><br>He created a new genre blending humor and action.<br><br>His films are widely loved across Asia.<br><br>He is one of the most influential comedy actors."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Kung Fu Hustle</li><li>Shaolin Soccer</li><li>Journey to the West</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Comedy legend</li><li>Director</li><li>Unique style</li><li>Highly influential</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"wallace_huo",
+"name":"Wallace Huo",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=wallace_huo",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Taiwanese","Date of Birth:":"26 December 1979","Famous For:":"Drama series","Active Years:":"2002–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Wallace Huo is a Taiwanese actor known for romantic and historical dramas.<br><br>He gained popularity through television hits.<br><br>His calm acting style stands out.<br><br>He is widely respected."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Love Me If You Dare</li><li>Chinese Paladin</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Drama specialist</li><li>Popular actor</li><li>Strong screen presence</li><li>Fan favorite</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"wang_kai",
+"name":"Wang Kai",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=wang_kai",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"18 August 1982","Famous For:":"Drama series","Active Years:":"2005–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Wang Kai is a Chinese actor known for strong dramatic roles.<br><br>He gained recognition through critically acclaimed series.<br><br>His acting is powerful and emotional.<br><br>He is highly respected."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Nirvana in Fire</li><li>Ode to Joy</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Critically acclaimed</li><li>Drama expert</li><li>Strong acting</li><li>Popular star</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"wang_yibo",
+"name":"Wang Yibo",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=wang_yibo",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"5 August 1997","Famous For:":"Drama and music","Active Years:":"2016–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Wang Yibo is a Chinese actor, dancer, and singer known for his versatility.<br><br>He gained massive fame through hit drama series.<br><br>His talent spans multiple fields.<br><br>He is one of the biggest youth icons."},
+"tab2":{"title":"Notable Works","content":"<ul><li>The Untamed</li><li>Being a Hero</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Dancer</li><li>Actor</li><li>Huge fanbase</li><li>Multi-talented</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"wu_jing",
+"name":"Wu Jing",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=wu_jing",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"3 April 1974","Famous For:":"Action films","Active Years:":"1995–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Wu Jing is a major Chinese action star known for blockbuster films.<br><br>He gained fame through martial arts and military films.<br><br>His movies are among the highest-grossing in China.<br><br>He is also a director."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Wolf Warrior Series</li><li>The Wandering Earth</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Box office king</li><li>Action star</li><li>Director</li><li>Highly successful</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"xiao_zhan",
+"name":"Xiao Zhan",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=xiao_zhan",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"5 October 1991","Famous For:":"Drama series","Active Years:":"2015–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Xiao Zhan is one of the most popular Chinese actors and singers.<br><br>He gained fame through major drama series.<br><br>His performances combine charm and emotion.<br><br>He has a massive global fan base."},
+"tab2":{"title":"Notable Works","content":"<ul><li>The Untamed</li><li>The Oath of Love</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Global popularity</li><li>Huge fanbase</li><li>Multi-talented</li><li>Top celebrity</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"xu_kai",
+"name":"Xu Kai",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=xu_kai",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"5 March 1995","Famous For:":"Historical dramas","Active Years:":"2016–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Xu Kai is a Chinese actor known for historical and romantic dramas.<br><br>He gained popularity through hit series.<br><br>His performances are charming and intense.<br><br>He is a rising star."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Story of Yanxi Palace</li><li>Arsenal Military Academy</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Rising star</li><li>Historical roles</li><li>Fan favorite</li><li>Popular actor</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"yang_yang",
+"name":"Yang Yang",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=yang_yang",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"9 September 1991","Famous For:":"Romantic dramas","Active Years:":"2010–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Yang Yang is one of the most popular Chinese actors known for romance and action dramas.<br><br>He gained fame through major television hits.<br><br>His charm and acting made him a top celebrity.<br><br>He is globally recognized."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Love O2O</li><li>Who Rules the World</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Top celebrity</li><li>Huge fanbase</li><li>Romance star</li><li>Global fame</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"zhang_ruoyun",
+"name":"Zhang Ruoyun",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=zhang_ruoyun",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"24 August 1988","Famous For:":"Drama series","Active Years:":"2004–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Zhang Ruoyun is a Chinese actor known for powerful drama performances.<br><br>He gained fame through historical series.<br><br>His acting is praised for realism.<br><br>He is highly respected."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Joy of Life</li><li>Medical Examiner Dr. Qin</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Critically acclaimed</li><li>Drama expert</li><li>Strong acting</li><li>Popular star</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"zhang_yixing",
+"name":"Zhang Yixing",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=zhang_yixing",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"7 October 1991","Famous For:":"Music and acting","Active Years:":"2008–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Zhang Yixing, also known as Lay, is a Chinese actor and singer.<br><br>He gained fame as an EXO member.<br><br>He built a strong acting career.<br><br>He is known for his versatility."},
+"tab2":{"title":"Notable Works","content":"<ul><li>The Golden Eyes</li><li>Kung Fu Yoga</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>EXO member</li><li>Multi-talented</li><li>Global fame</li><li>Popular star</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"zhang_zhehan",
+"name":"Zhang Zhehan",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=zhang_zhehan",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"11 May 1991","Famous For:":"Drama series","Active Years:":"2010–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Zhang Zhehan is a Chinese actor known for television dramas.<br><br>He gained popularity through hit series.<br><br>His performances combine charm and emotion.<br><br>He is widely recognized."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Word of Honor</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Drama actor</li><li>Popular star</li><li>Strong fanbase</li><li>Rising career</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"zhao_youting",
+"name":"Zhao Youting",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=zhao_youting",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Taiwanese","Date of Birth:":"25 September 1984","Famous For:":"Films and dramas","Active Years:":"2009–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Zhao Youting is a Taiwanese actor known for films and drama series.<br><br>He gained fame through cinema and television.<br><br>His acting is strong and emotional.<br><br>He is widely respected."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Eternal Love</li><li>Detective Dee</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Award winner</li><li>Popular actor</li><li>Strong acting</li><li>Respected</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"zheng_kai",
+"name":"Zheng Kai",
+"type":"entity",
+"url":"entity.html?universe=actors&path=chinese_actors&id=zheng_kai",
+"parent":"chinese_actors",
+"info":{"Profession:":"Actor","Nationality:":"Chinese","Date of Birth:":"17 April 1986","Famous For:":"Comedy and TV shows","Active Years:":"2007–present"},
+"tabs":{
+"tab1":{"title":"Biography","content":"Zheng Kai is a Chinese actor known for comedy roles and television shows.<br><br>He gained fame through variety shows and films.<br><br>His energetic personality stands out.<br><br>He is widely recognized in entertainment."},
+"tab2":{"title":"Notable Works","content":"<ul><li>Running Man China</li><li>Ex-Files</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>TV personality</li><li>Comedy actor</li><li>Energetic style</li><li>Popular star</li></ul>"}
+},
+"gallery_count":5
+}
+]

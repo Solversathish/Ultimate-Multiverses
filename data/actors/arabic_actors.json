@@ -1,0 +1,312 @@
+[
+{
+"id":"adel_imam",
+"name":"Adel Imam",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=adel_imam",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"17 May 1940",
+"Famous For:":"Comedy and social satire",
+"Active Years:":"1960–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Adel Imam is one of the most influential actors in the Arab world, known for blending comedy with political and social commentary. His long career made him a cultural icon."},
+"tab2":{"title":"Notable Works","content":"Al-Irhab wal Kabab, The Terrorist, Morgan Ahmed Morgan"},
+"tab3":{"title":"Facts","content":"He is widely known as the king of Arabic comedy."}
+},
+"gallery_count":5
+},
+{
+"id":"ahmed_ezz",
+"name":"Ahmed Ezz",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=ahmed_ezz",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"23 July 1971",
+"Famous For:":"Action films",
+"Active Years:":"2001–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Ahmed Ezz is a leading Egyptian actor known for his roles in action-packed and romantic films, becoming one of the biggest stars in modern Egyptian cinema."},
+"tab2":{"title":"Notable Works","content":"The Cell, Welad Rizk, Karmouz War"},
+"tab3":{"title":"Facts","content":"He is famous for high-budget Egyptian action movies."}
+},
+"gallery_count":5
+},
+{
+"id":"ahmed_helmy",
+"name":"Ahmed Helmy",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=ahmed_helmy",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"18 November 1969",
+"Famous For:":"Comedy films",
+"Active Years:":"1993–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Ahmed Helmy is a beloved Egyptian actor known for comedy and emotional roles, gaining massive popularity across the Arab world."},
+"tab2":{"title":"Notable Works","content":"Zaki Chan, Keda Reda"},
+"tab3":{"title":"Facts","content":"He is known for expressive and versatile acting."}
+},
+"gallery_count":5
+},
+{
+"id":"amr_saad",
+"name":"Amr Saad",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=amr_saad",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"26 July 1977",
+"Famous For:":"Drama roles",
+"Active Years:":"1997–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Amr Saad is known for portraying deep emotional and dramatic characters in Egyptian films and television."},
+"tab2":{"title":"Notable Works","content":"Mawlana, Al-Agma"},
+"tab3":{"title":"Facts","content":"He often plays psychologically complex roles."}
+},
+"gallery_count":5
+},
+{
+"id":"asser_yassin",
+"name":"Asser Yassin",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=asser_yassin",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"25 February 1981",
+"Famous For:":"Modern cinema",
+"Active Years:":"2006–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Asser Yassin is a versatile Egyptian actor known for both independent and commercial films."},
+"tab2":{"title":"Notable Works","content":"The Blue Elephant, Messages from the Sea"},
+"tab3":{"title":"Facts","content":"He started his career in advertising."}
+},
+"gallery_count":5
+},
+
+{
+"id":"eyad_nassar",
+"name":"Eyad Nassar",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=eyad_nassar",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Jordanian",
+"Date of Birth:":"9 November 1971",
+"Famous For:":"TV dramas",
+"Active Years:":"1995–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Eyad Nassar is a Jordanian actor known for strong performances in historical and modern drama series."},
+"tab2":{"title":"Notable Works","content":"The Choice, Al Jamaa"},
+"tab3":{"title":"Facts","content":"Highly respected for serious roles."}
+},
+"gallery_count":5
+},
+
+{
+"id":"karim_abdel_aziz",
+"name":"Karim Abdel Aziz",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=karim_abdel_aziz",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"17 August 1975",
+"Famous For:":"Comedy and action",
+"Active Years:":"1995–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Karim Abdel Aziz is a leading Egyptian actor known for his versatility across comedy, action, and drama."},
+"tab2":{"title":"Notable Works","content":"The Blue Elephant, Kira & El Gin"},
+"tab3":{"title":"Facts","content":"He comes from a film family."}
+},
+"gallery_count":5
+},
+
+{
+"id":"khaled_el_nabawy",
+"name":"Khaled El Nabawy",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=khaled_el_nabawy",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"12 September 1966",
+"Famous For:":"International films",
+"Active Years:":"1989–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Khaled El Nabawy is known for working in both Egyptian cinema and Hollywood productions."},
+"tab2":{"title":"Notable Works","content":"Kingdom of Heaven"},
+"tab3":{"title":"Facts","content":"One of the few Arab actors in Hollywood."}
+},
+"gallery_count":5
+},
+
+{
+"id":"mohamed_henedy",
+"name":"Mohamed Henedy",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=mohamed_henedy",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"1 February 1965",
+"Famous For:":"Comedy",
+"Active Years:":"1987–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Mohamed Henedy is one of Egypt’s most famous comedians, known for entertaining films."},
+"tab2":{"title":"Notable Works","content":"Saidi in the American University"},
+"tab3":{"title":"Facts","content":"He popularized modern Egyptian comedy."}
+},
+"gallery_count":5
+},
+
+{
+"id":"mohamed_ramadan",
+"name":"Mohamed Ramadan",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=mohamed_ramadan",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"23 May 1988",
+"Famous For:":"Action roles",
+"Active Years:":"2006–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Mohamed Ramadan is a modern superstar known for action roles and music success."},
+"tab2":{"title":"Notable Works","content":"Al Prince, Number One"},
+"tab3":{"title":"Facts","content":"Huge fan following among youth."}
+},
+"gallery_count":5
+},
+
+{
+"id":"mostafa_shaban",
+"name":"Mostafa Shaban",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=mostafa_shaban",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"19 May 1970",
+"Famous For:":"TV dramas",
+"Active Years:":"1995–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Mostafa Shaban is known for dramatic roles in Egyptian television series."},
+"tab2":{"title":"Notable Works","content":"Ayam, Al Ostora"},
+"tab3":{"title":"Facts","content":"Popular TV personality."}
+},
+"gallery_count":5
+},
+
+{
+"id":"nour_el_sherif",
+"name":"Nour El-Sherif",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=nour_el_sherif",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"28 April 1946",
+"Famous For:":"Classic cinema",
+"Active Years:":"1967–2015"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Nour El-Sherif was a legendary figure in Egyptian cinema known for deep roles."},
+"tab2":{"title":"Notable Works","content":"Karnak, Al-Aar"},
+"tab3":{"title":"Facts","content":"Highly respected actor."}
+},
+"gallery_count":5
+},
+
+{
+"id":"omar_sharif",
+"name":"Omar Sharif",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=omar_sharif",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"10 April 1932",
+"Famous For:":"Hollywood films",
+"Active Years:":"1954–2015"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Omar Sharif gained worldwide fame through Hollywood films and became a global icon."},
+"tab2":{"title":"Notable Works","content":"Lawrence of Arabia, Doctor Zhivago"},
+"tab3":{"title":"Facts","content":"Oscar nominated actor."}
+},
+"gallery_count":5
+},
+
+{
+"id":"tamer_hosny",
+"name":"Tamer Hosny",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=tamer_hosny",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"16 August 1977",
+"Famous For:":"Music and films",
+"Active Years:":"2002–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Tamer Hosny is a multi-talented singer and actor with massive popularity."},
+"tab2":{"title":"Notable Works","content":"Omar & Salma"},
+"tab3":{"title":"Facts","content":"Known as King of Generation."}
+},
+"gallery_count":5
+},
+
+{
+"id":"yasser_galal",
+"name":"Yasser Galal",
+"type":"entity",
+"url":"entity.html?universe=actors&path=arabic_actors&id=yasser_galal",
+"parent":"arabic_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Egyptian",
+"Date of Birth:":"16 April 1969",
+"Famous For:":"TV dramas",
+"Active Years:":"1990–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Yasser Galal is known for strong performances in Egyptian TV dramas."},
+"tab2":{"title":"Notable Works","content":"Rahim, Al-Fetewa"},
+"tab3":{"title":"Facts","content":"Brother of Ramy Galal."}
+},
+"gallery_count":5
+}
+]

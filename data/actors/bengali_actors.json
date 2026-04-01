@@ -1,0 +1,730 @@
+[
+{
+"id":"abir_chatterjee",
+"name":"Abir Chatterjee",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=abir_chatterjee",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"18 November 1980",
+"Famous For:":"Detective roles",
+"Active Years:":"2009–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Abir Chatterjee is a leading Bengali actor known for portraying iconic detective characters like Feluda and Byomkesh."},
+"tab2":{"title":"Notable Works","content":"Byomkesh series, Feluda films"},
+"tab3":{"title":"Facts","content":"One of the most recognizable faces in Bengali cinema."}
+},
+"gallery_count":5
+},
+{
+"id":"anirban_bhattacharya",
+"name":"Anirban Bhattacharya",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=anirban_bhattacharya",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"7 October 1986",
+"Famous For:":"Theatre and films",
+"Active Years:":"2010–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Anirban Bhattacharya is a critically acclaimed actor known for theatre and cinema performances."},
+"tab2":{"title":"Notable Works","content":"Uma, Bibaho Obhijaan"},
+"tab3":{"title":"Facts","content":"He is also a director."}
+},
+"gallery_count":5
+},
+{
+"id":"ankush_hazra",
+"name":"Ankush Hazra",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=ankush_hazra",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"14 February 1989",
+"Famous For:":"Commercial films",
+"Active Years:":"2010–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Ankush Hazra is a popular Bengali actor known for romantic and commercial films."},
+"tab2":{"title":"Notable Works","content":"Idiot, Khiladi"},
+"tab3":{"title":"Facts","content":"Youth icon in Bengali cinema."}
+},
+"gallery_count":5
+},
+
+{
+"id":"arjun_chakrabarty",
+"name":"Arjun Chakrabarty",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=arjun_chakrabarty",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"5 March 1990",
+"Famous For:":"TV and web series",
+"Active Years:":"2013–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Arjun Chakrabarty is known for modern Bengali web series and films."},
+"tab2":{"title":"Notable Works","content":"Gaaner Oparey"},
+"tab3":{"title":"Facts","content":"He is the son of actor Sabyasachi Chakrabarty."}
+},
+"gallery_count":5
+},
+
+{
+"id":"biplab_chatterjee",
+"name":"Biplab Chatterjee",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=biplab_chatterjee",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"8 July 1946",
+"Famous For:":"Supporting roles",
+"Active Years:":"1970–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Biplab Chatterjee is known for strong supporting roles in Bengali cinema."},
+"tab2":{"title":"Notable Works","content":"Various Bengali films"},
+"tab3":{"title":"Facts","content":"Often plays villain roles."}
+},
+"gallery_count":5
+},
+
+{
+"id":"biswajit_chatterjee",
+"name":"Biswajit Chatterjee",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=biswajit_chatterjee",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"14 December 1936",
+"Famous For:":"Bengali and Hindi cinema",
+"Active Years:":"1958–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Biswajit Chatterjee is a veteran actor who also worked in Bollywood."},
+"tab2":{"title":"Notable Works","content":"Bees Saal Baad"},
+"tab3":{"title":"Facts","content":"Transitioned to Hindi cinema."}
+},
+"gallery_count":5
+},
+
+{
+"id":"chiranjit_chakraborty",
+"name":"Chiranjit Chakraborty",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=chiranjit_chakraborty",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"2 November 1955",
+"Famous For:":"Classic Bengali films",
+"Active Years:":"1980–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Chiranjit is a veteran actor and politician known for Bengali films."},
+"tab2":{"title":"Notable Works","content":"Various classics"},
+"tab3":{"title":"Facts","content":"Also active in politics."}
+},
+"gallery_count":5
+},
+
+{
+"id":"dev",
+"name":"Dev (Deepak Adhikari)",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=dev",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"25 December 1982",
+"Famous For:":"Commercial cinema",
+"Active Years:":"2006–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Dev is one of the biggest commercial stars in Bengali cinema."},
+"tab2":{"title":"Notable Works","content":"Challenge, Khokababu"},
+"tab3":{"title":"Facts","content":"Also a politician."}
+},
+"gallery_count":5
+},
+
+{
+"id":"gaurav_chakrabarty",
+"name":"Gaurav Chakrabarty",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=gaurav_chakrabarty",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"6 March 1987",
+"Famous For:":"TV and films",
+"Active Years:":"2004–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Gaurav Chakrabarty is known for both television and film roles."},
+"tab2":{"title":"Notable Works","content":"Various Bengali series"},
+"tab3":{"title":"Facts","content":"Son of Sabyasachi Chakrabarty."}
+},
+"gallery_count":5
+},
+
+{
+"id":"hiran_chatterjee",
+"name":"Hiran Chatterjee",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=hiran_chatterjee",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"19 December 1985",
+"Famous For:":"Commercial films",
+"Active Years:":"2007–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Hiran Chatterjee is known for action and romantic films."},
+"tab2":{"title":"Notable Works","content":"Nabab Nandini"},
+"tab3":{"title":"Facts","content":"Also active in politics."}
+},
+"gallery_count":5
+},
+
+{
+"id":"indraneil_sengupta",
+"name":"Indraneil Sengupta",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=indraneil_sengupta",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"8 September 1974",
+"Famous For:":"TV and films",
+"Active Years:":"2000–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Indraneil Sengupta works in Bengali and Hindi industries."},
+"tab2":{"title":"Notable Works","content":"Kahaani"},
+"tab3":{"title":"Facts","content":"Popular TV face."}
+},
+"gallery_count":5
+},
+{
+"id":"jeet",
+"name":"Jeet (Jeetendra Madnani)",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=jeet",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"30 November 1978",
+"Famous For:":"Action films",
+"Active Years:":"2002–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Jeet is one of the most successful commercial actors in Bengali cinema known for action and romantic roles."},
+"tab2":{"title":"Notable Works","content":"Nater Guru, Boss"},
+"tab3":{"title":"Facts","content":"Also a producer and entrepreneur."}
+},
+"gallery_count":5
+},
+{
+"id":"jisshu_sengupta",
+"name":"Jisshu Sengupta",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=jisshu_sengupta",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"15 March 1977",
+"Famous For:":"Versatile roles",
+"Active Years:":"1997–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Jisshu Sengupta is known for his versatility across Bengali, Hindi, and South Indian films."},
+"tab2":{"title":"Notable Works","content":"Piku, Shakuntala Devi"},
+"tab3":{"title":"Facts","content":"Works across multiple industries."}
+},
+"gallery_count":5
+},
+{
+"id":"kaushik_ganguly",
+"name":"Kaushik Ganguly",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=kaushik_ganguly",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"4 August 1968",
+"Famous For:":"Art films",
+"Active Years:":"1990–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Kaushik Ganguly is an acclaimed actor and director known for meaningful cinema."},
+"tab2":{"title":"Notable Works","content":"Nagarkirtan"},
+"tab3":{"title":"Facts","content":"Won National Awards."}
+},
+"gallery_count":5
+},
+{
+"id":"kharaj_mukherjee",
+"name":"Kharaj Mukherjee",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=kharaj_mukherjee",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"7 July 1963",
+"Famous For:":"Comedy roles",
+"Active Years:":"1980–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Kharaj Mukherjee is a popular comic actor known for supporting roles."},
+"tab2":{"title":"Notable Works","content":"Bhooter Bhabishyat"},
+"tab3":{"title":"Facts","content":"One of the most loved comedians in Bengali cinema."}
+},
+"gallery_count":5
+},
+{
+"id":"koushik_sen",
+"name":"Koushik Sen",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=koushik_sen",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"7 August 1968",
+"Famous For:":"Theatre and films",
+"Active Years:":"1990–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Koushik Sen is a respected theatre and film actor."},
+"tab2":{"title":"Notable Works","content":"Various stage and film works"},
+"tab3":{"title":"Facts","content":"Comes from a theatre family."}
+},
+"gallery_count":5
+},
+{
+"id":"mainak_banerjee",
+"name":"Mainak Banerjee",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=mainak_banerjee",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"Unknown",
+"Famous For:":"Supporting roles",
+"Active Years:":"2000–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Mainak Banerjee is known for supporting roles in Bengali films and television."},
+"tab2":{"title":"Notable Works","content":"Various Bengali productions"},
+"tab3":{"title":"Facts","content":"Recognized for character roles."}
+},
+"gallery_count":5
+},
+{
+"id":"mir_afsar_ali",
+"name":"Mir Afsar Ali",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=mir_afsar_ali",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"13 February 1975",
+"Famous For:":"Radio and acting",
+"Active Years:":"2000–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Mir Afsar Ali is a radio jockey, actor, and host known for his humor."},
+"tab2":{"title":"Notable Works","content":"Radio Mirchi shows"},
+"tab3":{"title":"Facts","content":"Popular radio personality."}
+},
+"gallery_count":5
+},
+{
+"id":"mithun_chakraborty",
+"name":"Mithun Chakraborty",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=mithun_chakraborty",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"16 June 1950",
+"Famous For:":"Disco Dancer",
+"Active Years:":"1976–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Mithun Chakraborty is a legendary actor known across Indian cinema."},
+"tab2":{"title":"Notable Works","content":"Disco Dancer"},
+"tab3":{"title":"Facts","content":"Also a politician."}
+},
+"gallery_count":5
+},
+{
+"id":"parambrata_chatterjee",
+"name":"Parambrata Chatterjee",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=parambrata_chatterjee",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"27 June 1980",
+"Famous For:":"Thrillers",
+"Active Years:":"2002–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Parambrata is known for critically acclaimed roles in thrillers."},
+"tab2":{"title":"Notable Works","content":"Kahaani"},
+"tab3":{"title":"Facts","content":"Also a director."}
+},
+"gallery_count":5
+},
+{
+"id":"paran_bandopadhyay",
+"name":"Paran Bandopadhyay",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=paran_bandopadhyay",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"12 January 1940",
+"Famous For:":"Comedy and character roles",
+"Active Years:":"1960–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Paran Bandopadhyay is known for comic and supporting roles."},
+"tab2":{"title":"Notable Works","content":"Bhooter Bhabishyat"},
+"tab3":{"title":"Facts","content":"Veteran actor."}
+},
+"gallery_count":5
+},
+{
+"id":"prasenjit_chatterjee",
+"name":"Prasenjit Chatterjee",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=prasenjit_chatterjee",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"30 September 1962",
+"Famous For:":"Bengali cinema legend",
+"Active Years:":"1983–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Prasenjit Chatterjee, also known as Prosenjit, is one of the biggest superstars in Bengali cinema history with decades of dominance."},
+"tab2":{"title":"Notable Works","content":"Autograph, Moner Manush"},
+"tab3":{"title":"Facts","content":"Known as 'Bumba Da' in the industry."}
+},
+"gallery_count":5
+},
+{
+"id":"rahul_banerjee",
+"name":"Rahul Banerjee",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=rahul_banerjee",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"16 October 1983",
+"Famous For:":"Art films",
+"Active Years:":"2004–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Rahul Banerjee is known for meaningful cinema and critically acclaimed performances."},
+"tab2":{"title":"Notable Works","content":"Chirodini Tumi Je Amar"},
+"tab3":{"title":"Facts","content":"Won National Film Award."}
+},
+"gallery_count":5
+},
+{
+"id":"rajatava_dutta",
+"name":"Rajatava Dutta",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=rajatava_dutta",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"11 August 1967",
+"Famous For:":"Villain and character roles",
+"Active Years:":"1990–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Rajatava Dutta is known for strong villain and supporting roles in Bengali cinema."},
+"tab2":{"title":"Notable Works","content":"Challenge 2"},
+"tab3":{"title":"Facts","content":"Popular for negative roles."}
+},
+"gallery_count":5
+},
+{
+"id":"ranjit_mallick",
+"name":"Ranjit Mallick",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=ranjit_mallick",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"28 September 1944",
+"Famous For:":"Classic Bengali cinema",
+"Active Years:":"1970–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Ranjit Mallick is a veteran Bengali actor known for strong leading and supporting roles."},
+"tab2":{"title":"Notable Works","content":"Shatru"},
+"tab3":{"title":"Facts","content":"Father of actress Koel Mallick."}
+},
+"gallery_count":5
+},
+{
+"id":"ritwick_chakraborty",
+"name":"Ritwick Chakraborty",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=ritwick_chakraborty",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"31 March 1977",
+"Famous For:":"Art films",
+"Active Years:":"2004–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Ritwick Chakraborty is a critically acclaimed actor known for realistic roles."},
+"tab2":{"title":"Notable Works","content":"Shabdo"},
+"tab3":{"title":"Facts","content":"Known for natural acting."}
+},
+"gallery_count":5
+},
+{
+"id":"rudranil_ghosh",
+"name":"Rudranil Ghosh",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=rudranil_ghosh",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"6 January 1973",
+"Famous For:":"Comedy and films",
+"Active Years:":"2000–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Rudranil Ghosh is known for comic and character roles."},
+"tab2":{"title":"Notable Works","content":"Chaplin"},
+"tab3":{"title":"Facts","content":"Also active in politics."}
+},
+"gallery_count":5
+},
+{
+"id":"sabyasachi_chakrabarty",
+"name":"Sabyasachi Chakrabarty",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=sabyasachi_chakrabarty",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"8 September 1956",
+"Famous For:":"Feluda role",
+"Active Years:":"1980–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Sabyasachi Chakrabarty is best known for playing Feluda, the iconic Bengali detective."},
+"tab2":{"title":"Notable Works","content":"Feluda series"},
+"tab3":{"title":"Facts","content":"Highly respected actor."}
+},
+"gallery_count":5
+},
+{
+"id":"saswata_chatterjee",
+"name":"Saswata Chatterjee",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=saswata_chatterjee",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"19 December 1970",
+"Famous For:":"Versatile roles",
+"Active Years:":"1995–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Saswata Chatterjee is known for powerful performances in films and web series."},
+"tab2":{"title":"Notable Works","content":"Kahaani"},
+"tab3":{"title":"Facts","content":"Played Bob Biswas."}
+},
+"gallery_count":5
+},
+{
+"id":"shankar_chakraborty",
+"name":"Shankar Chakraborty",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=shankar_chakraborty",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"7 August 1962",
+"Famous For:":"TV and films",
+"Active Years:":"1990–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Shankar Chakraborty is known for supporting roles in television and films."},
+"tab2":{"title":"Notable Works","content":"Various TV serials"},
+"tab3":{"title":"Facts","content":"Popular character actor."}
+},
+"gallery_count":5
+},
+{
+"id":"soham_chakraborty",
+"name":"Soham Chakraborty",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=soham_chakraborty",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"4 March 1984",
+"Famous For:":"Commercial films",
+"Active Years:":"2000–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Soham Chakraborty is a popular commercial actor in Bengali cinema."},
+"tab2":{"title":"Notable Works","content":"Prem Amar"},
+"tab3":{"title":"Facts","content":"Also a producer."}
+},
+"gallery_count":5
+},
+{
+"id":"soumitra_chatterjee",
+"name":"Soumitra Chatterjee",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=soumitra_chatterjee",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"19 January 1935",
+"Famous For:":"Satyajit Ray films",
+"Active Years:":"1959–2020"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Soumitra Chatterjee was a legendary actor known for collaborations with Satyajit Ray."},
+"tab2":{"title":"Notable Works","content":"Apu Trilogy"},
+"tab3":{"title":"Facts","content":"Received India's highest film honors."}
+},
+"gallery_count":5
+},
+{
+"id":"subhrajit_dutta",
+"name":"Subhrajit Dutta",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=subhrajit_dutta",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"Unknown",
+"Famous For:":"Character roles",
+"Active Years:":"2000–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Subhrajit Dutta is known for supporting roles in Bengali films."},
+"tab2":{"title":"Notable Works","content":"Various films"},
+"tab3":{"title":"Facts","content":"Recognized for character acting."}
+},
+"gallery_count":5
+},
+{
+"id":"tapas_paul",
+"name":"Tapas Paul",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=tapas_paul",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"29 September 1958",
+"Famous For:":"Romantic roles",
+"Active Years:":"1980–2014"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Tapas Paul was a popular Bengali actor known for romantic films."},
+"tab2":{"title":"Notable Works","content":"Dadar Kirti"},
+"tab3":{"title":"Facts","content":"Also involved in politics."}
+},
+"gallery_count":5
+},
+{
+"id":"tota_roy_chowdhury",
+"name":"Tota Roy Chowdhury",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=tota_roy_chowdhury",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"9 July 1976",
+"Famous For:":"Fitness and acting",
+"Active Years:":"1996–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Tota Roy Chowdhury is known for his fitness and diverse acting roles."},
+"tab2":{"title":"Notable Works","content":"Rocky Aur Rani Kii Prem Kahaani"},
+"tab3":{"title":"Facts","content":"Also a martial artist."}
+},
+"gallery_count":5
+},
+{
+"id":"yash_dasgupta",
+"name":"Yash Dasgupta",
+"type":"entity",
+"url":"entity.html?universe=actors&path=bengali_actors&id=yash_dasgupta",
+"parent":"bengali_actors",
+"info":{
+"Profession:":"Actor",
+"Nationality:":"Indian",
+"Date of Birth:":"10 October 1985",
+"Famous For:":"TV and films",
+"Active Years:":"2010–present"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"Yash Dasgupta is a Bengali actor known for television and films."},
+"tab2":{"title":"Notable Works","content":"Gangster"},
+"tab3":{"title":"Facts","content":"Also a politician."}
+},
+"gallery_count":5
+}
+]

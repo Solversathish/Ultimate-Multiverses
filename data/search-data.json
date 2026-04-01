@@ -288,6 +288,141 @@
     "url": "category.html?universe=actors&path=arabic_actors"
   },
   {
+    "name": "Adel Imam",
+    "id": "adel_imam",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=adel_imam"
+  },
+  {
+    "name": "Ahmed Ezz",
+    "id": "ahmed_ezz",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=ahmed_ezz"
+  },
+  {
+    "name": "Ahmed Helmy",
+    "id": "ahmed_helmy",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=ahmed_helmy"
+  },
+  {
+    "name": "Amr Saad",
+    "id": "amr_saad",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=amr_saad"
+  },
+  {
+    "name": "Asser Yassin",
+    "id": "asser_yassin",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=asser_yassin"
+  },
+  {
+    "name": "Eyad Nassar",
+    "id": "eyad_nassar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=eyad_nassar"
+  },
+  {
+    "name": "Karim Abdel Aziz",
+    "id": "karim_abdel_aziz",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=karim_abdel_aziz"
+  },
+  {
+    "name": "Khaled El Nabawy",
+    "id": "khaled_el_nabawy",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=khaled_el_nabawy"
+  },
+  {
+    "name": "Mohamed Henedy",
+    "id": "mohamed_henedy",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=mohamed_henedy"
+  },
+  {
+    "name": "Mohamed Ramadan",
+    "id": "mohamed_ramadan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=mohamed_ramadan"
+  },
+  {
+    "name": "Mostafa Shaban",
+    "id": "mostafa_shaban",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=mostafa_shaban"
+  },
+  {
+    "name": "Nour El-Sherif",
+    "id": "nour_el_sherif",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=nour_el_sherif"
+  },
+  {
+    "name": "Omar Sharif",
+    "id": "omar_sharif",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=omar_sharif"
+  },
+  {
+    "name": "Tamer Hosny",
+    "id": "tamer_hosny",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=tamer_hosny"
+  },
+  {
+    "name": "Yasser Galal",
+    "id": "yasser_galal",
+    "type": "entity",
+    "universe": "actors",
+    "path": "arabic_actors",
+    "parent": "Arabic Actors",
+    "url": "entity.html?universe=actors&path=arabic_actors&id=yasser_galal"
+  },
+  {
     "name": "Bengali Actors",
     "id": "bengali_actors",
     "type": "category",
@@ -297,6 +432,330 @@
     "url": "category.html?universe=actors&path=bengali_actors"
   },
   {
+    "name": "Abir Chatterjee",
+    "id": "abir_chatterjee",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=abir_chatterjee"
+  },
+  {
+    "name": "Anirban Bhattacharya",
+    "id": "anirban_bhattacharya",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=anirban_bhattacharya"
+  },
+  {
+    "name": "Ankush Hazra",
+    "id": "ankush_hazra",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=ankush_hazra"
+  },
+  {
+    "name": "Arjun Chakrabarty",
+    "id": "arjun_chakrabarty",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=arjun_chakrabarty"
+  },
+  {
+    "name": "Biplab Chatterjee",
+    "id": "biplab_chatterjee",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=biplab_chatterjee"
+  },
+  {
+    "name": "Biswajit Chatterjee",
+    "id": "biswajit_chatterjee",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=biswajit_chatterjee"
+  },
+  {
+    "name": "Chiranjit Chakraborty",
+    "id": "chiranjit_chakraborty",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=chiranjit_chakraborty"
+  },
+  {
+    "name": "Dev (Deepak Adhikari)",
+    "id": "dev",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=dev"
+  },
+  {
+    "name": "Gaurav Chakrabarty",
+    "id": "gaurav_chakrabarty",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=gaurav_chakrabarty"
+  },
+  {
+    "name": "Hiran Chatterjee",
+    "id": "hiran_chatterjee",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=hiran_chatterjee"
+  },
+  {
+    "name": "Indraneil Sengupta",
+    "id": "indraneil_sengupta",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=indraneil_sengupta"
+  },
+  {
+    "name": "Jeet (Jeetendra Madnani)",
+    "id": "jeet",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=jeet"
+  },
+  {
+    "name": "Jisshu Sengupta",
+    "id": "jisshu_sengupta",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=jisshu_sengupta"
+  },
+  {
+    "name": "Kaushik Ganguly",
+    "id": "kaushik_ganguly",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=kaushik_ganguly"
+  },
+  {
+    "name": "Kharaj Mukherjee",
+    "id": "kharaj_mukherjee",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=kharaj_mukherjee"
+  },
+  {
+    "name": "Koushik Sen",
+    "id": "koushik_sen",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=koushik_sen"
+  },
+  {
+    "name": "Mainak Banerjee",
+    "id": "mainak_banerjee",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=mainak_banerjee"
+  },
+  {
+    "name": "Mir Afsar Ali",
+    "id": "mir_afsar_ali",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=mir_afsar_ali"
+  },
+  {
+    "name": "Mithun Chakraborty",
+    "id": "mithun_chakraborty",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=mithun_chakraborty"
+  },
+  {
+    "name": "Parambrata Chatterjee",
+    "id": "parambrata_chatterjee",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=parambrata_chatterjee"
+  },
+  {
+    "name": "Paran Bandopadhyay",
+    "id": "paran_bandopadhyay",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=paran_bandopadhyay"
+  },
+  {
+    "name": "Prasenjit Chatterjee",
+    "id": "prasenjit_chatterjee",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=prasenjit_chatterjee"
+  },
+  {
+    "name": "Rahul Banerjee",
+    "id": "rahul_banerjee",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=rahul_banerjee"
+  },
+  {
+    "name": "Rajatava Dutta",
+    "id": "rajatava_dutta",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=rajatava_dutta"
+  },
+  {
+    "name": "Ranjit Mallick",
+    "id": "ranjit_mallick",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=ranjit_mallick"
+  },
+  {
+    "name": "Ritwick Chakraborty",
+    "id": "ritwick_chakraborty",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=ritwick_chakraborty"
+  },
+  {
+    "name": "Rudranil Ghosh",
+    "id": "rudranil_ghosh",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=rudranil_ghosh"
+  },
+  {
+    "name": "Sabyasachi Chakrabarty",
+    "id": "sabyasachi_chakrabarty",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=sabyasachi_chakrabarty"
+  },
+  {
+    "name": "Saswata Chatterjee",
+    "id": "saswata_chatterjee",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=saswata_chatterjee"
+  },
+  {
+    "name": "Shankar Chakraborty",
+    "id": "shankar_chakraborty",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=shankar_chakraborty"
+  },
+  {
+    "name": "Soham Chakraborty",
+    "id": "soham_chakraborty",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=soham_chakraborty"
+  },
+  {
+    "name": "Soumitra Chatterjee",
+    "id": "soumitra_chatterjee",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=soumitra_chatterjee"
+  },
+  {
+    "name": "Subhrajit Dutta",
+    "id": "subhrajit_dutta",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=subhrajit_dutta"
+  },
+  {
+    "name": "Tapas Paul",
+    "id": "tapas_paul",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=tapas_paul"
+  },
+  {
+    "name": "Tota Roy Chowdhury",
+    "id": "tota_roy_chowdhury",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=tota_roy_chowdhury"
+  },
+  {
+    "name": "Yash Dasgupta",
+    "id": "yash_dasgupta",
+    "type": "entity",
+    "universe": "actors",
+    "path": "bengali_actors",
+    "parent": "Bengali Actors",
+    "url": "entity.html?universe=actors&path=bengali_actors&id=yash_dasgupta"
+  },
+  {
     "name": "Chinese Actors",
     "id": "chinese_actors",
     "type": "category",
@@ -304,6 +763,420 @@
     "path": "",
     "parent": "actors",
     "url": "category.html?universe=actors&path=chinese_actors"
+  },
+  {
+    "name": "Andy Lau",
+    "id": "andy_lau",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=andy_lau"
+  },
+  {
+    "name": "Bai Yu",
+    "id": "bai_yu",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=bai_yu"
+  },
+  {
+    "name": "Bruce Lee",
+    "id": "bruce_lee",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=bruce_lee"
+  },
+  {
+    "name": "Chen Kun",
+    "id": "chen_kun",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=chen_kun"
+  },
+  {
+    "name": "Chen Xingxu",
+    "id": "chen_xingxu",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=chen_xingxu"
+  },
+  {
+    "name": "Chow Yun-Fat",
+    "id": "chow_yun_fat",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=chow_yun_fat"
+  },
+  {
+    "name": "Deng Chao",
+    "id": "deng_chao",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=deng_chao"
+  },
+  {
+    "name": "Deng Lun",
+    "id": "deng_lun",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=deng_lun"
+  },
+  {
+    "name": "Donnie Yen",
+    "id": "donnie_yen",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=donnie_yen"
+  },
+  {
+    "name": "Eddie Peng",
+    "id": "eddie_peng",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=eddie_peng"
+  },
+  {
+    "name": "Feng Shaofeng",
+    "id": "feng_shaofeng",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=feng_shaofeng"
+  },
+  {
+    "name": "Ge You",
+    "id": "ge_you",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=ge_you"
+  },
+  {
+    "name": "Gordon Liu",
+    "id": "gordon_liu",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=gordon_liu"
+  },
+  {
+    "name": "Hu Ge",
+    "id": "hu_ge",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=hu_ge"
+  },
+  {
+    "name": "Huang Bo",
+    "id": "huang_bo",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=huang_bo"
+  },
+  {
+    "name": "Huang Xiaoming",
+    "id": "huang_xiaoming",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=huang_xiaoming"
+  },
+  {
+    "name": "Jackie Chan",
+    "id": "jackie_chan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=jackie_chan"
+  },
+  {
+    "name": "Jackson Yee",
+    "id": "jackson_yee",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=jackson_yee"
+  },
+  {
+    "name": "Jet Li",
+    "id": "jet_li",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=jet_li"
+  },
+  {
+    "name": "Jing Boran",
+    "id": "jing_boran",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=jing_boran"
+  },
+  {
+    "name": "Kris Wu",
+    "id": "kris_wu",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=kris_wu"
+  },
+  {
+    "name": "Leo Wu",
+    "id": "leo_wu",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=leo_wu"
+  },
+  {
+    "name": "Li Xian",
+    "id": "li_xian",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=li_xian"
+  },
+  {
+    "name": "Li Yifeng",
+    "id": "li_yifeng",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=li_yifeng"
+  },
+  {
+    "name": "Liang Chaowei (Tony Leung)",
+    "id": "liang_chaowei",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=liang_chaowei"
+  },
+  {
+    "name": "Lin Gengxin",
+    "id": "lin_gengxin",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=lin_gengxin"
+  },
+  {
+    "name": "Liu Haoran",
+    "id": "liu_haoran",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=liu_haoran"
+  },
+  {
+    "name": "Luhan",
+    "id": "luhan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=luhan"
+  },
+  {
+    "name": "Mark Chao",
+    "id": "mark_chao",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=mark_chao"
+  },
+  {
+    "name": "Peng Yuyan",
+    "id": "peng_yuyan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=peng_yuyan"
+  },
+  {
+    "name": "Qin Hao",
+    "id": "qin_hao",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=qin_hao"
+  },
+  {
+    "name": "Ren Jialun",
+    "id": "ren_jialun",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=ren_jialun"
+  },
+  {
+    "name": "Shawn Dou",
+    "id": "shawn_dou",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=shawn_dou"
+  },
+  {
+    "name": "Stephen Chow",
+    "id": "stephen_chow",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=stephen_chow"
+  },
+  {
+    "name": "Wallace Huo",
+    "id": "wallace_huo",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=wallace_huo"
+  },
+  {
+    "name": "Wang Kai",
+    "id": "wang_kai",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=wang_kai"
+  },
+  {
+    "name": "Wang Yibo",
+    "id": "wang_yibo",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=wang_yibo"
+  },
+  {
+    "name": "Wu Jing",
+    "id": "wu_jing",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=wu_jing"
+  },
+  {
+    "name": "Xiao Zhan",
+    "id": "xiao_zhan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=xiao_zhan"
+  },
+  {
+    "name": "Xu Kai",
+    "id": "xu_kai",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=xu_kai"
+  },
+  {
+    "name": "Yang Yang",
+    "id": "yang_yang",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=yang_yang"
+  },
+  {
+    "name": "Zhang Ruoyun",
+    "id": "zhang_ruoyun",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=zhang_ruoyun"
+  },
+  {
+    "name": "Zhang Yixing",
+    "id": "zhang_yixing",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=zhang_yixing"
+  },
+  {
+    "name": "Zhang Zhehan",
+    "id": "zhang_zhehan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=zhang_zhehan"
+  },
+  {
+    "name": "Zhao Youting",
+    "id": "zhao_youting",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=zhao_youting"
+  },
+  {
+    "name": "Zheng Kai",
+    "id": "zheng_kai",
+    "type": "entity",
+    "universe": "actors",
+    "path": "chinese_actors",
+    "parent": "Chinese Actors",
+    "url": "entity.html?universe=actors&path=chinese_actors&id=zheng_kai"
   },
   {
     "name": "English Actors",
@@ -475,6 +1348,141 @@
     "path": "",
     "parent": "actress",
     "url": "category.html?universe=actress&path=arabic_actress"
+  },
+  {
+    "name": "Amina Khalil",
+    "id": "amina_khalil",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=amina_khalil"
+  },
+  {
+    "name": "Asmaa Galal",
+    "id": "asmaa_galal",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=asmaa_galal"
+  },
+  {
+    "name": "Cyrine Abdelnour",
+    "id": "cyrine_abdelnour",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=cyrine_abdelnour"
+  },
+  {
+    "name": "Dina El Sherbiny",
+    "id": "dina_el_sherbiny",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=dina_el_sherbiny"
+  },
+  {
+    "name": "Elham Shaheen",
+    "id": "elham_shaheen",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=elham_shaheen"
+  },
+  {
+    "name": "Ghada Abdel Razek",
+    "id": "ghada_abdel_razek",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=ghada_abdel_razek"
+  },
+  {
+    "name": "Hend Sabry",
+    "id": "hend_sabry",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=hend_sabry"
+  },
+  {
+    "name": "Huda El Mufti",
+    "id": "huda_el_mufti",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=huda_el_mufti"
+  },
+  {
+    "name": "Lebleba",
+    "id": "lebleba",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=lebleba"
+  },
+  {
+    "name": "Menna Shalabi",
+    "id": "menna_shalabi",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=menna_shalabi"
+  },
+  {
+    "name": "Mona Zaki",
+    "id": "mona_zaki",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=mona_zaki"
+  },
+  {
+    "name": "Nadine Nassib Njeim",
+    "id": "nadine_nassib_njeim",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=nadine_nassib_njeim"
+  },
+  {
+    "name": "Nelly Karim",
+    "id": "nelly_karim",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=nelly_karim"
+  },
+  {
+    "name": "Rania Youssef",
+    "id": "rania_youssef",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=rania_youssef"
+  },
+  {
+    "name": "Yasmine Abdel Aziz",
+    "id": "yasmine_abdel_aziz",
+    "type": "entity",
+    "universe": "actress",
+    "path": "arabic_actress",
+    "parent": "Arabic Actress",
+    "url": "entity.html?universe=actress&path=arabic_actress&id=yasmine_abdel_aziz"
   },
   {
     "name": "Bengali Actress",
@@ -4930,6 +5938,150 @@
     "path": "",
     "parent": "gods",
     "url": "category.html?universe=gods&path=slavic_gods"
+  },
+  {
+    "name": "Atmosphere",
+    "id": "atmosphere",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=atmosphere"
+  },
+  {
+    "name": "Biomes",
+    "id": "biomes",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=biomes"
+  },
+  {
+    "name": "Climate",
+    "id": "climate",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=climate"
+  },
+  {
+    "name": "Ecosystems",
+    "id": "ecosystems",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=ecosystems"
+  },
+  {
+    "name": "Forests",
+    "id": "forests",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=forests"
+  },
+  {
+    "name": "Islands",
+    "id": "islands",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=islands"
+  },
+  {
+    "name": "Lakes",
+    "id": "lakes",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=lakes"
+  },
+  {
+    "name": "Mountains",
+    "id": "mountains",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=mountains"
+  },
+  {
+    "name": "Natural Disasters",
+    "id": "natural_disasters",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=natural_disasters"
+  },
+  {
+    "name": "Oceans",
+    "id": "oceans",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=oceans"
+  },
+  {
+    "name": "Rivers",
+    "id": "rivers",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=rivers"
+  },
+  {
+    "name": "Seas",
+    "id": "seas",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=seas"
+  },
+  {
+    "name": "Valleys",
+    "id": "valleys",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=valleys"
+  },
+  {
+    "name": "Volcanoes",
+    "id": "volcanoes",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=volcanoes"
+  },
+  {
+    "name": "Waterfalls",
+    "id": "waterfalls",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=waterfalls"
+  },
+  {
+    "name": "Weather",
+    "id": "weather",
+    "type": "category",
+    "universe": "natures",
+    "path": "",
+    "parent": "natures",
+    "url": "category.html?universe=natures&path=weather"
   },
   {
     "name": "Asteroids",
