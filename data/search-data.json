@@ -6309,6 +6309,186 @@
     "url": "entity.html?universe=sports&path=cricket,cricket_india&id=abhijeet_tomar"
   },
   {
+    "name": "Abhijit Kale",
+    "id": "abhijit_kale",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=abhijit_kale"
+  },
+  {
+    "name": "Abhimanyu Mithun",
+    "id": "abhimanyu_mithun",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=abhimanyu_mithun"
+  },
+  {
+    "name": "Abhinandan Singh",
+    "id": "abhinandan_singh",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=abhinandan_singh"
+  },
+  {
+    "name": "Abhinav Manohar",
+    "id": "abhinav_manohar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=abhinav_manohar"
+  },
+  {
+    "name": "Abhinav Mukund",
+    "id": "abhinav_mukund",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=abhinav_mukund"
+  },
+  {
+    "name": "Abhishek Jhunjhunwala",
+    "id": "abhishek_jhunjhunwala",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=abhishek_jhunjhunwala"
+  },
+  {
+    "name": "Abhishek Nayar",
+    "id": "abhishek_nayar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=abhishek_nayar"
+  },
+  {
+    "name": "Abhishek Raut",
+    "id": "abhishek_raut",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=abhishek_raut"
+  },
+  {
+    "name": "Abhishek Sharma",
+    "id": "abhishek_sharma",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=abhishek_sharma"
+  },
+  {
+    "name": "Abrar Kazi",
+    "id": "abrar_kazi",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=abrar_kazi"
+  },
+  {
+    "name": "Aditya Dole",
+    "id": "aditya_dole",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=aditya_dole"
+  },
+  {
+    "name": "Aditya Tare",
+    "id": "aditya_tare",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=aditya_tare"
+  },
+  {
+    "name": "Ajay Jadeja",
+    "id": "ajay_jadeja",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ajay_jadeja"
+  },
+  {
+    "name": "Ajay Ratra",
+    "id": "ajay_ratra",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ajay_ratra"
+  },
+  {
+    "name": "Ajay Sharma",
+    "id": "ajay_sharma",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ajay_sharma"
+  },
+  {
+    "name": "Ajit Agarkar",
+    "id": "ajit_agarkar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ajit_agarkar"
+  },
+  {
+    "name": "Ajit Chandila",
+    "id": "ajit_chandila",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ajit_chandila"
+  },
+  {
+    "name": "Ajit Pai",
+    "id": "ajit_pai",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ajit_pai"
+  },
+  {
+    "name": "Ajit Wadekar",
+    "id": "ajit_wadekar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ajit_wadekar"
+  },
+  {
+    "name": "Akash Deep",
+    "id": "akash_deep",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "India",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=akash_deep"
+  },
+  {
     "name": "Australia",
     "id": "cricket_australia",
     "type": "category",
