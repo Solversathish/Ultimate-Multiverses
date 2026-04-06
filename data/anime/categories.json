@@ -41,7 +41,6 @@
 {"id":"dragon_ball_super","name":"Dragon Ball Super","type":"category","universe":"anime","path":"dragon_ball_super","url":"category.html?universe=anime&path=dragon_ball_super","parent":"anime"},
 {"id":"dragon_ball_z","name":"Dragon Ball Z","type":"category","universe":"anime","path":"dragon_ball_z","url":"category.html?universe=anime&path=dragon_ball_z","parent":"anime"},
 {"id":"dr_stone","name":"Dr. Stone","type":"category","universe":"anime","path":"dr_stone","url":"category.html?universe=anime&path=dr_stone","parent":"anime"},
-{"id":"eminence_in_shadow","name":"The Eminence in Shadow","type":"category","universe":"anime","path":"eminence_in_shadow","url":"category.html?universe=anime&path=eminence_in_shadow","parent":"anime"},
 {"id":"erased","name":"Erased","type":"category","universe":"anime","path":"erased","url":"category.html?universe=anime&path=erased","parent":"anime"},
 {"id":"fairy_tail","name":"Fairy Tail","type":"category","universe":"anime","path":"fairy_tail","url":"category.html?universe=anime&path=fairy_tail","parent":"anime"},
 {"id":"fate_unlimited_blade_works","name":"Fate/stay night: Unlimited Blade Works","type":"category","universe":"anime","path":"fate_unlimited_blade_works","url":"category.html?universe=anime&path=fate_unlimited_blade_works","parent":"anime"},
@@ -86,7 +85,6 @@
 {"id":"paranoia_agent","name":"Paranoia Agent","type":"category","universe":"anime","path":"paranoia_agent","url":"category.html?universe=anime&path=paranoia_agent","parent":"anime"},
 {"id":"parasyte","name":"Parasyte","type":"category","universe":"anime","path":"parasyte","url":"category.html?universe=anime&path=parasyte","parent":"anime"},
 {"id":"pluto","name":"Pluto","type":"category","universe":"anime","path":"pluto","url":"category.html?universe=anime&path=pluto","parent":"anime"},
-{"id":"promised_neverland","name":"The Promised Neverland","type":"category","universe":"anime","path":"promised_neverland","url":"category.html?universe=anime&path=promised_neverland","parent":"anime"},
 {"id":"psycho_pass","name":"Psycho-Pass","type":"category","universe":"anime","path":"psycho_pass","url":"category.html?universe=anime&path=psycho_pass","parent":"anime"},
 {"id":"re_zero","name":"Re:Zero","type":"category","universe":"anime","path":"re_zero","url":"category.html?universe=anime&path=re_zero","parent":"anime"},
 {"id":"record_of_ragnarok","name":"Record of Ragnarok","type":"category","universe":"anime","path":"record_of_ragnarok","url":"category.html?universe=anime&path=record_of_ragnarok","parent":"anime"},
@@ -102,6 +100,15 @@
 {"id":"swallowed_star","name":"Swallowed Star","type":"category","universe":"anime","path":"swallowed_star","url":"category.html?universe=anime&path=swallowed_star","parent":"anime"},
 {"id":"terror_in_resonance","name":"Terror in Resonance","type":"category","universe":"anime","path":"terror_in_resonance","url":"category.html?universe=anime&path=terror_in_resonance","parent":"anime"},
 {
+"id":"that_time_i_got_reincarnated_as_a_slime",
+"name":"That Time I Got Reincarnated as a Slime",
+"type":"category",
+"universe":"anime",
+"path":"that_time_i_got_reincarnated_as_a_slime",
+"url":"category.html?universe=anime&path=that_time_i_got_reincarnated_as_a_slime",
+"parent":"anime"
+},
+{
 "id":"the_daily_life_of_the_immortal_king",
 "name":"The Daily Life of the Immortal King",
 "type":"category",
@@ -110,8 +117,10 @@
 "url":"category.html?universe=anime&path=the_daily_life_of_the_immortal_king",
 "parent":"anime"
 },
+{"id":"the_eminence_in_shadow","name":"The Eminence in Shadow","type":"category","universe":"anime","path":"eminence_in_shadow","url":"category.html?universe=anime&path=eminence_in_shadow","parent":"anime"},
 {"id":"the_god_of_high_school","name":"The God of High School","type":"category","universe":"anime","path":"god_of_high_school","url":"category.html?universe=anime&path=god_of_high_school","parent":"anime"},
 {"id":"the_legend_of_hanuman","name":"The Legend of Hanuman","type":"category","universe":"anime","path":"legend_of_hanuman","url":"category.html?universe=anime&path=legend_of_hanuman","parent":"anime"},
+{"id":"the_promised_neverland","name":"The Promised Neverland","type":"category","universe":"anime","path":"promised_neverland","url":"category.html?universe=anime&path=promised_neverland","parent":"anime"},
 {"id":"the_seven_deadly_sins","name":"The Seven Deadly Sins","type":"category","universe":"anime","path":"the_seven_deadly_sins","url":"category.html?universe=anime&path=the_seven_deadly_sins","parent":"anime"},
 {"id":"to_your_eternity","name":"To Your Eternity","type":"category","universe":"anime","path":"to_your_eternity","url":"category.html?universe=anime&path=to_your_eternity","parent":"anime"},
 {"id":"tokyo_ghoul","name":"Tokyo Ghoul","type":"category","universe":"anime","path":"tokyo_ghoul","url":"category.html?universe=anime&path=tokyo_ghoul","parent":"anime"},

@@ -1,9 +1,9 @@
 [
 {
-"id":"cricket_india",
-"name":"Indian Cricketer",
+"id":"cricket_afghanistan",
+"name":"Afghanistan Cricketer",
 "type":"category",
-"url":"category.html?universe=sports&path=cricket,cricket_india",
+"url":"category.html?universe=sports&path=cricket,cricket_afghanistan",
 "parent":"cricket"
 },
 
@@ -16,10 +16,42 @@
 },
 
 {
+"id":"cricket_bangladesh",
+"name":"Bangladesh Cricketer",
+"type":"category",
+"url":"category.html?universe=sports&path=cricket,cricket_bangladesh",
+"parent":"cricket"
+},
+
+{
 "id":"cricket_england",
 "name":"England Cricketer",
 "type":"category",
 "url":"category.html?universe=sports&path=cricket,cricket_england",
+"parent":"cricket"
+},
+
+{
+"id":"cricket_india",
+"name":"Indian Cricketer",
+"type":"category",
+"url":"category.html?universe=sports&path=cricket,cricket_india",
+"parent":"cricket"
+},
+
+{
+"id":"cricket_ireland",
+"name":"Ireland Cricketer",
+"type":"category",
+"url":"category.html?universe=sports&path=cricket,cricket_ireland",
+"parent":"cricket"
+},
+
+{
+"id":"cricket_new_zealand",
+"name":"New Zealand Cricketer",
+"type":"category",
+"url":"category.html?universe=sports&path=cricket,cricket_new_zealand",
 "parent":"cricket"
 },
 
@@ -36,6 +68,30 @@
 "name":"South Africa Cricketer",
 "type":"category",
 "url":"category.html?universe=sports&path=cricket,cricket_south_africa",
+"parent":"cricket"
+},
+
+{
+"id":"cricket_sri_lanka",
+"name":"Sri Lanka Cricketer",
+"type":"category",
+"url":"category.html?universe=sports&path=cricket,cricket_sri_lanka",
+"parent":"cricket"
+},
+
+{
+"id":"cricket_west_indies",
+"name":"West Indies Cricketer",
+"type":"category",
+"url":"category.html?universe=sports&path=cricket,cricket_west_indies",
+"parent":"cricket"
+},
+
+{
+"id":"cricket_zimbabwe",
+"name":"Zimbabwe Cricketer",
+"type":"category",
+"url":"category.html?universe=sports&path=cricket,cricket_zimbabwe",
 "parent":"cricket"
 }
 ]
