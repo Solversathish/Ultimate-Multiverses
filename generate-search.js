@@ -27,63 +27,74 @@ url: `category.html?universe=${u.id}`
 
 /* RECURSIVE FUNCTION */
 
-function scan(universe, currentPath = "", parentName = ""){
+function scan(universe, currentPath = "", parentName = "") {
 
-let filePath;
+  let filePath;
 
-if(currentPath === ""){
-filePath = `${dataFolder}/${universe}/categories.json`;
-}
-else{
-const last = currentPath.split(",").pop();
-filePath = `${dataFolder}/${universe}/${last}.json`;
-}
+  if (currentPath === "") {
 
-if(!fs.existsSync(filePath)) return;
+    // 🔥 FIX: handle different root types
 
-const data = JSON.parse(fs.readFileSync(filePath,"utf8"));
+    if (universe === "fruits") {
+      filePath = `${dataFolder}/fruits/fruits.json`;
 
-data.forEach(item => {
+    } else if (universe === "mythical_creatures") {
+      filePath = `${dataFolder}/mythical_creatures/mythical_creatures.json`;
 
-const newPath = currentPath
-? `${currentPath},${item.id}`
-: item.id;
+    } else {
+      filePath = `${dataFolder}/${universe}/categories.json`;
+    }
 
-/* CATEGORY */
+  } else {
 
-if(item.type === "category"){
+    const last = currentPath.split(",").pop();
+    filePath = `${dataFolder}/${universe}/${last}.json`;
 
-searchData.push({
-name: item.name,
-id: item.id,
-type: "category",
-universe: universe,
-path: currentPath,
-parent: parentName || universe,
-url: `category.html?universe=${universe}&path=${newPath}`
-});
+  }
 
-scan(universe, newPath, item.name);
+  if (!fs.existsSync(filePath)) return;
 
-}
+  const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
 
-/* ENTITY */
+  data.forEach(item => {
 
-if(item.type === "entity"){
+    const newPath = currentPath
+      ? `${currentPath},${item.id}`
+      : item.id;
 
-searchData.push({
-name: item.name,
-id: item.id,
-type: "entity",
-universe: universe,
-path: currentPath,
-parent: parentName,
-url: `entity.html?universe=${universe}&path=${currentPath}&id=${item.id}`
-});
+    /* CATEGORY */
 
-}
+    if (item.type === "category") {
 
-});
+      searchData.push({
+        name: item.name,
+        id: item.id,
+        type: "category",
+        universe: universe,
+        path: currentPath,
+        parent: parentName || universe,
+        url: `category.html?universe=${universe}&path=${newPath}`
+      });
+
+      scan(universe, newPath, item.name);
+    }
+
+    /* ENTITY */
+
+    if (item.type === "entity") {
+
+      searchData.push({
+        name: item.name,
+        id: item.id,
+        type: "entity",
+        universe: universe,
+        path: currentPath,
+        parent: parentName || formatName(universe),
+        url: `entity.html?universe=${universe}&path=${currentPath}&id=${item.id}`
+      });
+    }
+
+  });
 
 }
 
