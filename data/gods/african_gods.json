@@ -1,0 +1,509 @@
+[
+{
+"id":"ala",
+"name":"Ala",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=ala",
+"parent":"african_gods",
+"info":{"Origin:":"Igbo Mythology","Type:":"Earth Goddess","Powers:":"Fertility / Morality / Earth","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Ala is the Igbo earth goddess and guardian of morality.</li><li>She governs fertility, land, and justice.</li><li>She is deeply respected in Igbo culture.</li><li>She ensures harmony between humans and nature.</li><li>She punishes those who break moral laws.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Earth Control – Governs land and fertility.</li><li>Judgment – Enforces moral laws.</li><li>Life Creation – Supports agriculture.</li><li>Spiritual Authority – Influences ancestors.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Ala is central to Igbo traditions.</li><li>She is both nurturing and strict.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"amadioha",
+"name":"Amadioha",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=amadioha",
+"parent":"african_gods",
+"info":{"Origin:":"Igbo Mythology","Type:":"Thunder God","Powers:":"Lightning / Justice","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Amadioha is the Igbo god of thunder and justice.</li><li>He punishes wrongdoers with lightning.</li><li>He represents fairness and divine law.</li><li>He is feared and respected.</li><li>He protects the innocent.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Lightning Control – Strikes enemies.</li><li>Justice – Enforces divine law.</li><li>Protection – Guards the innocent.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often associated with truth and justice.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"anansi",
+"name":"Anansi",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=anansi",
+"parent":"african_gods",
+"info":{"Origin:":"Akan Mythology","Type:":"Trickster God","Powers:":"Intelligence / Trickery","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Anansi is a famous spider trickster.</li><li>He is known for cleverness and storytelling.</li><li>He often outsmarts stronger beings.</li><li>He represents wisdom and humor.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Intelligence – Highly cunning.</li><li>Trickery – Deceives others.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Popular in African and Caribbean folklore.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"asase_yaa",
+"name":"Asase Yaa",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=asase_yaa",
+"parent":"african_gods",
+"info":{"Origin:":"Akan Mythology","Type:":"Earth Goddess","Powers:":"Fertility / Nature","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Asase Yaa is the earth goddess of the Akan people.</li><li>She represents fertility and agriculture.</li><li>She is the mother of all life.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Fertility – Supports crops.</li><li>Earth Control – Governs land.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>She is honored weekly in Akan culture.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"babalu_aye",
+"name":"Babalu Aye",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=babalu_aye",
+"parent":"african_gods",
+"info":{"Origin:":"Yoruba Mythology","Type:":"Disease God","Powers:":"Healing / Disease","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Babalu Aye is associated with disease and healing.</li><li>He controls epidemics.</li><li>He is both feared and respected.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Disease Control – Spreads or cures illness.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Worshipped for protection from sickness.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chukwu",
+"name":"Chukwu",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=chukwu",
+"parent":"african_gods",
+"info":{"Origin:":"Igbo Mythology","Type:":"Supreme God","Powers:":"Creation / Authority","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Chukwu is the supreme god of Igbo people.</li><li>He is the creator of all things.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creation – Creator of universe.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Highest deity in Igbo belief.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"dan",
+"name":"Dan",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=dan",
+"parent":"african_gods",
+"info":{"Origin:":"Fon Mythology","Type:":"Serpent God","Powers:":"Balance / Protection","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Dan is a serpent deity representing balance.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Balance – Maintains cosmic harmony.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often linked to rainbow serpent.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"erinle",
+"name":"Erinle",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=erinle",
+"parent":"african_gods",
+"info":{"Origin:":"Yoruba Mythology","Type:":"Hunter God","Powers:":"Hunting / Medicine","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Erinle is a hunter and healer god.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Hunting – Skilled tracker.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Connected with forests.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"eshu",
+"name":"Eshu",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=eshu",
+"parent":"african_gods",
+"info":{"Origin:":"Yoruba Mythology","Type:":"Trickster","Powers:":"Communication / Chaos","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Eshu is a messenger and trickster.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Communication – Connects gods and humans.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Important in rituals.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"heviosso",
+"name":"Heviosso",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=heviosso",
+"parent":"african_gods",
+"info":{"Origin:":"Fon Mythology","Type:":"Thunder God","Powers:":"Lightning","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Heviosso is the god of thunder.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Lightning Control</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Symbol of justice.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ikenga",
+"name":"Ikenga",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=ikenga",
+"parent":"african_gods",
+"info":{"Origin:":"Igbo Mythology","Type:":"Personal God","Powers:":"Success","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Ikenga represents personal achievement.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Success – Brings achievement.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in rituals.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"katonda",
+"name":"Katonda",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=katonda",
+"parent":"african_gods",
+"info":{"Origin:":"Buganda Mythology","Type:":"Creator God","Powers:":"Creation","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Katonda is the creator god.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Supreme deity.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"legba",
+"name":"Legba",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=legba",
+"parent":"african_gods",
+"info":{
+"Origin:":"Fon / Dahomey Mythology",
+"Type:":"Messenger God",
+"Powers:":"Communication / Gatekeeping / Trickery",
+"Nature:":"Neutral"
+},
+"tabs":{
+"tab1":{
+"title":"Overview",
+"content":"<ul><li>Legba is a powerful gatekeeper deity in West African mythology.</li><li>He controls access between the human world and the spirit world.</li><li>He must be invoked before communicating with other gods.</li><li>He is both wise and mischievous.</li><li>He represents communication, crossroads, and destiny.</li></ul>"
+},
+"tab2":{
+"title":"Powers",
+"content":"<ul><li>Gatekeeping – Controls access between worlds.</li><li>Communication – Acts as messenger between humans and gods.</li><li>Trickery – Uses intelligence and deception.</li><li>Spiritual Authority – Opens or blocks spiritual paths.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Legba is often associated with crossroads.</li><li>No ritual begins without honoring him.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"lisa",
+"name":"Lisa",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=lisa",
+"parent":"african_gods",
+"info":{
+"Origin:":"Fon Mythology",
+"Type:":"Sun God",
+"Powers:":"Light / Heat / Balance",
+"Nature:":"Good"
+},
+"tabs":{
+"tab1":{
+"title":"Overview",
+"content":"<ul><li>Lisa is the male counterpart of Mawu in Fon mythology.</li><li>He represents the sun, strength, and active energy.</li><li>Together, Mawu and Lisa form a balanced cosmic duality.</li><li>Lisa symbolizes heat, power, and authority.</li><li>He plays a key role in maintaining universal balance.</li></ul>"
+},
+"tab2":{
+"title":"Powers",
+"content":"<ul><li>Solar Energy – Controls sunlight and heat.</li><li>Strength – Represents power and vitality.</li><li>Balance – Works with Mawu to maintain harmony.</li><li>Authority – Symbol of divine leadership.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Lisa is often paired with Mawu as a dual deity.</li><li>He represents the masculine force in creation.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"mawu",
+"name":"Mawu",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=mawu",
+"parent":"african_gods",
+"info":{"Origin:":"Fon Mythology","Type:":"Creator Goddess","Powers:":"Creation / Balance / Moon","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Mawu is a supreme creator goddess in the Fon tradition of West Africa.</li><li>She is often paired with Lisa, representing a duality of feminine and masculine cosmic forces.</li><li>Mawu is associated with the moon, coolness, wisdom, and nurturing energy.</li><li>She is believed to have shaped the world and given life to humanity.</li><li>Her presence symbolizes harmony, balance, and divine motherhood.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creation – Responsible for shaping life and the natural world.</li><li>Balance – Maintains harmony between opposing forces.</li><li>Moon Influence – Governs calmness, cycles, and fertility.</li><li>Wisdom – Represents intelligence and guidance.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Mawu is often depicted as calm and nurturing.</li><li>She is central to Fon cosmology.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mulungu",
+"name":"Mulungu",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=mulungu",
+"parent":"african_gods",
+"info":{"Origin:":"Bantu Mythology","Type:":"Sky God","Powers:":"Creation / Authority / Nature","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Mulungu is a high god worshipped across various Bantu-speaking regions.</li><li>He is associated with the sky, creation, and divine authority.</li><li>Mulungu is often seen as distant but powerful.</li><li>He governs the forces of nature and human destiny.</li><li>He represents supreme power and spiritual oversight.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creation – Creator of the universe and life.</li><li>Authority – Supreme divine ruler.</li><li>Nature Control – Governs natural elements.</li><li>Spiritual Influence – Guides human fate.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Mulungu appears in multiple African cultures.</li><li>He is often considered distant from human affairs.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nomkhubulwane",
+"name":"Nomkhubulwane",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=nomkhubulwane",
+"parent":"african_gods",
+"info":{"Origin:":"Zulu Mythology","Type:":"Fertility Goddess","Powers:":"Rain / Agriculture / Growth","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Nomkhubulwane is a Zulu goddess associated with fertility and rain.</li><li>She plays an important role in agriculture and harvest.</li><li>She ensures the growth of crops and survival of communities.</li><li>She represents renewal and life cycles.</li><li>She is deeply respected in traditional Zulu beliefs.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Rain Control – Brings rainfall for crops.</li><li>Fertility – Supports life and growth.</li><li>Nature Harmony – Maintains environmental balance.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>She is honored in agricultural rituals.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nyame",
+"name":"Nyame",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=nyame",
+"parent":"african_gods",
+"info":{"Origin:":"Akan Mythology","Type:":"Sky God","Powers:":"Creation / Authority / Sky","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Nyame is the supreme sky god of the Akan people.</li><li>He is the source of all life and authority.</li><li>He governs the heavens and spiritual world.</li><li>He is distant but omnipotent.</li><li>He symbolizes divine power and leadership.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creation – Creator of all existence.</li><li>Authority – Supreme ruler.</li><li>Sky Control – Governs heavens.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Nyame is often referenced in Akan proverbs.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nyankopon",
+"name":"Nyankopon",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=nyankopon",
+"parent":"african_gods",
+"info":{"Origin:":"Akan Mythology","Type:":"Supreme Spirit","Powers:":"Creation / Wisdom","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Nyankopon is another aspect of the supreme Akan deity.</li><li>He represents wisdom and divine intelligence.</li><li>He is closely linked with Nyame.</li><li>He embodies spiritual guidance.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Wisdom – Source of knowledge.</li><li>Creation – Divine force.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often paired with Nyame in beliefs.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"obatala",
+"name":"Obatala",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=obatala",
+"parent":"african_gods",
+"info":{"Origin:":"Yoruba Mythology","Type:":"Creator God","Powers:":"Creation / Purity","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Obatala is a major Yoruba deity associated with creation and purity.</li><li>He is believed to have shaped human bodies.</li><li>He represents wisdom and peace.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creation – Forms human life.</li><li>Purity – Represents calmness.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Associated with white color and peace.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ogun",
+"name":"Ogun",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=ogun",
+"parent":"african_gods",
+"info":{"Origin:":"Yoruba Mythology","Type:":"War God","Powers:":"Iron / Strength / War","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Ogun is the god of iron, war, and labor.</li><li>He is associated with tools and weapons.</li><li>He represents strength and determination.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Iron Control – Master of metal.</li><li>Strength – Powerful warrior.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Highly respected by workers and warriors.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"olokun",
+"name":"Olokun",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=olokun",
+"parent":"african_gods",
+"info":{"Origin:":"Yoruba Mythology","Type:":"Sea God","Powers:":"Water / Wealth","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Olokun rules the deep ocean.</li><li>He is associated with wealth and mystery.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Water Control</li><li>Wealth</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Symbol of ocean depth.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"orunmila",
+"name":"Orunmila",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=orunmila",
+"parent":"african_gods",
+"info":{"Origin:":"Yoruba Mythology","Type:":"Wisdom God","Powers:":"Knowledge / Fate","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Orunmila is the deity of wisdom and divination.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Knowledge</li><li>Fate Reading</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Central to Ifa divination.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"oshun",
+"name":"Oshun",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=oshun",
+"parent":"african_gods",
+"info":{"Origin:":"Yoruba Mythology","Type:":"River Goddess","Powers:":"Love / Beauty / Water","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Oshun is the goddess of love and rivers.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Love</li><li>Water</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Symbol of beauty.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"oya",
+"name":"Oya",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=oya",
+"parent":"african_gods",
+"info":{"Origin:":"Yoruba Mythology","Type:":"Storm Goddess","Powers:":"Wind / Change","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Oya governs storms and transformation.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Wind</li><li>Storm</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Associated with change.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ruhanga",
+"name":"Ruhanga",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=ruhanga",
+"parent":"african_gods",
+"info":{"Origin:":"Bunyoro Mythology","Type:":"Creator God","Powers:":"Creation","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Ruhanga is a creator deity.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Respected in Uganda traditions.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sakpata",
+"name":"Sakpata",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=sakpata",
+"parent":"african_gods",
+"info":{"Origin:":"Fon Mythology","Type:":"Earth God","Powers:":"Disease / Earth","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Sakpata controls earth and disease.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Disease</li><li>Earth</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Feared deity.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shango",
+"name":"Shango",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=shango",
+"parent":"african_gods",
+"info":{"Origin:":"Yoruba Mythology","Type:":"Thunder God","Powers:":"Lightning / Fire","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Shango is a powerful thunder god.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Lightning</li><li>Fire</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Symbolized by axe.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"tano",
+"name":"Tano",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=tano",
+"parent":"african_gods",
+"info":{"Origin:":"Akan Mythology","Type:":"River God","Powers:":"Water","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Tano is a river god.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Water</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Linked to rivers.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"unkulunkulu",
+"name":"Unkulunkulu",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=unkulunkulu",
+"parent":"african_gods",
+"info":{"Origin:":"Zulu Mythology","Type:":"Creator","Powers:":"Creation","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Unkulunkulu is the first human and creator.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Important Zulu figure.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"waaq",
+"name":"Waaq",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=waaq",
+"parent":"african_gods",
+"info":{"Origin:":"Oromo Mythology","Type:":"Sky God","Powers:":"Creation","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Waaq is a sky god.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Central Oromo deity.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"yemoja",
+"name":"Yemoja",
+"type":"entity",
+"url":"entity.html?universe=gods&path=african_gods&id=yemoja",
+"parent":"african_gods",
+"info":{"Origin:":"Yoruba Mythology","Type:":"Ocean Goddess","Powers:":"Water / Motherhood","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Yemoja is the mother of all waters.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Water</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Symbol of motherhood.</li></ul>"}
+},
+"gallery_count":5
+}
+]

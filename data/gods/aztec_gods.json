@@ -1,0 +1,541 @@
+[
+{
+"id":"atlaua",
+"name":"Atlahua",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=atlaua",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Water & Hunting God","Powers:":"Water / Hunting / Survival","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Atlahua is a lesser-known Aztec god associated with water, fishing, and hunting.</li><li>He was worshipped by communities that depended on lakes and rivers.</li><li>He represents survival, food gathering, and natural balance.</li><li>He protects fishermen and ensures successful hunts.</li><li>He symbolizes the connection between humans and aquatic ecosystems.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Water Control – Influences lakes and rivers.</li><li>Hunting Skill – Grants precision and success.</li><li>Survival Instinct – Enhances human endurance.</li><li>Animal Awareness – Connects with aquatic life.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Mainly worshipped near water bodies.</li><li>Represents daily survival rather than cosmic power.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ayauhteotl",
+"name":"Ayauhteotl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=ayauhteotl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Mist & Fog Goddess","Powers:":"Mist / Illusion / Rain","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Ayauhteotl is the goddess of mist, fog, and atmospheric mystery.</li><li>She is associated with the unseen and hidden aspects of nature.</li><li>She represents unpredictability and illusion.</li><li>She is linked to rain and transformation.</li><li>Her presence symbolizes the unknown forces of nature.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Mist Control – Creates dense fog.</li><li>Illusion – Obscures vision.</li><li>Rain Influence – Supports weather cycles.</li><li>Stealth – Hides presence.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often associated with mysterious weather changes.</li><li>Represents hidden forces of nature.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chalchiuhtlicue",
+"name":"Chalchiuhtlicue",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=chalchiuhtlicue",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Water Goddess","Powers:":"Water / Fertility / Life","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Chalchiuhtlicue is the goddess of rivers, lakes, and oceans.</li><li>She is associated with fertility and childbirth.</li><li>She is considered the partner of Tlaloc.</li><li>She nurtures life through water.</li><li>She represents purity and renewal.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Water Control – Governs aquatic systems.</li><li>Fertility – Supports life growth.</li><li>Healing – Symbolizes cleansing.</li><li>Protection – Guards travelers.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Her name means “Jade Skirt”.</li><li>Important in water rituals.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chicomecoatl",
+"name":"Chicomecoatl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=chicomecoatl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Food Goddess","Powers:":"Food / Fertility / Harvest","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Chicomecoatl is the goddess of food and nourishment.</li><li>She ensures survival through agriculture.</li><li>She is linked to maize and harvest.</li><li>She represents abundance and prosperity.</li><li>She plays a key role in sustaining human life.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Food Creation – Provides nourishment.</li><li>Fertility – Enhances crops.</li><li>Harvest Blessing – Ensures abundance.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Highly worshipped by farmers.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"centeotl",
+"name":"Centeotl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=centeotl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Maize God","Powers:":"Agriculture / Growth","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Centeotl is the god of maize, the staple crop of the Aztecs.</li><li>He represents food, growth, and survival.</li><li>He ensures agricultural success.</li><li>He symbolizes nourishment.</li><li>He is central to Aztec farming culture.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Growth – Enhances crops.</li><li>Fertility – Supports agriculture.</li><li>Harvest Control – Ensures yield.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Maize was sacred to Aztecs.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"citlalatonac",
+"name":"Citlalatonac",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=citlalatonac",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Star God","Powers:":"Stars / Creation","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Citlalatonac is associated with stars and cosmic creation.</li><li>He represents celestial energy.</li><li>He is part of cosmic duality.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Star Control</li><li>Creation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Linked with Citlalicue.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"citlalicue",
+"name":"Citlalicue",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=citlalicue",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Star Goddess","Powers:":"Stars / Sky","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Citlalicue is the goddess of the stars and heavens.</li><li>She represents the night sky.</li><li>She symbolizes cosmic beauty.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Star Creation</li><li>Sky Control</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Partner of Citlalatonac.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"coatlicue",
+"name":"Coatlicue",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=coatlicue",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Earth Goddess","Powers:":"Life / Death","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Coatlicue is the mother goddess of earth and life.</li><li>She represents both creation and destruction.</li><li>She is the mother of many gods.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Life Creation</li><li>Destruction</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Mother of Huitzilopochtli.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"coyolxauhqui",
+"name":"Coyolxauhqui",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=coyolxauhqui",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Moon Goddess","Powers:":"Moon / Night","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Coyolxauhqui is the goddess of the moon.</li><li>She represents night and cycles.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Moon Power</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Defeated by Huitzilopochtli.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ehecatl",
+"name":"Ehecatl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=ehecatl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Wind God","Powers:":"Wind / Air","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Ehecatl is the wind god and an aspect of Quetzalcoatl.</li><li>He brings wind that helps rain fall.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Wind Control</li><li>Weather Influence</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Important for agricultural cycles.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"huehueteotl",
+"name":"Huehueteotl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=huehueteotl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Fire God","Powers:":"Fire / Heat / Renewal","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Huehueteotl is the ancient god of fire and one of the oldest deities in Aztec mythology.</li><li>He represents warmth, life energy, and transformation.</li><li>He is associated with the hearth and domestic life.</li><li>Fire was seen as both creative and destructive through him.</li><li>He symbolizes renewal and the cycle of life.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Fire Control – Manipulates flames and heat.</li><li>Renewal – Represents rebirth through fire.</li><li>Energy Source – Sustains life through warmth.</li><li>Destruction – Can burn and destroy.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often depicted as an old man.</li><li>Linked with Xiuhtecuhtli.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"huitzilopochtli",
+"name":"Huitzilopochtli",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=huitzilopochtli",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"War & Sun God","Powers:":"War / Sun / Strength","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Huitzilopochtli is the central war god of the Aztecs and patron of Tenochtitlan.</li><li>He represents the sun and the power of warfare.</li><li>He guided the Aztecs to build their capital.</li><li>He symbolizes strength, victory, and dominance.</li><li>He required sacrifices to maintain cosmic balance.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>War Mastery – Supreme battle power.</li><li>Solar Energy – Controls the sun.</li><li>Strength – Immense physical power.</li><li>Leadership – Commands armies.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of the most important Aztec gods.</li><li>Symbol of Aztec military strength.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"itzpapalotl",
+"name":"Itzpapalotl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=itzpapalotl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Obsidian Butterfly Goddess","Powers:":"Night / Death / Magic","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Itzpapalotl is a fearsome goddess associated with night and death.</li><li>She is depicted as a skeletal butterfly with obsidian blades.</li><li>She represents darkness and transformation.</li><li>She rules over certain celestial realms.</li><li>She symbolizes both destruction and rebirth.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Dark Energy – Controls night forces.</li><li>Transformation – Changes form.</li><li>Magic – Uses supernatural abilities.</li><li>Destruction – Associated with death.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Her name means “Obsidian Butterfly”.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ixtlilton",
+"name":"Ixtlilton",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=ixtlilton",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Healing God","Powers:":"Healing / Medicine","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Ixtlilton is the god of healing, medicine, and health.</li><li>He helps cure diseases and maintain well-being.</li><li>He is associated with peace and recovery.</li><li>He represents calmness and care.</li><li>He is worshipped for protection from illness.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Healing – Cures illness.</li><li>Medicine – Supports health.</li><li>Protection – Guards against disease.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>His name means “Little Black Face”.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"macuilxochitl",
+"name":"Macuilxochitl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=macuilxochitl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Pleasure God","Powers:":"Music / Games / Joy","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Macuilxochitl is the god of pleasure, music, and games.</li><li>He represents joy and entertainment.</li><li>He is linked with gambling and celebrations.</li><li>He symbolizes both fun and risk.</li><li>He is associated with artistic expression.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Joy – Brings happiness.</li><li>Music – Inspires art.</li><li>Luck – Influences games.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Linked to Xochipilli.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"metztli",
+"name":"Metztli",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=metztli",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Moon God","Powers:":"Moon / Night","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Metztli is the god of the moon.</li><li>He represents night cycles.</li><li>He influences tides and time.</li><li>He symbolizes calmness.</li><li>He is part of cosmic balance.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Moon Control</li><li>Night Influence</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Connected with lunar cycles.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mictlantecuhtli",
+"name":"Mictlantecuhtli",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=mictlantecuhtli",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Death God","Powers:":"Underworld / Death","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Mictlantecuhtli is the ruler of the underworld.</li><li>He governs the land of the dead.</li><li>He represents death and darkness.</li><li>He is a powerful and feared deity.</li><li>He symbolizes the end of life.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Death Control</li><li>Underworld Authority</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Lord of Mictlan.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mictecacihuatl",
+"name":"Mictecacihuatl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=mictecacihuatl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Queen of the Underworld","Powers:":"Death / Spirits","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Mictecacihuatl is the queen of the underworld.</li><li>She rules alongside Mictlantecuhtli.</li><li>She oversees the souls of the dead.</li><li>She represents death and remembrance.</li><li>She is associated with festivals of the dead.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Spirit Control</li><li>Death Influence</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Linked to Day of the Dead traditions.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mixcoatl",
+"name":"Mixcoatl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=mixcoatl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Hunting God","Powers:":"Hunting / Stars","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Mixcoatl is the god of hunting and stars.</li><li>He represents skill and survival.</li><li>He is associated with warriors.</li><li>He symbolizes strength and precision.</li><li>He connects humans with the cosmos.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Hunting Skill</li><li>Star Influence</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Father of Quetzalcoatl in some myths.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ometeotl",
+"name":"Ometeotl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=ometeotl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Dual God","Powers:":"Creation / Balance","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Ometeotl is the dual creator deity representing male and female aspects.</li><li>He embodies balance and unity.</li><li>He is the source of all creation.</li><li>He represents cosmic harmony.</li><li>He exists beyond normal gods.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creation</li><li>Balance</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Represents duality.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ometecuhtli",
+"name":"Ometecuhtli",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=ometecuhtli",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Creator God","Powers:":"Creation","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Male aspect of Ometeotl.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Represents male energy.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"omecihuatl",
+"name":"Omecihuatl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=omecihuatl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Creator Goddess","Powers:":"Creation","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Female aspect of Ometeotl.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Represents female energy.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"quetzalcoatl",
+"name":"Quetzalcoatl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=quetzalcoatl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Feathered Serpent God","Powers:":"Wind / Knowledge / Creation","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Quetzalcoatl is one of the most important Aztec gods.</li><li>He represents knowledge, wind, and creation.</li><li>He is associated with civilization and learning.</li><li>He symbolizes wisdom and order.</li><li>He is a creator deity.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Wind Control</li><li>Knowledge</li><li>Creation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known as the Feathered Serpent.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"tezcatlipoca",
+"name":"Tezcatlipoca",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=tezcatlipoca",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Night & Destiny God","Powers:":"Magic / War / Illusion","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Tezcatlipoca is one of the most powerful Aztec gods, representing night, fate, and conflict.</li><li>He is a rival of Quetzalcoatl and symbolizes chaos and change.</li><li>He is associated with kingship and power.</li><li>He influences destiny and human actions.</li><li>He represents unpredictability and strength.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Illusion – Manipulates reality.</li><li>Magic – Uses supernatural abilities.</li><li>War – Controls conflict and battle.</li><li>Destiny – Influences fate.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>His name means “Smoking Mirror”.</li><li>Often depicted with a mirror on his chest.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"teteoinnan",
+"name":"Teteoinnan",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=teteoinnan",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Mother Goddess","Powers:":"Healing / Fertility","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Teteoinnan is a mother goddess associated with healing and fertility.</li><li>She represents nurturing and protection.</li><li>She is connected with medicine and herbs.</li><li>She symbolizes motherhood and care.</li><li>She is deeply respected by healers.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Healing – Restores health.</li><li>Fertility – Supports life growth.</li><li>Protection – Guards families.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Her name means “Mother of the Gods”.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"tlaloc",
+"name":"Tlaloc",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=tlaloc",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Rain God","Powers:":"Rain / Storm / Fertility","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Tlaloc is the powerful god of rain, storms, and agriculture.</li><li>He controls rainfall essential for crops.</li><li>He can bring both life-giving rain and destructive storms.</li><li>He represents nature’s dual power.</li><li>He is one of the most important Aztec gods.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Rain Control – Governs rainfall.</li><li>Storm Creation – Creates lightning and storms.</li><li>Fertility – Supports agriculture.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Children were sacrificed to him in rituals.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"tlazolteotl",
+"name":"Tlazolteotl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=tlazolteotl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Purification Goddess","Powers:":"Sin / Cleansing","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Tlazolteotl is the goddess of purification and forgiveness.</li><li>She absorbs sins and cleanses people.</li><li>She represents both vice and redemption.</li><li>She symbolizes transformation and renewal.</li><li>She plays a role in moral balance.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Purification – Removes sins.</li><li>Transformation – Changes moral state.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known as “Eater of Filth”.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"tonantzin",
+"name":"Tonantzin",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=tonantzin",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Earth Mother","Powers:":"Fertility / Protection","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Tonantzin is a mother goddess representing earth and fertility.</li><li>She nurtures life and protects people.</li><li>She symbolizes motherhood and care.</li><li>She is deeply respected in Aztec culture.</li><li>She represents nourishment and life.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Fertility – Supports life.</li><li>Protection – Guards humanity.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Name means “Our Mother”.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"tonatiuh",
+"name":"Tonatiuh",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=tonatiuh",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Sun God","Powers:":"Sun / Energy / Life","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Tonatiuh is the sun god and central figure in Aztec cosmology.</li><li>He represents life energy and strength.</li><li>He demands sacrifices to continue shining.</li><li>He symbolizes power and survival.</li><li>He is essential for life on Earth.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Solar Energy – Controls the sun.</li><li>Life Force – Sustains existence.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Central figure in the Aztec calendar stone.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"xipe_totec",
+"name":"Xipe Totec",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=xipe_totec",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Renewal God","Powers:":"Growth / Renewal","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Xipe Totec is the god of renewal and agriculture.</li><li>He represents rebirth through shedding skin.</li><li>He symbolizes transformation.</li><li>He is associated with crops and growth.</li><li>He represents new beginnings.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Renewal – Represents rebirth.</li><li>Growth – Supports agriculture.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>His rituals involved symbolic skin shedding.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"xiuhtecuhtli",
+"name":"Xiuhtecuhtli",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=xiuhtecuhtli",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Fire God","Powers:":"Fire / Time","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Xiuhtecuhtli is the god of fire and time.</li><li>He represents life energy.</li><li>He is central to rituals.</li><li>He symbolizes continuity.</li><li>He is one of the oldest gods.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Fire Control</li><li>Time Influence</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Associated with new fire ceremony.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"xilonen",
+"name":"Xilonen",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=xilonen",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Maize Goddess","Powers:":"Agriculture / Growth","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Xilonen is the goddess of young maize.</li><li>She represents growth and nourishment.</li><li>She symbolizes fertility.</li><li>She supports agriculture.</li><li>She represents life cycles.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Crop Growth</li><li>Fertility</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Associated with maize harvest.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"xochipilli",
+"name":"Xochipilli",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=xochipilli",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Art God","Powers:":"Music / Art / Pleasure","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Xochipilli is the god of art, music, and beauty.</li><li>He represents creativity.</li><li>He symbolizes joy and expression.</li><li>He is associated with flowers.</li><li>He inspires artists.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creativity</li><li>Art</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Linked to artistic culture.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"xochiquetzal",
+"name":"Xochiquetzal",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=xochiquetzal",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Love Goddess","Powers:":"Beauty / Love","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Xochiquetzal is the goddess of love and beauty.</li><li>She represents attraction.</li><li>She symbolizes fertility.</li><li>She is associated with flowers.</li><li>She represents desire.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Love</li><li>Beauty</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Connected to fertility rituals.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"xolotl",
+"name":"Xolotl",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=xolotl",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Underworld God","Powers:":"Death / Transformation","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Xolotl is the god of death and transformation.</li><li>He guides souls.</li><li>He represents change.</li><li>He is linked to lightning.</li><li>He symbolizes duality.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Transformation</li><li>Death Guidance</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Twin of Quetzalcoatl.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"yacatecuhtli",
+"name":"Yacatecuhtli",
+"type":"entity",
+"url":"entity.html?universe=gods&path=aztec_gods&id=yacatecuhtli",
+"parent":"aztec_gods",
+"info":{"Origin:":"Aztec Mythology","Type:":"Travel God","Powers:":"Trade / Guidance","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Yacatecuhtli is the god of merchants and travelers.</li><li>He protects journeys.</li><li>He represents trade and movement.</li><li>He guides people safely.</li><li>He symbolizes direction and purpose.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Guidance</li><li>Travel Protection</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Worshipped by traders.</li></ul>"}
+},
+"gallery_count":5
+}
+]

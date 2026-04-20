@@ -5850,6 +5850,294 @@
     "url": "category.html?universe=gods&path=african_gods"
   },
   {
+    "name": "Ala",
+    "id": "ala",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=ala"
+  },
+  {
+    "name": "Amadioha",
+    "id": "amadioha",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=amadioha"
+  },
+  {
+    "name": "Anansi",
+    "id": "anansi",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=anansi"
+  },
+  {
+    "name": "Asase Yaa",
+    "id": "asase_yaa",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=asase_yaa"
+  },
+  {
+    "name": "Babalu Aye",
+    "id": "babalu_aye",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=babalu_aye"
+  },
+  {
+    "name": "Chukwu",
+    "id": "chukwu",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=chukwu"
+  },
+  {
+    "name": "Dan",
+    "id": "dan",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=dan"
+  },
+  {
+    "name": "Erinle",
+    "id": "erinle",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=erinle"
+  },
+  {
+    "name": "Eshu",
+    "id": "eshu",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=eshu"
+  },
+  {
+    "name": "Heviosso",
+    "id": "heviosso",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=heviosso"
+  },
+  {
+    "name": "Ikenga",
+    "id": "ikenga",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=ikenga"
+  },
+  {
+    "name": "Katonda",
+    "id": "katonda",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=katonda"
+  },
+  {
+    "name": "Legba",
+    "id": "legba",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=legba"
+  },
+  {
+    "name": "Lisa",
+    "id": "lisa",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=lisa"
+  },
+  {
+    "name": "Mawu",
+    "id": "mawu",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=mawu"
+  },
+  {
+    "name": "Mulungu",
+    "id": "mulungu",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=mulungu"
+  },
+  {
+    "name": "Nomkhubulwane",
+    "id": "nomkhubulwane",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=nomkhubulwane"
+  },
+  {
+    "name": "Nyame",
+    "id": "nyame",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=nyame"
+  },
+  {
+    "name": "Nyankopon",
+    "id": "nyankopon",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=nyankopon"
+  },
+  {
+    "name": "Obatala",
+    "id": "obatala",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=obatala"
+  },
+  {
+    "name": "Ogun",
+    "id": "ogun",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=ogun"
+  },
+  {
+    "name": "Olokun",
+    "id": "olokun",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=olokun"
+  },
+  {
+    "name": "Orunmila",
+    "id": "orunmila",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=orunmila"
+  },
+  {
+    "name": "Oshun",
+    "id": "oshun",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=oshun"
+  },
+  {
+    "name": "Oya",
+    "id": "oya",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=oya"
+  },
+  {
+    "name": "Ruhanga",
+    "id": "ruhanga",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=ruhanga"
+  },
+  {
+    "name": "Sakpata",
+    "id": "sakpata",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=sakpata"
+  },
+  {
+    "name": "Shango",
+    "id": "shango",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=shango"
+  },
+  {
+    "name": "Tano",
+    "id": "tano",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=tano"
+  },
+  {
+    "name": "Unkulunkulu",
+    "id": "unkulunkulu",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=unkulunkulu"
+  },
+  {
+    "name": "Waaq",
+    "id": "waaq",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=waaq"
+  },
+  {
+    "name": "Yemoja",
+    "id": "yemoja",
+    "type": "entity",
+    "universe": "gods",
+    "path": "african_gods",
+    "parent": "African Gods",
+    "url": "entity.html?universe=gods&path=african_gods&id=yemoja"
+  },
+  {
     "name": "Aztec Gods",
     "id": "aztec_gods",
     "type": "category",
@@ -5857,6 +6145,330 @@
     "path": "",
     "parent": "Gods",
     "url": "category.html?universe=gods&path=aztec_gods"
+  },
+  {
+    "name": "Atlahua",
+    "id": "atlaua",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=atlaua"
+  },
+  {
+    "name": "Ayauhteotl",
+    "id": "ayauhteotl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=ayauhteotl"
+  },
+  {
+    "name": "Chalchiuhtlicue",
+    "id": "chalchiuhtlicue",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=chalchiuhtlicue"
+  },
+  {
+    "name": "Chicomecoatl",
+    "id": "chicomecoatl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=chicomecoatl"
+  },
+  {
+    "name": "Centeotl",
+    "id": "centeotl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=centeotl"
+  },
+  {
+    "name": "Citlalatonac",
+    "id": "citlalatonac",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=citlalatonac"
+  },
+  {
+    "name": "Citlalicue",
+    "id": "citlalicue",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=citlalicue"
+  },
+  {
+    "name": "Coatlicue",
+    "id": "coatlicue",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=coatlicue"
+  },
+  {
+    "name": "Coyolxauhqui",
+    "id": "coyolxauhqui",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=coyolxauhqui"
+  },
+  {
+    "name": "Ehecatl",
+    "id": "ehecatl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=ehecatl"
+  },
+  {
+    "name": "Huehueteotl",
+    "id": "huehueteotl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=huehueteotl"
+  },
+  {
+    "name": "Huitzilopochtli",
+    "id": "huitzilopochtli",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=huitzilopochtli"
+  },
+  {
+    "name": "Itzpapalotl",
+    "id": "itzpapalotl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=itzpapalotl"
+  },
+  {
+    "name": "Ixtlilton",
+    "id": "ixtlilton",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=ixtlilton"
+  },
+  {
+    "name": "Macuilxochitl",
+    "id": "macuilxochitl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=macuilxochitl"
+  },
+  {
+    "name": "Metztli",
+    "id": "metztli",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=metztli"
+  },
+  {
+    "name": "Mictlantecuhtli",
+    "id": "mictlantecuhtli",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=mictlantecuhtli"
+  },
+  {
+    "name": "Mictecacihuatl",
+    "id": "mictecacihuatl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=mictecacihuatl"
+  },
+  {
+    "name": "Mixcoatl",
+    "id": "mixcoatl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=mixcoatl"
+  },
+  {
+    "name": "Ometeotl",
+    "id": "ometeotl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=ometeotl"
+  },
+  {
+    "name": "Ometecuhtli",
+    "id": "ometecuhtli",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=ometecuhtli"
+  },
+  {
+    "name": "Omecihuatl",
+    "id": "omecihuatl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=omecihuatl"
+  },
+  {
+    "name": "Quetzalcoatl",
+    "id": "quetzalcoatl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=quetzalcoatl"
+  },
+  {
+    "name": "Tezcatlipoca",
+    "id": "tezcatlipoca",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=tezcatlipoca"
+  },
+  {
+    "name": "Teteoinnan",
+    "id": "teteoinnan",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=teteoinnan"
+  },
+  {
+    "name": "Tlaloc",
+    "id": "tlaloc",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=tlaloc"
+  },
+  {
+    "name": "Tlazolteotl",
+    "id": "tlazolteotl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=tlazolteotl"
+  },
+  {
+    "name": "Tonantzin",
+    "id": "tonantzin",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=tonantzin"
+  },
+  {
+    "name": "Tonatiuh",
+    "id": "tonatiuh",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=tonatiuh"
+  },
+  {
+    "name": "Xipe Totec",
+    "id": "xipe_totec",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=xipe_totec"
+  },
+  {
+    "name": "Xiuhtecuhtli",
+    "id": "xiuhtecuhtli",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=xiuhtecuhtli"
+  },
+  {
+    "name": "Xilonen",
+    "id": "xilonen",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=xilonen"
+  },
+  {
+    "name": "Xochipilli",
+    "id": "xochipilli",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=xochipilli"
+  },
+  {
+    "name": "Xochiquetzal",
+    "id": "xochiquetzal",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=xochiquetzal"
+  },
+  {
+    "name": "Xolotl",
+    "id": "xolotl",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=xolotl"
+  },
+  {
+    "name": "Yacatecuhtli",
+    "id": "yacatecuhtli",
+    "type": "entity",
+    "universe": "gods",
+    "path": "aztec_gods",
+    "parent": "Aztec Gods",
+    "url": "entity.html?universe=gods&path=aztec_gods&id=yacatecuhtli"
   },
   {
     "name": "Buddhist Gods",
