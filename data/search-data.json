@@ -6480,6 +6480,321 @@
     "url": "category.html?universe=gods&path=buddhist_gods"
   },
   {
+    "name": "Acala (Fudo Myoo)",
+    "id": "acala",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=acala"
+  },
+  {
+    "name": "Akasagarbha",
+    "id": "akasagarbha",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=akasagarbha"
+  },
+  {
+    "name": "Akshobhya",
+    "id": "akshobhya",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=akshobhya"
+  },
+  {
+    "name": "Amitabha",
+    "id": "amitabha",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=amitabha"
+  },
+  {
+    "name": "Amoghasiddhi",
+    "id": "amoghasiddhi",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=amoghasiddhi"
+  },
+  {
+    "name": "Avalokiteshvara",
+    "id": "avalokiteshvara",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=avalokiteshvara"
+  },
+  {
+    "name": "Bhaisajyaguru",
+    "id": "bhaisajyaguru",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=bhaisajyaguru"
+  },
+  {
+    "name": "Dipankara",
+    "id": "dipankara",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=dipankara"
+  },
+  {
+    "name": "Gandharva",
+    "id": "gandharva",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=gandharva"
+  },
+  {
+    "name": "Garuda (Buddhist)",
+    "id": "garuda",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=garuda"
+  },
+  {
+    "name": "Gautama Buddha",
+    "id": "gautama_buddha",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=gautama_buddha"
+  },
+  {
+    "name": "Green Tara",
+    "id": "green_tara",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=green_tara"
+  },
+  {
+    "name": "Hayagriva",
+    "id": "hayagriva",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=hayagriva"
+  },
+  {
+    "name": "Kinnara",
+    "id": "kinnara",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=kinnara"
+  },
+  {
+    "name": "Kshitigarbha",
+    "id": "kshitigarbha",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=kshitigarbha"
+  },
+  {
+    "name": "Kundali",
+    "id": "kundali",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=kundali"
+  },
+  {
+    "name": "Mahakala",
+    "id": "mahakala",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=mahakala"
+  },
+  {
+    "name": "Mahasthamaprapta",
+    "id": "mahasthamaprapta",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=mahasthamaprapta"
+  },
+  {
+    "name": "Manjushri",
+    "id": "manjushri",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=manjushri"
+  },
+  {
+    "name": "Mara",
+    "id": "mara",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=mara"
+  },
+  {
+    "name": "Maitreya",
+    "id": "maitreya",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=maitreya"
+  },
+  {
+    "name": "Mucalinda",
+    "id": "mucalinda",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=mucalinda"
+  },
+  {
+    "name": "Nagaraja",
+    "id": "nagaraja",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=nagaraja"
+  },
+  {
+    "name": "Palden Lhamo",
+    "id": "palden_lhamo",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=palden_lhamo"
+  },
+  {
+    "name": "Ratnasambhava",
+    "id": "ratnasambhava",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=ratnasambhava"
+  },
+  {
+    "name": "Samantabhadra",
+    "id": "samantabhadra",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=samantabhadra"
+  },
+  {
+    "name": "Tara",
+    "id": "tara",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=tara"
+  },
+  {
+    "name": "Trailokyavijaya",
+    "id": "trailokyavijaya",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=trailokyavijaya"
+  },
+  {
+    "name": "Vairocana",
+    "id": "vairocana",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=vairocana"
+  },
+  {
+    "name": "Vajrapani",
+    "id": "vajrapani",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=vajrapani"
+  },
+  {
+    "name": "Vajrasattva",
+    "id": "vajrasattva",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=vajrasattva"
+  },
+  {
+    "name": "Vajrayaksha",
+    "id": "vajrayaksha",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=vajrayaksha"
+  },
+  {
+    "name": "White Tara",
+    "id": "white_tara",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=white_tara"
+  },
+  {
+    "name": "Yaksha",
+    "id": "yaksha",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=yaksha"
+  },
+  {
+    "name": "Yamantaka",
+    "id": "yamantaka",
+    "type": "entity",
+    "universe": "gods",
+    "path": "buddhist_gods",
+    "parent": "Buddhist Gods",
+    "url": "entity.html?universe=gods&path=buddhist_gods&id=yamantaka"
+  },
+  {
     "name": "Celtic Gods",
     "id": "celtic_gods",
     "type": "category",

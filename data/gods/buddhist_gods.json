@@ -1,0 +1,526 @@
+[
+{
+"id":"acala",
+"name":"Acala (Fudo Myoo)",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=acala",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Wisdom King","Powers:":"Fire / Protection / Discipline","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Acala, also known as Fudo Myoo, is a powerful Wisdom King in Vajrayana Buddhism.</li><li>He represents immovable strength and unwavering faith.</li><li>He protects devotees from evil forces and ignorance.</li><li>He is often depicted surrounded by flames, symbolizing purification.</li><li>He plays a key role in spiritual discipline and enlightenment.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Fire Manipulation – Burns away ignorance.</li><li>Protection – Guards against evil spirits.</li><li>Discipline – Enforces spiritual focus.</li><li>Strength – Represents immovable power.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Widely worshipped in Japanese Buddhism.</li><li>Known as a fierce but compassionate protector.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"akasagarbha",
+"name":"Akasagarbha",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=akasagarbha",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Bodhisattva","Powers:":"Wisdom / Knowledge","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Akasagarbha is the Bodhisattva of boundless wisdom and knowledge.</li><li>His name means “Infinite Space Treasury”.</li><li>He represents limitless intelligence and memory.</li><li>He helps seekers gain knowledge and insight.</li><li>He symbolizes vastness like the sky.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Infinite Knowledge – Grants wisdom.</li><li>Memory Enhancement – Improves learning.</li><li>Spiritual Insight – Guides enlightenment.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Popular in East Asian Buddhism.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"akshobhya",
+"name":"Akshobhya",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=akshobhya",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Dhyani Buddha","Powers:":"Calmness / Mirror Wisdom","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Akshobhya is one of the Five Dhyani Buddhas.</li><li>He represents immovable calmness and clarity.</li><li>He transforms anger into wisdom.</li><li>He symbolizes mental stability.</li><li>He is associated with the eastern direction.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Calm Mind – Eliminates anger.</li><li>Wisdom – Reflects truth like a mirror.</li><li>Stability – Maintains balance.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known for unshakable nature.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"amitabha",
+"name":"Amitabha",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=amitabha",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Celestial Buddha","Powers:":"Light / Compassion","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Amitabha is the Buddha of Infinite Light.</li><li>He rules the Pure Land (Sukhavati).</li><li>He represents compassion and salvation.</li><li>He guides souls to enlightenment.</li><li>He is one of the most worshipped Buddhas.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Light – Illuminates truth.</li><li>Compassion – Saves beings.</li><li>Guidance – Leads to enlightenment.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Central figure in Pure Land Buddhism.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"amoghasiddhi",
+"name":"Amoghasiddhi",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=amoghasiddhi",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Dhyani Buddha","Powers:":"Success / Action","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Amoghasiddhi represents accomplishment and action.</li><li>He transforms jealousy into wisdom.</li><li>He symbolizes fearless action.</li><li>He is associated with the northern direction.</li><li>He represents success.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Success – Achieves goals.</li><li>Action – Drives progress.</li><li>Fearlessness – Removes doubt.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Symbol of achievement.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"avalokiteshvara",
+"name":"Avalokiteshvara",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=avalokiteshvara",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Bodhisattva","Powers:":"Compassion / Healing","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Avalokiteshvara is the Bodhisattva of compassion.</li><li>He hears the cries of all beings.</li><li>He helps relieve suffering.</li><li>He appears in many forms.</li><li>He represents kindness.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Compassion – Helps all beings.</li><li>Healing – Reduces suffering.</li><li>Transformation – Takes many forms.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known as Guan Yin in China.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"bhaisajyaguru",
+"name":"Bhaisajyaguru",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=bhaisajyaguru",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Medicine Buddha","Powers:":"Healing / Medicine","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Bhaisajyaguru is the Medicine Buddha.</li><li>He heals physical and mental illness.</li><li>He represents health and well-being.</li><li>He removes suffering.</li><li>He symbolizes healing energy.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Healing – Cures diseases.</li><li>Medicine – Provides remedies.</li><li>Protection – Guards health.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Worshipped for health.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"dipankara",
+"name":"Dipankara",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=dipankara",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Past Buddha","Powers:":"Guidance / Wisdom","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Dipankara is a past Buddha.</li><li>He predicted Gautama Buddha.</li><li>He represents guidance.</li><li>He symbolizes continuity.</li><li>He is part of Buddhist history.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Wisdom</li><li>Guidance</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Important in Buddhist legends.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"gandharva",
+"name":"Gandharva",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=gandharva",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Celestial Musician","Powers:":"Music / Sound","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Gandharvas are celestial musicians.</li><li>They live in heavenly realms.</li><li>They entertain gods.</li><li>They symbolize art.</li><li>They represent sound.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Music</li><li>Sound Control</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Appear in many texts.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"garuda",
+"name":"Garuda (Buddhist)",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=garuda",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Mythical Bird","Powers:":"Flight / Strength","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Garuda is a powerful bird-like being.</li><li>He fights serpents (Nagas).</li><li>He represents strength and speed.</li><li>He is a protector figure.</li><li>He symbolizes freedom.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Flight</li><li>Strength</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Appears in many Asian cultures.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"gautama_buddha",
+"name":"Gautama Buddha",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=gautama_buddha",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Founder Buddha","Powers:":"Enlightenment / Wisdom","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Gautama Buddha is the founder of Buddhism.</li><li>He attained enlightenment under the Bodhi tree.</li><li>He taught the path to end suffering.</li><li>He represents ultimate wisdom.</li><li>He symbolizes peace.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Enlightenment</li><li>Wisdom</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called Shakyamuni.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"green_tara",
+"name":"Green Tara",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=green_tara",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Bodhisattva","Powers:":"Protection / Compassion","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Green Tara is a female Bodhisattva of compassion.</li><li>She protects from fear and danger.</li><li>She acts quickly to help beings.</li><li>She represents active compassion.</li><li>She is widely worshipped.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Protection</li><li>Compassion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of the most loved deities.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"hayagriva",
+"name":"Hayagriva",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=hayagriva",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Wrathful Deity","Powers:":"Protection / Destruction of Evil","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Hayagriva is a wrathful deity in Vajrayana Buddhism known for fierce protection.</li><li>He appears with a horse-like head and fiery aura.</li><li>He destroys obstacles and negative forces.</li><li>He represents intense compassion in a fierce form.</li><li>He protects practitioners from spiritual harm.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Protection – Defends against evil forces.</li><li>Wrathful Energy – Destroys negativity.</li><li>Spiritual Power – Removes obstacles.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Common in Tibetan Buddhism.</li><li>Considered a powerful guardian deity.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"kinnara",
+"name":"Kinnara",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=kinnara",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Celestial Being","Powers:":"Music / Harmony","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Kinnaras are celestial beings known for music and devotion.</li><li>They are often depicted as half-human, half-bird.</li><li>They live in heavenly realms.</li><li>They represent beauty, love, and harmony.</li><li>They are symbols of devotion.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Music – Divine sound.</li><li>Harmony – Creates peace.</li><li>Grace – Symbol of beauty.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Appear in Buddhist and Asian art.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"kshitigarbha",
+"name":"Kshitigarbha",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=kshitigarbha",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Bodhisattva","Powers:":"Compassion / Salvation","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Kshitigarbha is the Bodhisattva of compassion for beings in hell realms.</li><li>He vows to save all suffering souls.</li><li>He represents patience and kindness.</li><li>He is often depicted holding a staff.</li><li>He symbolizes hope for the lost.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Salvation – Helps souls in suffering.</li><li>Compassion – Deep empathy.</li><li>Guidance – Leads to liberation.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Popular in East Asian Buddhism.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"kundali",
+"name":"Kundali",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=kundali",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Wisdom King","Powers:":"Fire / Protection","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Kundali is a Wisdom King associated with purification.</li><li>He uses fire to destroy ignorance.</li><li>He represents spiritual discipline.</li><li>He is a fierce protector.</li><li>He symbolizes transformation.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Fire – Burns negativity.</li><li>Protection – Guards followers.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Part of the Five Wisdom Kings.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mahakala",
+"name":"Mahakala",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=mahakala",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Protector Deity","Powers:":"Time / Protection / Destruction","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Mahakala is a powerful protector deity in Vajrayana Buddhism.</li><li>He is associated with time and destruction of obstacles.</li><li>He protects teachings and practitioners.</li><li>He appears in fierce forms.</li><li>He represents unstoppable force.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Protection – Guards dharma.</li><li>Destruction – Eliminates enemies.</li><li>Time Control – Symbolizes time.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Widely worshipped in Tibet.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mahasthamaprapta",
+"name":"Mahasthamaprapta",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=mahasthamaprapta",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Bodhisattva","Powers:":"Wisdom / Strength","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Mahasthamaprapta is a Bodhisattva associated with wisdom and power.</li><li>He is often paired with Amitabha and Avalokiteshvara.</li><li>He represents spiritual strength.</li><li>He helps beings achieve enlightenment.</li><li>He symbolizes inner power.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Wisdom</li><li>Strength</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Part of Pure Land tradition.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"manjushri",
+"name":"Manjushri",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=manjushri",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Bodhisattva","Powers:":"Wisdom / Knowledge","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Manjushri is the Bodhisattva of wisdom.</li><li>He represents insight and understanding.</li><li>He cuts ignorance with his sword.</li><li>He symbolizes intelligence.</li><li>He is highly respected.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Wisdom</li><li>Knowledge</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Iconic sword of wisdom.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mara",
+"name":"Mara",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=mara",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Demon","Powers:":"Illusion / Temptation","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Mara is the embodiment of temptation and illusion.</li><li>He tries to prevent enlightenment.</li><li>He challenged Buddha during meditation.</li><li>He represents inner weakness.</li><li>He symbolizes desire.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Illusion</li><li>Temptation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Main antagonist in Buddha’s story.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"maitreya",
+"name":"Maitreya",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=maitreya",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Future Buddha","Powers:":"Hope / Enlightenment","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Maitreya is the future Buddha.</li><li>He will appear to guide humanity.</li><li>He represents hope.</li><li>He symbolizes future enlightenment.</li><li>He is awaited by followers.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Enlightenment</li><li>Hope</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Believed to come in the future.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mucalinda",
+"name":"Mucalinda",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=mucalinda",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Naga King","Powers:":"Water / Protection","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Mucalinda is a Naga king who protected Buddha.</li><li>He sheltered Buddha during a storm.</li><li>He represents loyalty.</li><li>He symbolizes protection.</li><li>He is a sacred serpent figure.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Water Control</li><li>Protection</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Famous in Buddha stories.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nagaraja",
+"name":"Nagaraja",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=nagaraja",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Naga King","Powers:":"Water / Wisdom","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Nagaraja refers to serpent kings in Buddhist mythology.</li><li>They rule underwater realms.</li><li>They guard treasures.</li><li>They represent wisdom.</li><li>They symbolize hidden knowledge.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Water Control</li><li>Wisdom</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Important mythological beings.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"palden_lhamo",
+"name":"Palden Lhamo",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=palden_lhamo",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Protector Goddess","Powers:":"Protection / War","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Palden Lhamo is a fierce protector goddess.</li><li>She defends Buddhism.</li><li>She rides a mule across a sea of blood.</li><li>She symbolizes fierce compassion.</li><li>She is a guardian deity.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Protection</li><li>War</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Important in Tibetan Buddhism.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ratnasambhava",
+"name":"Ratnasambhava",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=ratnasambhava",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Dhyani Buddha","Powers:":"Generosity / Equality","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Ratnasambhava is one of the Five Dhyani Buddhas representing generosity and equality.</li><li>He transforms pride into wisdom.</li><li>He symbolizes wealth and abundance.</li><li>He is associated with the southern direction.</li><li>He represents balance and fairness.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Generosity – Spreads abundance.</li><li>Equality – Removes pride.</li><li>Wisdom – Creates balance.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Associated with jewel symbolism.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"samantabhadra",
+"name":"Samantabhadra",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=samantabhadra",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Bodhisattva","Powers:":"Practice / Virtue","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Samantabhadra is the Bodhisattva of practice and virtue.</li><li>He represents action and dedication.</li><li>He is often depicted riding an elephant.</li><li>He symbolizes moral conduct.</li><li>He supports enlightenment through practice.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Virtue – Encourages moral action.</li><li>Practice – Supports discipline.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Paired with Manjushri in teachings.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"tara",
+"name":"Tara",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=tara",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Bodhisattva","Powers:":"Compassion / Protection","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Tara is a compassionate Bodhisattva who protects beings from suffering.</li><li>She appears in multiple forms.</li><li>She represents active compassion.</li><li>She helps overcome fear.</li><li>She is widely worshipped.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Compassion</li><li>Protection</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of the most important female figures.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"trailokyavijaya",
+"name":"Trailokyavijaya",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=trailokyavijaya",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Wisdom King","Powers:":"Control / Victory","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Trailokyavijaya is a Wisdom King who conquers evil forces.</li><li>He represents victory over ignorance.</li><li>He symbolizes dominance over the three worlds.</li><li>He appears in fierce form.</li><li>He protects the dharma.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Victory – Conquers negativity.</li><li>Control – Dominates evil forces.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Part of the Five Wisdom Kings.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"vairocana",
+"name":"Vairocana",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=vairocana",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Dhyani Buddha","Powers:":"Light / Truth","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Vairocana is the central Buddha representing universal truth.</li><li>He symbolizes cosmic wisdom.</li><li>He is the source of enlightenment.</li><li>He represents clarity.</li><li>He embodies the dharma.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Light – Illuminates truth.</li><li>Wisdom – Represents knowledge.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Central figure in many traditions.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"vajrapani",
+"name":"Vajrapani",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=vajrapani",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Bodhisattva","Powers:":"Power / Protection","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Vajrapani is the protector and power aspect of Buddha.</li><li>He represents strength.</li><li>He defends the teachings.</li><li>He appears in wrathful form.</li><li>He symbolizes force.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Power</li><li>Protection</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Holds a thunderbolt weapon.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"vajrasattva",
+"name":"Vajrasattva",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=vajrasattva",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Purification Deity","Powers:":"Purification / Wisdom","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Vajrasattva is associated with purification and cleansing.</li><li>He removes negative karma.</li><li>He represents purity.</li><li>He is central in Vajrayana practices.</li><li>He symbolizes spiritual cleansing.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Purification</li><li>Wisdom</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Important in rituals.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"vajrayaksha",
+"name":"Vajrayaksha",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=vajrayaksha",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Protector Deity","Powers:":"Strength / Protection","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Vajrayaksha is a powerful protector spirit.</li><li>He guards sacred spaces.</li><li>He represents strength.</li><li>He is fierce.</li><li>He protects dharma.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Strength</li><li>Protection</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Part of guardian deities.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"white_tara",
+"name":"White Tara",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=white_tara",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Bodhisattva","Powers:":"Healing / Longevity","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>White Tara is a goddess of healing and long life.</li><li>She represents peace.</li><li>She provides protection.</li><li>She symbolizes purity.</li><li>She is compassionate.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Healing</li><li>Longevity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known for seven eyes.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"yaksha",
+"name":"Yaksha",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=yaksha",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Nature Spirit","Powers:":"Nature / Protection","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Yakshas are nature spirits.</li><li>They guard treasures.</li><li>They live in forests.</li><li>They represent nature.</li><li>They can be good or bad.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Nature Control</li><li>Protection</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Appear in many traditions.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"yamantaka",
+"name":"Yamantaka",
+"type":"entity",
+"url":"entity.html?universe=gods&path=buddhist_gods&id=yamantaka",
+"parent":"buddhist_gods",
+"info":{"Origin:":"Buddhist Mythology","Type:":"Wrathful Deity","Powers:":"Death / Destruction of Evil","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Yamantaka is a fierce deity who conquers death.</li><li>He is a manifestation of Manjushri.</li><li>He destroys ignorance.</li><li>He appears terrifying.</li><li>He symbolizes ultimate victory.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Death Control</li><li>Destruction of Evil</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Defeats the lord of death.</li></ul>"}
+},
+"gallery_count":5
+}
+]
