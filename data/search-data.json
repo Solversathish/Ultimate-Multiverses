@@ -261,6 +261,15 @@
     "url": "category.html?universe=vegetables"
   },
   {
+    "name": "Vehicles",
+    "id": "vehicles",
+    "type": "universe",
+    "universe": "vehicles",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=vehicles"
+  },
+  {
     "name": "Weapons",
     "id": "weapons",
     "type": "universe",
@@ -6309,6 +6318,357 @@
     "url": "entity.html?universe=mythical_creatures&id=kraken"
   },
   {
+    "name": "Lamia",
+    "id": "lamia",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=lamia"
+  },
+  {
+    "name": "Leviathan",
+    "id": "leviathan",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=leviathan"
+  },
+  {
+    "name": "Lusca",
+    "id": "lusca",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=lusca"
+  },
+  {
+    "name": "Makara",
+    "id": "makara",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=makara"
+  },
+  {
+    "name": "Manticore",
+    "id": "manticore",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=manticore"
+  },
+  {
+    "name": "Mermaid",
+    "id": "mermaid",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=mermaid"
+  },
+  {
+    "name": "Minotaur",
+    "id": "minotaur",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=minotaur"
+  },
+  {
+    "name": "Naga",
+    "id": "naga",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=naga"
+  },
+  {
+    "name": "Nidhogg",
+    "id": "nidhogg",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=nidhogg"
+  },
+  {
+    "name": "Nuckelavee",
+    "id": "nuckelavee",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=nuckelavee"
+  },
+  {
+    "name": "Nymph",
+    "id": "nymph",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=nymph"
+  },
+  {
+    "name": "Orthrus",
+    "id": "orthrus",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=orthrus"
+  },
+  {
+    "name": "Pegasus",
+    "id": "pegasus",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=pegasus"
+  },
+  {
+    "name": "Phoenix",
+    "id": "phoenix",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=phoenix"
+  },
+  {
+    "name": "Pixie",
+    "id": "pixie",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=pixie"
+  },
+  {
+    "name": "Poltergeist",
+    "id": "poltergeist",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=poltergeist"
+  },
+  {
+    "name": "Rakshasa",
+    "id": "rakshasa",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=rakshasa"
+  },
+  {
+    "name": "Satyr",
+    "id": "satyr",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=satyr"
+  },
+  {
+    "name": "Scylla",
+    "id": "scylla",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=scylla"
+  },
+  {
+    "name": "Sea Serpent",
+    "id": "sea_serpent",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=sea_serpent"
+  },
+  {
+    "name": "Selkie",
+    "id": "selkie",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=selkie"
+  },
+  {
+    "name": "Shadow People",
+    "id": "shadow_people",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=shadow_people"
+  },
+  {
+    "name": "Siren",
+    "id": "siren",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=siren"
+  },
+  {
+    "name": "Succubus",
+    "id": "succubus",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=succubus"
+  },
+  {
+    "name": "Thunderbird",
+    "id": "thunderbird",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=thunderbird"
+  },
+  {
+    "name": "Tiamat",
+    "id": "tiamat",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=tiamat"
+  },
+  {
+    "name": "Tikbalang",
+    "id": "tikbalang",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=tikbalang"
+  },
+  {
+    "name": "Typhon",
+    "id": "typhon",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=typhon"
+  },
+  {
+    "name": "Umibozu",
+    "id": "umibozu",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=umibozu"
+  },
+  {
+    "name": "Unicorn",
+    "id": "unicorn",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=unicorn"
+  },
+  {
+    "name": "Vampire",
+    "id": "vampire",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=vampire"
+  },
+  {
+    "name": "Vanara",
+    "id": "vanara",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=vanara"
+  },
+  {
+    "name": "Vetala",
+    "id": "vetala",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=vetala"
+  },
+  {
+    "name": "Wendigo",
+    "id": "wendigo",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=wendigo"
+  },
+  {
+    "name": "Werewolf",
+    "id": "werewolf",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=werewolf"
+  },
+  {
+    "name": "Yaksha",
+    "id": "yaksha",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=yaksha"
+  },
+  {
+    "name": "Yeti",
+    "id": "yeti",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=yeti"
+  },
+  {
+    "name": "Ymir",
+    "id": "ymir",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=ymir"
+  },
+  {
+    "name": "Ziz",
+    "id": "ziz",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=ziz"
+  },
+  {
     "name": "Atmosphere",
     "id": "atmosphere",
     "type": "category",
@@ -10582,5 +10942,275 @@
     "path": "formula_1",
     "parent": "Formula 1",
     "url": "entity.html?universe=sports&path=formula_1&id=sebastian_vettel"
+  },
+  {
+    "name": "Cars",
+    "id": "cars",
+    "type": "category",
+    "universe": "vehicles",
+    "path": "",
+    "parent": "Vehicles",
+    "url": "category.html?universe=vehicles&path=cars"
+  },
+  {
+    "name": "Toyota Camry",
+    "id": "toyota_camry",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "cars",
+    "parent": "Cars",
+    "url": "entity.html?universe=vehicles&path=cars&id=toyota_camry"
+  },
+  {
+    "name": "Tesla Model S",
+    "id": "tesla_model_s",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "cars",
+    "parent": "Cars",
+    "url": "entity.html?universe=vehicles&path=cars&id=tesla_model_s"
+  },
+  {
+    "name": "BMW M3",
+    "id": "bmw_m3",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "cars",
+    "parent": "Cars",
+    "url": "entity.html?universe=vehicles&path=cars&id=bmw_m3"
+  },
+  {
+    "name": "Ford Mustang",
+    "id": "ford_mustang",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "cars",
+    "parent": "Cars",
+    "url": "entity.html?universe=vehicles&path=cars&id=ford_mustang"
+  },
+  {
+    "name": "Lamborghini Aventador",
+    "id": "lamborghini_aventador",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "cars",
+    "parent": "Cars",
+    "url": "entity.html?universe=vehicles&path=cars&id=lamborghini_aventador"
+  },
+  {
+    "name": "Bikes",
+    "id": "bikes",
+    "type": "category",
+    "universe": "vehicles",
+    "path": "",
+    "parent": "Vehicles",
+    "url": "category.html?universe=vehicles&path=bikes"
+  },
+  {
+    "name": "Yamaha YZF-R1",
+    "id": "yamaha_r1",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "bikes",
+    "parent": "Bikes",
+    "url": "entity.html?universe=vehicles&path=bikes&id=yamaha_r1"
+  },
+  {
+    "name": "Kawasaki Ninja H2",
+    "id": "kawasaki_ninja_h2",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "bikes",
+    "parent": "Bikes",
+    "url": "entity.html?universe=vehicles&path=bikes&id=kawasaki_ninja_h2"
+  },
+  {
+    "name": "Ducati Panigale V4",
+    "id": "ducati_panigale_v4",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "bikes",
+    "parent": "Bikes",
+    "url": "entity.html?universe=vehicles&path=bikes&id=ducati_panigale_v4"
+  },
+  {
+    "name": "Suzuki Hayabusa",
+    "id": "suzuki_hayabusa",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "bikes",
+    "parent": "Bikes",
+    "url": "entity.html?universe=vehicles&path=bikes&id=suzuki_hayabusa"
+  },
+  {
+    "name": "BMW S1000RR",
+    "id": "bmw_s1000rr",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "bikes",
+    "parent": "Bikes",
+    "url": "entity.html?universe=vehicles&path=bikes&id=bmw_s1000rr"
+  },
+  {
+    "name": "Aircraft",
+    "id": "aircraft",
+    "type": "category",
+    "universe": "vehicles",
+    "path": "",
+    "parent": "Vehicles",
+    "url": "category.html?universe=vehicles&path=aircraft"
+  },
+  {
+    "name": "Boeing 747",
+    "id": "boeing_747",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "aircraft",
+    "parent": "Aircraft",
+    "url": "entity.html?universe=vehicles&path=aircraft&id=boeing_747"
+  },
+  {
+    "name": "Airbus A380",
+    "id": "airbus_a380",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "aircraft",
+    "parent": "Aircraft",
+    "url": "entity.html?universe=vehicles&path=aircraft&id=airbus_a380"
+  },
+  {
+    "name": "F-22 Raptor",
+    "id": "f22_raptor",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "aircraft",
+    "parent": "Aircraft",
+    "url": "entity.html?universe=vehicles&path=aircraft&id=f22_raptor"
+  },
+  {
+    "name": "F-35 Lightning II",
+    "id": "f35_lightning",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "aircraft",
+    "parent": "Aircraft",
+    "url": "entity.html?universe=vehicles&path=aircraft&id=f35_lightning"
+  },
+  {
+    "name": "B-2 Spirit",
+    "id": "b2_spirit",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "aircraft",
+    "parent": "Aircraft",
+    "url": "entity.html?universe=vehicles&path=aircraft&id=b2_spirit"
+  },
+  {
+    "name": "Ships",
+    "id": "ships",
+    "type": "category",
+    "universe": "vehicles",
+    "path": "",
+    "parent": "Vehicles",
+    "url": "category.html?universe=vehicles&path=ships"
+  },
+  {
+    "name": "RMS Titanic",
+    "id": "titanic",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "ships",
+    "parent": "Ships",
+    "url": "entity.html?universe=vehicles&path=ships&id=titanic"
+  },
+  {
+    "name": "Queen Mary 2",
+    "id": "queen_mary_2",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "ships",
+    "parent": "Ships",
+    "url": "entity.html?universe=vehicles&path=ships&id=queen_mary_2"
+  },
+  {
+    "name": "USS Enterprise",
+    "id": "uss_enterprise",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "ships",
+    "parent": "Ships",
+    "url": "entity.html?universe=vehicles&path=ships&id=uss_enterprise"
+  },
+  {
+    "name": "Ever Given",
+    "id": "ever_given",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "ships",
+    "parent": "Ships",
+    "url": "entity.html?universe=vehicles&path=ships&id=ever_given"
+  },
+  {
+    "name": "HMS Victory",
+    "id": "hms_victory",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "ships",
+    "parent": "Ships",
+    "url": "entity.html?universe=vehicles&path=ships&id=hms_victory"
+  },
+  {
+    "name": "Other Vehicles",
+    "id": "other_vehicles",
+    "type": "category",
+    "universe": "vehicles",
+    "path": "",
+    "parent": "Vehicles",
+    "url": "category.html?universe=vehicles&path=other_vehicles"
+  },
+  {
+    "name": "Bullock Cart",
+    "id": "bullock_cart",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "other_vehicles",
+    "parent": "Other Vehicles",
+    "url": "entity.html?universe=vehicles&path=other_vehicles&id=bullock_cart"
+  },
+  {
+    "name": "Horse Carriage",
+    "id": "horse_carriage",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "other_vehicles",
+    "parent": "Other Vehicles",
+    "url": "entity.html?universe=vehicles&path=other_vehicles&id=horse_carriage"
+  },
+  {
+    "name": "Rickshaw",
+    "id": "rickshaw",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "other_vehicles",
+    "parent": "Other Vehicles",
+    "url": "entity.html?universe=vehicles&path=other_vehicles&id=rickshaw"
+  },
+  {
+    "name": "Snowmobile",
+    "id": "snowmobile",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "other_vehicles",
+    "parent": "Other Vehicles",
+    "url": "entity.html?universe=vehicles&path=other_vehicles&id=snowmobile"
+  },
+  {
+    "name": "Segway",
+    "id": "segway",
+    "type": "entity",
+    "universe": "vehicles",
+    "path": "other_vehicles",
+    "parent": "Other Vehicles",
+    "url": "entity.html?universe=vehicles&path=other_vehicles&id=segway"
   }
 ]

@@ -232,6 +232,14 @@
 "description":"A universe including various vegetables, their types, and nutritional benefits."
 },
 {
+"id":"vehicles",
+"name":"Vehicles",
+"type":"category",
+"url":"category.html?universe=vehicles",
+"parent":null,
+"description":"A universe which contains all types of vehicles"
+},
+{
 "id":"weapons",
 "name":"Weapons",
 "type":"category",

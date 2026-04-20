@@ -615,5 +615,590 @@
 "tab3":{"title":"Facts","content":"<ul><li>The Kraken legend may have been inspired by giant squids.</li><li>It is one of the most famous sea monsters in mythology.</li></ul>"}
 },
 "gallery_count":5
+},
+
+{
+"id":"lamia",
+"name":"Lamia",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=lamia",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Greek Mythology","Type:":"Demon / Serpent Woman","Powers:":"Seduction / Shape-shifting / Fear","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Lamia is a terrifying creature from Greek mythology, often depicted as a woman with a serpent-like lower body.</li><li>She was once a beautiful queen who was transformed into a monster.</li><li>Lamia is known for preying on children and spreading fear.</li><li>She is associated with darkness, madness, and revenge.</li><li>Her story symbolizes tragedy and transformation into evil.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Shape-shifting – Can change appearance to lure victims.</li><li>Seduction – Uses charm to deceive humans.</li><li>Fear Aura – Instills terror in nearby beings.</li><li>Enhanced Strength – Strong physical attacks.</li><li>Night Vision – Thrives in darkness.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Lamia was cursed by Hera in Greek mythology.</li><li>She is often portrayed as a child-devouring monster.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"leviathan",
+"name":"Leviathan",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=leviathan",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Biblical Mythology","Type:":"Sea Serpent","Powers:":"Ocean Control / Strength / Chaos","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Leviathan is a massive sea serpent from biblical mythology.</li><li>It is often described as a symbol of chaos and destruction.</li><li>It dwells in the depths of the ocean.</li><li>Its presence represents uncontrollable natural forces.</li><li>It is one of the most powerful sea creatures in mythology.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Ocean Control – Manipulates seas and storms.</li><li>Massive Size – Gigantic body capable of destroying ships.</li><li>Durability – Nearly indestructible.</li><li>Chaos Aura – Creates fear and disorder.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Leviathan appears in religious texts as a symbol of chaos.</li><li>It is often compared to other sea monsters like the Kraken.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"lusca",
+"name":"Lusca",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=lusca",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Caribbean Folklore","Type:":"Sea Monster","Powers:":"Tentacles / Strength / Ambush","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>The Lusca is a legendary sea creature from Caribbean folklore.</li><li>It is described as a giant octopus or shark-octopus hybrid.</li><li>It lives in underwater caves and blue holes.</li><li>It is known for dragging prey into the depths.</li><li>It represents the mystery of deep oceans.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Tentacle Attack – Uses long limbs to capture prey.</li><li>Ambush – Attacks suddenly from underwater.</li><li>Strength – Extremely powerful grip.</li><li>Water Stealth – Blends into deep water.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Lusca legends come from the Bahamas.</li><li>It is often associated with unexplained disappearances at sea.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"makara",
+"name":"Makara",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=makara",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Hindu Mythology","Type:":"Aquatic Creature","Powers:":"Water Control / Strength","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Makara is a mythical aquatic creature in Hindu mythology.</li><li>It is often depicted as a hybrid of crocodile, fish, and elephant features.</li><li>Makara serves as the vehicle of water deities.</li><li>It symbolizes water, fertility, and protection.</li><li>It appears in temple architecture and art.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Water Control – Dominates aquatic environments.</li><li>Strength – Powerful body structure.</li><li>Adaptability – Can survive in different water forms.</li><li>Protective Aura – Guards sacred waters.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Makara is associated with the god Varuna.</li><li>It is often seen as a symbol of life and fertility.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"manticore",
+"name":"Manticore",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=manticore",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Persian Mythology","Type:":"Hybrid Beast","Powers:":"Poison / Strength / Speed","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>The Manticore is a fearsome creature with a lion’s body, human face, and scorpion tail.</li><li>It is known for its deadly nature.</li><li>It hunts humans and other animals.</li><li>It symbolizes danger and ferocity.</li><li>It is one of the most feared hybrid monsters.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Poison Tail – Launches venomous attacks.</li><li>Strength – Powerful physical abilities.</li><li>Speed – Fast movement.</li><li>Sharp Teeth – Deadly bite.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Manticore means “man-eater”.</li><li>It appears in Persian and later European myths.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mermaid",
+"name":"Mermaid",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=mermaid",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Global Folklore","Type:":"Sea Creature","Powers:":"Beauty / Song / Water Control","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Mermaids are mythical beings with the upper body of a human and the tail of a fish.</li><li>They are associated with oceans and seas.</li><li>Some are friendly while others are dangerous.</li><li>They symbolize beauty and mystery.</li><li>They appear in many cultures worldwide.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Hypnotic Song – Can lure sailors.</li><li>Water Control – Manipulates ocean currents.</li><li>Swimming Speed – Moves quickly underwater.</li><li>Healing – Some legends grant healing powers.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Mermaids appear in folklore across many countries.</li><li>They are sometimes mistaken for sirens.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"minotaur",
+"name":"Minotaur",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=minotaur",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Greek Mythology","Type:":"Hybrid Creature","Powers:":"Strength / Combat","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>The Minotaur is a creature with the body of a man and the head of a bull.</li><li>It lived in the Labyrinth of Crete.</li><li>It was known for its aggression and strength.</li><li>It represents brute force and rage.</li><li>It was defeated by the hero Theseus.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Strength – Extremely powerful.</li><li>Combat Skill – Skilled in fighting.</li><li>Endurance – High stamina.</li><li>Ferocity – Aggressive behavior.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>The Minotaur lived in a maze called the Labyrinth.</li><li>It was killed by Theseus with the help of Ariadne.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"naga",
+"name":"Naga",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=naga",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Hindu & Buddhist Mythology","Type:":"Serpent Being","Powers:":"Water / Protection / Transformation","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Nagas are serpent beings in Hindu and Buddhist mythology.</li><li>They can take human or snake form.</li><li>They live in water bodies and underground realms.</li><li>They are often guardians of treasures.</li><li>They represent power and protection.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Transformation – Can change form.</li><li>Water Control – Influences rivers and lakes.</li><li>Poison – Venomous attacks.</li><li>Longevity – Long lifespan.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Nagas are respected in many Asian cultures.</li><li>They are often depicted in temples and stories.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nidhogg",
+"name":"Nidhogg",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=nidhogg",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Norse Mythology","Type:":"Dragon","Powers:":"Destruction / Corruption","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Nidhogg is a dragon that gnaws at the roots of the world tree Yggdrasil.</li><li>It represents destruction and decay.</li><li>It lives in the underworld.</li><li>It plays a role in Ragnarok.</li><li>It symbolizes corruption and chaos.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Destruction – Causes decay.</li><li>Strength – Powerful attacks.</li><li>Endurance – Survives harsh environments.</li><li>Dark Energy – Associated with evil forces.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Nidhogg lives beneath Yggdrasil.</li><li>It is one of the most feared dragons in Norse mythology.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nuckelavee",
+"name":"Nuckelavee",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=nuckelavee",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Scottish Folklore","Type:":"Demon Horse","Powers:":"Disease / Strength / Fear","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>The Nuckelavee is a terrifying creature from Scottish folklore.</li><li>It is described as a horse-like demon without skin.</li><li>It spreads disease and destruction.</li><li>It lives near the sea.</li><li>It represents death and plague.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Disease Spread – Causes illness.</li><li>Strength – Powerful body.</li><li>Fear Aura – Terrifies humans.</li><li>Speed – Moves quickly.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>The Nuckelavee is one of the most horrifying creatures in folklore.</li><li>It is said to be repelled by fresh water.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nymph",
+"name":"Nymph",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=nymph",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Greek Mythology","Type:":"Nature Spirit","Powers:":"Nature Control / Beauty / Healing","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Nymphs are minor female deities associated with nature.</li><li>They inhabit forests, rivers, mountains, and oceans.</li><li>They are known for their beauty and grace.</li><li>Nymphs represent the spirit of nature and life.</li><li>They are generally peaceful and protective of their environment.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Nature Control – Can influence plants and water.</li><li>Healing – Restore natural balance.</li><li>Longevity – Live for long periods.</li><li>Charm – Enchant humans with beauty.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Nymphs are often companions of gods like Artemis.</li><li>Different types exist such as dryads and naiads.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"orthrus",
+"name":"Orthrus",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=orthrus",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Greek Mythology","Type:":"Two-Headed Dog","Powers:":"Strength / Guarding / Ferocity","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Orthrus is a two-headed dog in Greek mythology.</li><li>It is the sibling of Cerberus.</li><li>Orthrus guarded cattle belonging to the giant Geryon.</li><li>It represents loyalty combined with danger.</li><li>It was slain by Hercules.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Dual Heads – Can attack multiple enemies.</li><li>Strength – Powerful bite force.</li><li>Guarding Instinct – Protects territory fiercely.</li><li>Endurance – High stamina.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Orthrus is less famous than Cerberus but equally dangerous.</li><li>It was defeated during Hercules’ labors.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"pegasus",
+"name":"Pegasus",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=pegasus",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Greek Mythology","Type:":"Winged Horse","Powers:":"Flight / Speed / Divine Energy","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Pegasus is a legendary winged horse.</li><li>It symbolizes freedom and divine inspiration.</li><li>It was born from the blood of Medusa.</li><li>Pegasus serves the gods and heroes.</li><li>It represents purity and strength.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Flight – Can soar through skies.</li><li>Speed – Extremely fast movement.</li><li>Divine Energy – Blessed by gods.</li><li>Strength – Powerful physical form.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Pegasus helped heroes like Bellerophon.</li><li>It later became a constellation.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"phoenix",
+"name":"Phoenix",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=phoenix",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Egyptian & Greek Mythology","Type:":"Fire Bird","Powers:":"Rebirth / Fire / Immortality","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>The Phoenix is a mythical bird that is reborn from its ashes.</li><li>It symbolizes immortality and renewal.</li><li>It lives for centuries before regenerating.</li><li>It represents hope and rebirth.</li><li>It is one of the most iconic mythical creatures.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Rebirth – Regenerates after death.</li><li>Fire Control – Uses flames as power.</li><li>Healing – Tears have healing properties.</li><li>Immortality – Cannot die permanently.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>The Phoenix is associated with the sun.</li><li>It appears in multiple mythologies worldwide.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"pixie",
+"name":"Pixie",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=pixie",
+"parent":"mythical_creatures",
+"info":{"Origin:":"English Folklore","Type:":"Fairy","Powers:":"Magic / Flight / Mischief","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Pixies are small magical creatures known for their playful nature.</li><li>They are often found in forests and gardens.</li><li>They are known for causing harmless mischief.</li><li>They represent magic and curiosity.</li><li>They are lighter and more playful than fairies.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Flight – Can fly using wings.</li><li>Magic – Cast minor spells.</li><li>Invisibility – Hide from humans.</li><li>Mischief – Trick others playfully.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Pixies are common in British folklore.</li><li>They are often associated with fairy circles.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"poltergeist",
+"name":"Poltergeist",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=poltergeist",
+"parent":"mythical_creatures",
+"info":{"Origin:":"German Folklore","Type:":"Spirit","Powers:":"Telekinesis / Noise / Invisibility","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Poltergeists are noisy spirits known for disturbing environments.</li><li>They move objects and create chaos.</li><li>They are associated with haunted locations.</li><li>They represent unseen supernatural forces.</li><li>They are feared for their unpredictable nature.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Telekinesis – Move objects without touching.</li><li>Invisibility – Cannot be seen.</li><li>Noise Creation – Produce loud sounds.</li><li>Disruption – Cause chaos in surroundings.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>The name means “noisy ghost”.</li><li>They are often linked to paranormal events.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rakshasa",
+"name":"Rakshasa",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=rakshasa",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Hindu Mythology","Type:":"Demon","Powers:":"Magic / Illusion / Strength","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Rakshasas are powerful demons in Hindu mythology.</li><li>They are known for shape-shifting and deception.</li><li>They appear in epics like Ramayana.</li><li>They represent evil and chaos.</li><li>Some Rakshasas are intelligent and strategic.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Shape-shifting – Change forms easily.</li><li>Illusion – Create deceptive visuals.</li><li>Strength – Powerful physical abilities.</li><li>Magic – Use supernatural powers.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Ravana is a famous Rakshasa king.</li><li>They appear frequently in Indian epics.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"satyr",
+"name":"Satyr",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=satyr",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Greek Mythology","Type:":"Nature Spirit","Powers:":"Agility / Music / Mischief","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Satyrs are creatures with human upper bodies and goat-like lower bodies.</li><li>They are companions of Dionysus.</li><li>They are associated with music, wine, and pleasure.</li><li>They represent wild nature and indulgence.</li><li>They are playful and mischievous beings.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Agility – Fast and flexible movement.</li><li>Music – Skilled in instruments.</li><li>Mischief – Playful trickery.</li><li>Endurance – Strong physical stamina.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Satyrs are often depicted in ancient Greek art.</li><li>They symbolize freedom and wild instincts.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"scylla",
+"name":"Scylla",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=scylla",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Greek Mythology","Type:":"Sea Monster","Powers:":"Multiple Heads / Speed / Destruction","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Scylla is a monstrous sea creature with multiple heads.</li><li>She lives opposite Charybdis.</li><li>She attacks ships passing nearby.</li><li>She represents unavoidable danger.</li><li>She appears in the story of Odysseus.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Multiple Heads – Attack multiple targets.</li><li>Speed – Quick strikes.</li><li>Strength – Powerful attacks.</li><li>Ferocity – Extremely aggressive.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Scylla and Charybdis represent two dangers.</li><li>Sailors had to choose between them.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sea_serpent",
+"name":"Sea Serpent",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=sea_serpent",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Global Folklore","Type:":"Sea Creature","Powers:":"Size / Strength / Water Control","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Sea serpents are giant snake-like creatures living in oceans.</li><li>They appear in many cultures worldwide.</li><li>They are often feared by sailors.</li><li>They represent mystery and danger of the sea.</li><li>They vary in size and appearance.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Massive Size – Extremely large body.</li><li>Strength – Can crush ships.</li><li>Water Control – Influence ocean currents.</li><li>Speed – Fast swimming.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Sea serpent sightings were common in ancient times.</li><li>They may be inspired by real sea creatures.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"selkie",
+"name":"Selkie",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=selkie",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Celtic Folklore","Type:":"Shape-shifter","Powers:":"Transformation / Water / Charm","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Selkies are mythical beings that can transform from seals into humans.</li><li>They are found in Celtic and Scottish folklore.</li><li>They live in the sea but can come onto land.</li><li>Their seal skin holds their power of transformation.</li><li>They symbolize freedom and emotional depth.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Transformation – Shift between seal and human form.</li><li>Water Adaptation – Thrive in oceans.</li><li>Charm – Enchant humans with beauty.</li><li>Longevity – Long lifespan.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Selkies lose their power if their seal skin is stolen.</li><li>Many stories involve love and loss.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shadow_people",
+"name":"Shadow People",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=shadow_people",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Modern Folklore","Type:":"Supernatural Entity","Powers:":"Stealth / Fear / Invisibility","Nature:":"Unknown"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Shadow People are mysterious dark figures seen in peripheral vision.</li><li>They are often associated with paranormal experiences.</li><li>They appear as silhouettes without clear features.</li><li>They are linked to fear and unknown dimensions.</li><li>Their true nature remains unexplained.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Invisibility – Hard to detect directly.</li><li>Stealth – Move silently.</li><li>Fear Aura – Cause anxiety and fear.</li><li>Phase Movement – Appear and disappear instantly.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Reports of Shadow People exist worldwide.</li><li>They are often linked to sleep paralysis.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"siren",
+"name":"Siren",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=siren",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Greek Mythology","Type:":"Sea Creature","Powers:":"Voice / Hypnosis / Illusion","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Sirens are dangerous creatures known for their enchanting songs.</li><li>They lure sailors to their doom.</li><li>They are often mistaken for mermaids.</li><li>They represent temptation and danger.</li><li>They appear in stories like Odysseus’ journey.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Hypnotic Voice – Control minds through singing.</li><li>Illusion – Create deceptive visions.</li><li>Water Adaptation – Live in oceans.</li><li>Charm – Attract victims easily.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Sirens were originally bird-like creatures.</li><li>They became associated with mermaids later.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"succubus",
+"name":"Succubus",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=succubus",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Medieval Folklore","Type:":"Demon","Powers:":"Seduction / Energy Drain / Illusion","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>The Succubus is a female demon that seduces humans.</li><li>It appears in medieval European folklore.</li><li>It feeds on human energy.</li><li>It represents temptation and danger.</li><li>It often appears in dreams.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Seduction – Attract victims easily.</li><li>Energy Drain – Absorb life force.</li><li>Illusion – Create false appearances.</li><li>Transformation – Change form.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>The male counterpart is called Incubus.</li><li>They are linked to supernatural folklore.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"thunderbird",
+"name":"Thunderbird",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=thunderbird",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Native American Mythology","Type:":"Giant Bird","Powers:":"Storm Control / Flight / Strength","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>The Thunderbird is a powerful spirit bird.</li><li>It is associated with storms and thunder.</li><li>It protects humans and maintains balance.</li><li>It is a symbol of strength and power.</li><li>It appears in Native American traditions.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Storm Control – Creates thunder and lightning.</li><li>Flight – Soars through skies.</li><li>Strength – Powerful wings.</li><li>Protection – Guards people.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>The Thunderbird is considered sacred.</li><li>It appears in many tribal stories.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"tiamat",
+"name":"Tiamat",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=tiamat",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Mesopotamian Mythology","Type:":"Chaos Dragon","Powers:":"Creation / Destruction / Chaos","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Tiamat is a primordial sea goddess and dragon.</li><li>She represents chaos and creation.</li><li>She is one of the oldest mythological beings.</li><li>She fought against the gods.</li><li>She symbolizes the origin of life and destruction.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Chaos Energy – Controls destructive forces.</li><li>Creation – Source of life.</li><li>Strength – Immense power.</li><li>Durability – Nearly unstoppable.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Tiamat appears in ancient Mesopotamian texts.</li><li>She was defeated by the god Marduk.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"tikbalang",
+"name":"Tikbalang",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=tikbalang",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Philippine Folklore","Type:":"Forest Spirit","Powers:":"Illusion / Speed / Trickery","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>The Tikbalang is a creature with a horse head and human body.</li><li>It lives in forests and mountains.</li><li>It misleads travelers.</li><li>It represents mystery and confusion.</li><li>It is part of Filipino folklore.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Illusion – Confuses people.</li><li>Speed – Moves quickly.</li><li>Trickery – Plays pranks.</li><li>Stealth – Hides in forests.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Tikbalang is known for leading people astray.</li><li>It is a well-known figure in Philippine myths.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"typhon",
+"name":"Typhon",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=typhon",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Greek Mythology","Type:":"Giant Monster","Powers:":"Storms / Fire / Strength","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Typhon is one of the most powerful monsters in Greek mythology.</li><li>He challenged Zeus for control of the cosmos.</li><li>He has multiple serpent heads.</li><li>He represents chaos and destruction.</li><li>He is the father of many monsters.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Storm Control – Creates powerful storms.</li><li>Fire Breath – Emits flames.</li><li>Strength – Extremely powerful.</li><li>Regeneration – Hard to defeat.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Typhon is considered the most dangerous Greek monster.</li><li>He was defeated by Zeus.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"umibozu",
+"name":"Umibozu",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=umibozu",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Japanese Folklore","Type:":"Sea Spirit","Powers:":"Storm / Size / Destruction","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Umibozu is a giant sea spirit from Japanese folklore.</li><li>It appears suddenly during storms.</li><li>It capsizes ships.</li><li>It represents fear of the ocean.</li><li>It has a dark, monk-like appearance.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Storm Creation – Summons storms.</li><li>Massive Size – Huge body.</li><li>Strength – Destroys ships.</li><li>Water Control – Manipulates sea.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Umibozu appears in Japanese legends.</li><li>It is feared by sailors.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"unicorn",
+"name":"Unicorn",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=unicorn",
+"parent":"mythical_creatures",
+"info":{"Origin:":"European Mythology","Type:":"Magical Animal","Powers:":"Purity / Healing / Magic","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>The Unicorn is a horse-like creature with a single horn.</li><li>It symbolizes purity and grace.</li><li>It is associated with magic and healing.</li><li>It appears in many legends.</li><li>It represents innocence and power.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Healing – Horn can heal wounds.</li><li>Purification – Removes poison.</li><li>Speed – Fast movement.</li><li>Magic – Mystical energy.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Unicorns are symbols of purity.</li><li>They appear in medieval art and stories.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"vampire",
+"name":"Vampire",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=vampire",
+"parent":"mythical_creatures",
+"info":{"Origin:":"European Folklore","Type:":"Undead","Powers:":"Immortality / Strength / Blood Drain","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Vampires are undead beings that feed on the blood of the living.</li><li>They are often portrayed as pale and nocturnal.</li><li>They possess supernatural strength and speed.</li><li>They avoid sunlight and sacred objects.</li><li>They represent immortality and darkness.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Immortality – Do not age naturally.</li><li>Blood Drain – Gain strength from victims.</li><li>Super Strength – Enhanced physical power.</li><li>Hypnosis – Control minds.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Vampires are central figures in horror stories.</li><li>They are vulnerable to sunlight and stakes.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"vanara",
+"name":"Vanara",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=vanara",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Hindu Mythology","Type:":"Monkey Warrior","Powers:":"Strength / Agility / Intelligence","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Vanaras are powerful monkey-like beings from Hindu epics.</li><li>They play a major role in the Ramayana.</li><li>They are known for loyalty and bravery.</li><li>They possess both intelligence and strength.</li><li>They symbolize courage and devotion.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Strength – Powerful physical abilities.</li><li>Agility – Fast and flexible movement.</li><li>Intelligence – Strategic thinking.</li><li>Jumping – Long-distance leaps.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Hanuman is the most famous Vanara.</li><li>They helped Lord Rama in battle.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"vetala",
+"name":"Vetala",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=vetala",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Hindu Mythology","Type:":"Spirit","Powers:":"Possession / Knowledge / Immortality","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Vetalas are spirits that inhabit dead bodies.</li><li>They are known for their intelligence and cunning.</li><li>They appear in Indian folklore stories.</li><li>They can speak and reason like humans.</li><li>They represent mystery and the supernatural.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Possession – Control dead bodies.</li><li>Knowledge – Possess ancient wisdom.</li><li>Immortality – Exist beyond death.</li><li>Illusion – Trick humans.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Vetalas appear in Vikram and Betal stories.</li><li>They often test human intelligence.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"wendigo",
+"name":"Wendigo",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=wendigo",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Native American Folklore","Type:":"Cannibal Spirit","Powers:":"Strength / Hunger / Speed","Nature:":"Evil"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>The Wendigo is a terrifying spirit associated with cannibalism.</li><li>It represents greed and hunger.</li><li>It appears in cold wilderness regions.</li><li>It grows stronger as it consumes more.</li><li>It symbolizes human corruption.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Super Strength – Extremely powerful.</li><li>Speed – Moves quickly.</li><li>Endless Hunger – Never satisfied.</li><li>Durability – Hard to kill.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>The Wendigo is linked to harsh winter survival myths.</li><li>It is often portrayed as skeletal and monstrous.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"werewolf",
+"name":"Werewolf",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=werewolf",
+"parent":"mythical_creatures",
+"info":{"Origin:":"European Folklore","Type:":"Shape-shifter","Powers:":"Transformation / Strength / Regeneration","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Werewolves are humans who transform into wolves.</li><li>The transformation usually occurs during a full moon.</li><li>They are known for aggression and strength.</li><li>They represent dual nature of humans.</li><li>They appear in many legends worldwide.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Transformation – Shift between human and wolf.</li><li>Strength – Powerful attacks.</li><li>Regeneration – Heal quickly.</li><li>Senses – Enhanced smell and hearing.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Werewolves are vulnerable to silver.</li><li>They are common in horror stories.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"yaksha",
+"name":"Yaksha",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=yaksha",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Hindu & Buddhist Mythology","Type:":"Nature Spirit","Powers:":"Wealth / Protection / Magic","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Yakshas are nature spirits associated with wealth and treasure.</li><li>They guard hidden riches.</li><li>They can be benevolent or dangerous.</li><li>They appear in Hindu and Buddhist texts.</li><li>They symbolize prosperity and mystery.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Wealth Control – Guard treasures.</li><li>Magic – Use supernatural powers.</li><li>Protection – Defend sacred places.</li><li>Transformation – Change forms.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Yakshas are often depicted in temples.</li><li>They are attendants of Kubera.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"yeti",
+"name":"Yeti",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=yeti",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Himalayan Folklore","Type:":"Ape-like Creature","Powers:":"Strength / Survival / Stealth","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>The Yeti is a legendary creature living in the Himalayas.</li><li>It is often called the “Abominable Snowman”.</li><li>It is covered in thick fur.</li><li>It survives extreme cold.</li><li>It represents mystery of remote regions.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Strength – Powerful physical abilities.</li><li>Cold Resistance – Survives harsh climates.</li><li>Stealth – Avoids detection.</li><li>Endurance – High stamina.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Yeti sightings are reported in the Himalayas.</li><li>It remains an unsolved mystery.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ymir",
+"name":"Ymir",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=ymir",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Norse Mythology","Type:":"Primordial Giant","Powers:":"Creation / Strength / Immensity","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Ymir is the first giant in Norse mythology.</li><li>He is the ancestor of all giants.</li><li>He was formed from primordial ice.</li><li>His body was used to create the world.</li><li>He represents creation and origin.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Immense Size – Gigantic form.</li><li>Strength – Powerful presence.</li><li>Creation – Source of life.</li><li>Endurance – Nearly indestructible.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Ymir was killed by Odin and his brothers.</li><li>The world was created from his body.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ziz",
+"name":"Ziz",
+"type":"entity",
+"url":"entity.html?universe=mythical_creatures&path=&id=ziz",
+"parent":"mythical_creatures",
+"info":{"Origin:":"Jewish Mythology","Type:":"Giant Bird","Powers:":"Flight / Protection / Size","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Ziz is a giant bird in Jewish mythology.</li><li>It is considered the king of birds.</li><li>Its wings can block the sun.</li><li>It protects the skies.</li><li>It represents divine protection.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Flight – Soars at great heights.</li><li>Massive Size – Enormous wingspan.</li><li>Protection – Guards the skies.</li><li>Strength – Powerful presence.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Ziz is often paired with Leviathan and Behemoth.</li><li>It represents sky dominance.</li></ul>"}
+},
+"gallery_count":5
 }
 ]
