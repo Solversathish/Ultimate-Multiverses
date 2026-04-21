@@ -1,0 +1,481 @@
+[
+{
+"id":"arrowroot",
+"name":"Arrowroot",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=arrowroot",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"South America","Nutrients:":"Starch / Fiber / Potassium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Arrowroot is a tropical root vegetable known for its high starch content and smooth texture.</li><li>It is widely used as a natural thickening agent in soups, sauces, and desserts.</li><li>It is gluten-free and easy to digest, making it ideal for infants and people with digestive issues.</li><li>Arrowroot powder is commonly used in baking and traditional cooking.</li><li>It has a neutral flavor, allowing it to blend easily with various dishes.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion and gut health</li><li>Gluten-free cooking alternative</li><li>Provides quick energy</li><li>Helps regulate metabolism</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often used as a substitute for cornstarch.</li><li>Popular in traditional herbal remedies.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"beetroot",
+"name":"Beetroot",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=beetroot",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"Europe","Nutrients:":"Iron / Folate / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Beetroot is a vibrant red root vegetable known for its natural sweetness and earthy flavor.</li><li>It is widely used in salads, juices, and cooked dishes.</li><li>It contains powerful antioxidants that support heart health.</li><li>Beetroot improves blood circulation and stamina.</li><li>It is also used as a natural coloring agent in foods.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves blood flow</li><li>Supports heart health</li><li>Boosts stamina</li><li>Rich in antioxidants</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Leaves are also edible and nutritious.</li><li>Used in sports nutrition drinks.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"black_radish",
+"name":"Black Radish",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=black_radish",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"Europe","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Black radish is a root vegetable with dark skin and sharp, spicy flavor.</li><li>It is commonly used in traditional medicine.</li><li>It supports liver detoxification and digestion.</li><li>It is often eaten raw or pickled.</li><li>It has a strong aroma and pungent taste.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports liver health</li><li>Improves digestion</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in European herbal remedies.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"carrot",
+"name":"Carrot",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=carrot",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"Central Asia","Nutrients:":"Vitamin A / Beta-carotene / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Carrot is a widely consumed root vegetable known for its bright orange color and sweet taste.</li><li>It is eaten raw, cooked, or juiced.</li><li>It is rich in beta-carotene, essential for eye health.</li><li>Carrots are versatile and used in many dishes worldwide.</li><li>They are crunchy and refreshing.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves eyesight</li><li>Boosts immunity</li><li>Supports skin health</li><li>Aids digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Originally carrots were purple and yellow.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"cassava",
+"name":"Cassava",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=cassava",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Tuber","Origin:":"South America","Nutrients:":"Carbohydrates / Fiber","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Cassava is a starchy tuber widely consumed in tropical regions.</li><li>It is a major source of carbohydrates.</li><li>Used to produce tapioca and flour.</li><li>Must be properly cooked to remove toxins.</li><li>It is a staple food in many countries.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Provides energy</li><li>Supports weight gain</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called tapioca root.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"celeriac",
+"name":"Celeriac",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=celeriac",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"Mediterranean","Nutrients:":"Fiber / Vitamin K","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Celeriac is a root vegetable related to celery.</li><li>It has a mild, nutty flavor.</li><li>Commonly used in soups and salads.</li><li>Low in calories and nutritious.</li><li>Popular in European cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Low calorie</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called celery root.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chinese_potato",
+"name":"Chinese Potato",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=chinese_potato",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Tuber","Origin:":"Asia","Nutrients:":"Carbs / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Chinese potato is a small starchy tuber widely used in Asian and Indian cuisine.</li><li>It is often cooked in curries and stir-fries.</li><li>It has a mild flavor and firm texture.</li><li>It is highly nutritious and energy-rich.</li><li>Commonly known as Koorka in India.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Provides energy</li><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Popular in Kerala cuisine.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"daikon",
+"name":"Daikon",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=daikon",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"East Asia","Nutrients:":"Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Daikon is a long white radish commonly used in Asian cooking.</li><li>It has a mild, slightly sweet flavor.</li><li>Used in soups, salads, and pickles.</li><li>Helps digestion and detoxification.</li><li>Popular in Japanese and Korean cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Detoxifies body</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often used in sushi dishes.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"elephant_yam",
+"name":"Elephant Yam",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=elephant_yam",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Tuber","Origin:":"India","Nutrients:":"Fiber / Potassium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Elephant yam is a large tropical tuber used in Indian cooking.</li><li>It has a dense texture and earthy flavor.</li><li>Used in curries and fried dishes.</li><li>It is rich in nutrients and fiber.</li><li>Known as Suran in India.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Improves gut health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Requires proper cooking to remove irritation.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"galangal",
+"name":"Galangal",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=galangal",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Rhizome","Origin:":"Southeast Asia","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Galangal is a rhizome similar to ginger but with a sharper taste.</li><li>Used in Thai and Indonesian cuisine.</li><li>It adds a citrus-like flavor to dishes.</li><li>It has medicinal properties.</li><li>Used in soups and curries.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Anti-inflammatory</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Key ingredient in Thai Tom Yum soup.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"garlic",
+"name":"Garlic",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=garlic",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Bulb","Origin:":"Central Asia","Nutrients:":"Sulfur Compounds / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Garlic is a strong-flavored bulb vegetable used worldwide.</li><li>It enhances flavor and aroma of food.</li><li>It has powerful medicinal properties.</li><li>Used in cooking and traditional medicine.</li><li>It has antibacterial effects.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Improves heart health</li><li>Reduces blood pressure</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used for thousands of years medicinally.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ginger",
+"name":"Ginger",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=ginger",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Rhizome","Origin:":"Asia","Nutrients:":"Gingerol / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Ginger is a widely used rhizome with a spicy flavor.</li><li>It is used in cooking, beverages, and medicine.</li><li>It aids digestion and relieves nausea.</li><li>It has anti-inflammatory properties.</li><li>Used globally in various cuisines.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Relieves nausea</li><li>Improves digestion</li><li>Reduces inflammation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in Ayurvedic treatments.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"horseradish",
+"name":"Horseradish",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=horseradish",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"Europe","Nutrients:":"Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Horseradish is a pungent root vegetable used as a condiment.</li><li>It has a very strong, spicy flavor.</li><li>Used in sauces and dips.</li><li>Popular in European cuisine.</li><li>Often paired with meat dishes.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts metabolism</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Very strong smell when cut.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"jerusalem_artichoke",
+"name":"Jerusalem Artichoke",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=jerusalem_artichoke",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Tuber","Origin:":"North America","Nutrients:":"Fiber / Inulin","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Jerusalem artichoke is a tuber with a slightly sweet, nutty flavor.</li><li>Also called sunchoke.</li><li>Used in soups and roasted dishes.</li><li>Rich in dietary fiber.</li><li>Good for gut health.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports gut bacteria</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Not related to artichokes.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"leek",
+"name":"Leek",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=leek",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Bulb","Origin:":"Europe","Nutrients:":"Vitamin K / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Leek is a mild-flavored vegetable related to onion and garlic.</li><li>It has a subtle sweet taste.</li><li>Used in soups and stews.</li><li>Common in European dishes.</li><li>It is nutritious and low in calories.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports heart health</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>National symbol of Wales.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"lotus_root",
+"name":"Lotus Root",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=lotus_root",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Stem","Origin:":"Asia","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Lotus root is the edible stem of the lotus plant.</li><li>It has a crunchy texture and mild taste.</li><li>Used in Asian cuisine.</li><li>It has a unique pattern when sliced.</li><li>It is rich in nutrients and fiber.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Symbol of purity in many cultures.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"onion",
+"name":"Onion",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=onion",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Bulb","Origin:":"Central Asia","Nutrients:":"Vitamin C / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Onion is one of the most widely used vegetables across the world.</li><li>It has a strong aroma and slightly sweet flavor when cooked.</li><li>Used as a base ingredient in many dishes.</li><li>Available in red, white, and yellow varieties.</li><li>Essential in global cuisines.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Supports heart health</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Causes tears due to sulfur compounds.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"parsnip",
+"name":"Parsnip",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=parsnip",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"Europe","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Parsnip is a sweet root vegetable similar to carrot.</li><li>It has a creamy white color.</li><li>Used in soups and roasted dishes.</li><li>Becomes sweeter when cooked.</li><li>Popular in winter cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Rich in nutrients</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in traditional European dishes.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"potato",
+"name":"Potato",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=potato",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Tuber","Origin:":"South America","Nutrients:":"Carbohydrates / Potassium","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Potato is one of the most widely consumed tubers worldwide.</li><li>It is a staple food in many countries.</li><li>Used in a variety of dishes like fries, curries, and mashed preparations.</li><li>It has a mild taste and soft texture when cooked.</li><li>Highly versatile in cooking.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Provides energy</li><li>Rich in potassium</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Originated in the Andes mountains.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"purple_carrot",
+"name":"Purple Carrot",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=purple_carrot",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"Central Asia","Nutrients:":"Antioxidants / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Purple carrot is an ancient variety of carrot.</li><li>It has a deep purple color due to anthocyanins.</li><li>It is sweeter and richer in antioxidants.</li><li>Used in salads and juices.</li><li>More nutritious than regular carrots.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>High antioxidant content</li><li>Supports heart health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Original carrots were purple.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"radish",
+"name":"Radish",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=radish",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"Asia","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Radish is a crunchy root vegetable with a slightly spicy taste.</li><li>It is commonly eaten raw in salads.</li><li>Used in various cuisines worldwide.</li><li>Helps in digestion.</li><li>Available in different shapes and colors.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Detoxifies body</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Grows quickly compared to other vegetables.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rutabaga",
+"name":"Rutabaga",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=rutabaga",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"Europe","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Rutabaga is a root vegetable similar to turnip.</li><li>It has a slightly sweet flavor.</li><li>Used in soups and mashed dishes.</li><li>It is hardy and grows in cold climates.</li><li>Nutritious and filling.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports immunity</li><li>Rich in fiber</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called swede.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"salsify",
+"name":"Salsify",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=salsify",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"Europe","Nutrients:":"Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Salsify is a root vegetable with a mild oyster-like flavor.</li><li>It is used in soups and stews.</li><li>It has a long, thin root.</li><li>Popular in European cuisine.</li><li>It is nutritious and unique in taste.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Called “oyster plant”.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"scorzonera",
+"name":"Scorzonera",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=scorzonera",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"Europe","Nutrients:":"Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Scorzonera is a root vegetable with black skin and white flesh.</li><li>It has a mild, sweet taste.</li><li>Used in soups and roasted dishes.</li><li>Similar to salsify.</li><li>Rich in nutrients.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called black salsify.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shallot",
+"name":"Shallot",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=shallot",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Bulb","Origin:":"Asia","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Shallot is a small bulb vegetable related to onion.</li><li>It has a milder and sweeter flavor.</li><li>Used in gourmet cooking.</li><li>Common in sauces and dressings.</li><li>Popular in French cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Improves heart health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Preferred by chefs for flavor.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sweet_potato",
+"name":"Sweet Potato",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=sweet_potato",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Tuber","Origin:":"Central America","Nutrients:":"Vitamin A / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Sweet potato is a starchy root vegetable with natural sweetness.</li><li>It is highly nutritious and rich in vitamins.</li><li>Used in both sweet and savory dishes.</li><li>Available in different colors.</li><li>Popular worldwide.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves vision</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Not related to regular potato.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"taro",
+"name":"Taro",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=taro",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Tuber","Origin:":"Asia","Nutrients:":"Fiber / Carbohydrates","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Taro is a tropical root vegetable used in many cuisines.</li><li>It has a starchy texture.</li><li>Used in curries and desserts.</li><li>Requires cooking before eating.</li><li>Common in Asian cooking.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Leaves are also edible.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"turmeric_root",
+"name":"Turmeric Root",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=turmeric_root",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Rhizome","Origin:":"India","Nutrients:":"Curcumin","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Turmeric root is a bright yellow rhizome widely used in cooking and medicine.</li><li>It has anti-inflammatory properties.</li><li>Used in curries and herbal remedies.</li><li>Known for its strong color and flavor.</li><li>Essential in Indian cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Reduces inflammation</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Main ingredient in turmeric powder.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"turnip",
+"name":"Turnip",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=turnip",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"Europe","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Turnip is a root vegetable with a slightly bitter taste.</li><li>Used in soups and curries.</li><li>It is nutritious and low in calories.</li><li>Leaves are also edible.</li><li>Common in cold climates.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports immunity</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Part of the cabbage family.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"wasabi_root",
+"name":"Wasabi Root",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=wasabi_root",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Rhizome","Origin:":"Japan","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Wasabi root is a spicy rhizome used in Japanese cuisine.</li><li>It has a strong, pungent flavor.</li><li>Commonly served with sushi.</li><li>It clears nasal passages.</li><li>Rare and expensive.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Antibacterial properties</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Real wasabi is rare; most is imitation.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"white_radish",
+"name":"White Radish",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=white_radish",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Root Vegetable","Origin:":"Asia","Nutrients:":"Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>White radish is a mild-flavored root vegetable.</li><li>Used in salads and cooking.</li><li>Popular in Asian cuisine.</li><li>Helps digestion.</li><li>Refreshing taste.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also known as daikon.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"yam",
+"name":"Yam",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=yam",
+"parent":"root_and_tuber_vegetables",
+"info":{"Category:":"Tuber","Origin:":"Africa","Nutrients:":"Carbohydrates / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Yam is a starchy tuber widely consumed in Africa and Asia.</li><li>It is a staple food.</li><li>Used in various traditional dishes.</li><li>Rich in energy.</li><li>Different from sweet potato.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Provides energy</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Different from sweet potato.</li></ul>"}
+},
+"gallery_count":5
+}
+]

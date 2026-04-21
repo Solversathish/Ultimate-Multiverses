@@ -1,0 +1,72 @@
+[
+  {
+    "id": "root_and_tuber_vegetables",
+    "name": "Root & Tuber Vegetables",
+    "type": "category",
+    "url": "category.html?universe=vegetables&path=root_and_tuber_vegetables",
+    "parent": "vegetables"
+  },
+  {
+    "id": "leafy_vegetables",
+    "name": "Leafy Vegetables",
+    "type": "category",
+    "url": "category.html?universe=vegetables&path=leafy_vegetables",
+    "parent": "vegetables"
+  },
+  {
+    "id": "fruit_vegetables",
+    "name": "Fruit Vegetables",
+    "type": "category",
+    "url": "category.html?universe=vegetables&path=fruit_vegetables",
+    "parent": "vegetables"
+  },
+  {
+    "id": "stem_vegetables",
+    "name": "Stem Vegetables",
+    "type": "category",
+    "url": "category.html?universe=vegetables&path=stem_vegetables",
+    "parent": "vegetables"
+  },
+  {
+    "id": "flower_vegetables",
+    "name": "Flower Vegetables",
+    "type": "category",
+    "url": "category.html?universe=vegetables&path=flower_vegetables",
+    "parent": "vegetables"
+  },
+  {
+    "id": "legumes_and_pod_vegetables",
+    "name": "Legumes / Pod Vegetables",
+    "type": "category",
+    "url": "category.html?universe=vegetables&path=legumes_and_pod_vegetables",
+    "parent": "vegetables"
+  },
+  {
+    "id": "fungi_edible_mushrooms",
+    "name": "Fungi (Edible Mushrooms)",
+    "type": "category",
+    "url": "category.html?universe=vegetables&path=fungi_edible_mushrooms",
+    "parent": "vegetables"
+  },
+  {
+    "id": "sea_vegetables",
+    "name": "Sea Vegetables",
+    "type": "category",
+    "url": "category.html?universe=vegetables&path=sea_vegetables",
+    "parent": "vegetables"
+  },
+  {
+    "id": "herbs_culinary_leaves",
+    "name": "Herbs (Culinary Leaves)",
+    "type": "category",
+    "url": "category.html?universe=vegetables&path=herbs_culinary_leaves",
+    "parent": "vegetables"
+  },
+  {
+    "id": "exotic_and_rare_vegetables",
+    "name": "Exotic & Rare Vegetables",
+    "type": "category",
+    "url": "category.html?universe=vegetables&path=exotic_and_rare_vegetables",
+    "parent": "vegetables"
+  }
+]

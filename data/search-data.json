@@ -12348,6 +12348,384 @@
     "url": "entity.html?universe=sports&path=formula_1&id=sebastian_vettel"
   },
   {
+    "name": "Root & Tuber Vegetables",
+    "id": "root_and_tuber_vegetables",
+    "type": "category",
+    "universe": "vegetables",
+    "path": "",
+    "parent": "Vegetables",
+    "url": "category.html?universe=vegetables&path=root_and_tuber_vegetables"
+  },
+  {
+    "name": "Arrowroot",
+    "id": "arrowroot",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=arrowroot"
+  },
+  {
+    "name": "Beetroot",
+    "id": "beetroot",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=beetroot"
+  },
+  {
+    "name": "Black Radish",
+    "id": "black_radish",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=black_radish"
+  },
+  {
+    "name": "Carrot",
+    "id": "carrot",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=carrot"
+  },
+  {
+    "name": "Cassava",
+    "id": "cassava",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=cassava"
+  },
+  {
+    "name": "Celeriac",
+    "id": "celeriac",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=celeriac"
+  },
+  {
+    "name": "Chinese Potato",
+    "id": "chinese_potato",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=chinese_potato"
+  },
+  {
+    "name": "Daikon",
+    "id": "daikon",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=daikon"
+  },
+  {
+    "name": "Elephant Yam",
+    "id": "elephant_yam",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=elephant_yam"
+  },
+  {
+    "name": "Galangal",
+    "id": "galangal",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=galangal"
+  },
+  {
+    "name": "Garlic",
+    "id": "garlic",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=garlic"
+  },
+  {
+    "name": "Ginger",
+    "id": "ginger",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=ginger"
+  },
+  {
+    "name": "Horseradish",
+    "id": "horseradish",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=horseradish"
+  },
+  {
+    "name": "Jerusalem Artichoke",
+    "id": "jerusalem_artichoke",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=jerusalem_artichoke"
+  },
+  {
+    "name": "Leek",
+    "id": "leek",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=leek"
+  },
+  {
+    "name": "Lotus Root",
+    "id": "lotus_root",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=lotus_root"
+  },
+  {
+    "name": "Onion",
+    "id": "onion",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=onion"
+  },
+  {
+    "name": "Parsnip",
+    "id": "parsnip",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=parsnip"
+  },
+  {
+    "name": "Potato",
+    "id": "potato",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=potato"
+  },
+  {
+    "name": "Purple Carrot",
+    "id": "purple_carrot",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=purple_carrot"
+  },
+  {
+    "name": "Radish",
+    "id": "radish",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=radish"
+  },
+  {
+    "name": "Rutabaga",
+    "id": "rutabaga",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=rutabaga"
+  },
+  {
+    "name": "Salsify",
+    "id": "salsify",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=salsify"
+  },
+  {
+    "name": "Scorzonera",
+    "id": "scorzonera",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=scorzonera"
+  },
+  {
+    "name": "Shallot",
+    "id": "shallot",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=shallot"
+  },
+  {
+    "name": "Sweet Potato",
+    "id": "sweet_potato",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=sweet_potato"
+  },
+  {
+    "name": "Taro",
+    "id": "taro",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=taro"
+  },
+  {
+    "name": "Turmeric Root",
+    "id": "turmeric_root",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=turmeric_root"
+  },
+  {
+    "name": "Turnip",
+    "id": "turnip",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=turnip"
+  },
+  {
+    "name": "Wasabi Root",
+    "id": "wasabi_root",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=wasabi_root"
+  },
+  {
+    "name": "White Radish",
+    "id": "white_radish",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=white_radish"
+  },
+  {
+    "name": "Yam",
+    "id": "yam",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "root_and_tuber_vegetables",
+    "parent": "Root & Tuber Vegetables",
+    "url": "entity.html?universe=vegetables&path=root_and_tuber_vegetables&id=yam"
+  },
+  {
+    "name": "Leafy Vegetables",
+    "id": "leafy_vegetables",
+    "type": "category",
+    "universe": "vegetables",
+    "path": "",
+    "parent": "Vegetables",
+    "url": "category.html?universe=vegetables&path=leafy_vegetables"
+  },
+  {
+    "name": "Fruit Vegetables",
+    "id": "fruit_vegetables",
+    "type": "category",
+    "universe": "vegetables",
+    "path": "",
+    "parent": "Vegetables",
+    "url": "category.html?universe=vegetables&path=fruit_vegetables"
+  },
+  {
+    "name": "Stem Vegetables",
+    "id": "stem_vegetables",
+    "type": "category",
+    "universe": "vegetables",
+    "path": "",
+    "parent": "Vegetables",
+    "url": "category.html?universe=vegetables&path=stem_vegetables"
+  },
+  {
+    "name": "Flower Vegetables",
+    "id": "flower_vegetables",
+    "type": "category",
+    "universe": "vegetables",
+    "path": "",
+    "parent": "Vegetables",
+    "url": "category.html?universe=vegetables&path=flower_vegetables"
+  },
+  {
+    "name": "Legumes / Pod Vegetables",
+    "id": "legumes_and_pod_vegetables",
+    "type": "category",
+    "universe": "vegetables",
+    "path": "",
+    "parent": "Vegetables",
+    "url": "category.html?universe=vegetables&path=legumes_and_pod_vegetables"
+  },
+  {
+    "name": "Fungi (Edible Mushrooms)",
+    "id": "fungi_edible_mushrooms",
+    "type": "category",
+    "universe": "vegetables",
+    "path": "",
+    "parent": "Vegetables",
+    "url": "category.html?universe=vegetables&path=fungi_edible_mushrooms"
+  },
+  {
+    "name": "Sea Vegetables",
+    "id": "sea_vegetables",
+    "type": "category",
+    "universe": "vegetables",
+    "path": "",
+    "parent": "Vegetables",
+    "url": "category.html?universe=vegetables&path=sea_vegetables"
+  },
+  {
+    "name": "Herbs (Culinary Leaves)",
+    "id": "herbs_culinary_leaves",
+    "type": "category",
+    "universe": "vegetables",
+    "path": "",
+    "parent": "Vegetables",
+    "url": "category.html?universe=vegetables&path=herbs_culinary_leaves"
+  },
+  {
+    "name": "Exotic & Rare Vegetables",
+    "id": "exotic_and_rare_vegetables",
+    "type": "category",
+    "universe": "vegetables",
+    "path": "",
+    "parent": "Vegetables",
+    "url": "category.html?universe=vegetables&path=exotic_and_rare_vegetables"
+  },
+  {
     "name": "Cars",
     "id": "cars",
     "type": "category",
