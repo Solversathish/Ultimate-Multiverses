@@ -12654,6 +12654,339 @@
     "url": "category.html?universe=vegetables&path=leafy_vegetables"
   },
   {
+    "name": "Amaranth Leaves",
+    "id": "amaranth_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=amaranth_leaves"
+  },
+  {
+    "name": "Arugula",
+    "id": "arugula",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=arugula"
+  },
+  {
+    "name": "Basil Leaves",
+    "id": "basil_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=basil_leaves"
+  },
+  {
+    "name": "Beet Greens",
+    "id": "beet_greens",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=beet_greens"
+  },
+  {
+    "name": "Bok Choy",
+    "id": "bok_choy",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=bok_choy"
+  },
+  {
+    "name": "Cabbage",
+    "id": "cabbage",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=cabbage"
+  },
+  {
+    "name": "Cassava Leaves",
+    "id": "cassava_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=cassava_leaves"
+  },
+  {
+    "name": "Chicory",
+    "id": "chicory",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=chicory"
+  },
+  {
+    "name": "Chinese Spinach",
+    "id": "chinese_spinach",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=chinese_spinach"
+  },
+  {
+    "name": "Collard Greens",
+    "id": "collard_greens",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=collard_greens"
+  },
+  {
+    "name": "Coriander Leaves",
+    "id": "coriander_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=coriander_leaves"
+  },
+  {
+    "name": "Curry Leaves",
+    "id": "curry_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=curry_leaves"
+  },
+  {
+    "name": "Dill Leaves",
+    "id": "dill_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=dill_leaves"
+  },
+  {
+    "name": "Endive",
+    "id": "endive",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=endive"
+  },
+  {
+    "name": "Fenugreek Leaves",
+    "id": "fenugreek_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=fenugreek_leaves"
+  },
+  {
+    "name": "Kale",
+    "id": "kale",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=kale"
+  },
+  {
+    "name": "Lamb’s Lettuce",
+    "id": "lambs_lettuce",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=lambs_lettuce"
+  },
+  {
+    "name": "Lettuce",
+    "id": "lettuce",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=lettuce"
+  },
+  {
+    "name": "Malabar Spinach",
+    "id": "malabar_spinach",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=malabar_spinach"
+  },
+  {
+    "name": "Mint Leaves",
+    "id": "mint_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=mint_leaves"
+  },
+  {
+    "name": "Mustard Greens",
+    "id": "mustard_greens",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=mustard_greens"
+  },
+  {
+    "name": "Napa Cabbage",
+    "id": "napa_cabbage",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=napa_cabbage"
+  },
+  {
+    "name": "New Zealand Spinach",
+    "id": "new_zealand_spinach",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=new_zealand_spinach"
+  },
+  {
+    "name": "Oregano Leaves",
+    "id": "oregano_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=oregano_leaves"
+  },
+  {
+    "name": "Parsley",
+    "id": "parsley",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=parsley"
+  },
+  {
+    "name": "Purslane",
+    "id": "purslane",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=purslane"
+  },
+  {
+    "name": "Radish Leaves",
+    "id": "radish_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=radish_leaves"
+  },
+  {
+    "name": "Red Spinach",
+    "id": "red_spinach",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=red_spinach"
+  },
+  {
+    "name": "Rosemary Leaves",
+    "id": "rosemary_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=rosemary_leaves"
+  },
+  {
+    "name": "Sage Leaves",
+    "id": "sage_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=sage_leaves"
+  },
+  {
+    "name": "Sorrel",
+    "id": "sorrel",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=sorrel"
+  },
+  {
+    "name": "Spinach",
+    "id": "spinach",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=spinach"
+  },
+  {
+    "name": "Swiss Chard",
+    "id": "swiss_chard",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=swiss_chard"
+  },
+  {
+    "name": "Thyme Leaves",
+    "id": "thyme_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=thyme_leaves"
+  },
+  {
+    "name": "Turnip Greens",
+    "id": "turnip_greens",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=turnip_greens"
+  },
+  {
+    "name": "Water Spinach",
+    "id": "water_spinach",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=water_spinach"
+  },
+  {
+    "name": "Watercress",
+    "id": "watercress",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "leafy_vegetables",
+    "parent": "Leafy Vegetables",
+    "url": "entity.html?universe=vegetables&path=leafy_vegetables&id=watercress"
+  },
+  {
     "name": "Fruit Vegetables",
     "id": "fruit_vegetables",
     "type": "category",
@@ -12661,6 +12994,195 @@
     "path": "",
     "parent": "Vegetables",
     "url": "category.html?universe=vegetables&path=fruit_vegetables"
+  },
+  {
+    "name": "Ash Gourd",
+    "id": "ash_gourd",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=ash_gourd"
+  },
+  {
+    "name": "Bitter Gourd",
+    "id": "bitter_gourd",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=bitter_gourd"
+  },
+  {
+    "name": "Bottle Gourd",
+    "id": "bottle_gourd",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=bottle_gourd"
+  },
+  {
+    "name": "Brinjal (Eggplant)",
+    "id": "brinjal",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=brinjal"
+  },
+  {
+    "name": "Capsicum (Bell Pepper)",
+    "id": "capsicum",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=capsicum"
+  },
+  {
+    "name": "Chayote",
+    "id": "chayote",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=chayote"
+  },
+  {
+    "name": "Chili Pepper",
+    "id": "chili_pepper",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=chili_pepper"
+  },
+  {
+    "name": "Cucumber",
+    "id": "cucumber",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=cucumber"
+  },
+  {
+    "name": "Green Papaya",
+    "id": "green_papaya",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=green_papaya"
+  },
+  {
+    "name": "Ivy Gourd",
+    "id": "ivy_gourd",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=ivy_gourd"
+  },
+  {
+    "name": "Kakrol",
+    "id": "kakrol",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=kakrol"
+  },
+  {
+    "name": "Kundru",
+    "id": "kundru",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=kundru"
+  },
+  {
+    "name": "Okra",
+    "id": "okra",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=okra"
+  },
+  {
+    "name": "Parwal (Pointed Gourd)",
+    "id": "parwal",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=parwal"
+  },
+  {
+    "name": "Pumpkin",
+    "id": "pumpkin",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=pumpkin"
+  },
+  {
+    "name": "Ridge Gourd",
+    "id": "ridge_gourd",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=ridge_gourd"
+  },
+  {
+    "name": "Snake Gourd",
+    "id": "snake_gourd",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=snake_gourd"
+  },
+  {
+    "name": "Spaghetti Squash",
+    "id": "spaghetti_squash",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=spaghetti_squash"
+  },
+  {
+    "name": "Tinda (Apple Gourd)",
+    "id": "tinda",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=tinda"
+  },
+  {
+    "name": "Tomato",
+    "id": "tomato",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=tomato"
+  },
+  {
+    "name": "Zucchini",
+    "id": "zucchini",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "fruit_vegetables",
+    "parent": "Fruit Vegetables",
+    "url": "entity.html?universe=vegetables&path=fruit_vegetables&id=zucchini"
   },
   {
     "name": "Stem Vegetables",
@@ -12672,6 +13194,87 @@
     "url": "category.html?universe=vegetables&path=stem_vegetables"
   },
   {
+    "name": "Asparagus",
+    "id": "asparagus",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "stem_vegetables",
+    "parent": "Stem Vegetables",
+    "url": "entity.html?universe=vegetables&path=stem_vegetables&id=asparagus"
+  },
+  {
+    "name": "Bamboo Shoots",
+    "id": "bamboo_shoots",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "stem_vegetables",
+    "parent": "Stem Vegetables",
+    "url": "entity.html?universe=vegetables&path=stem_vegetables&id=bamboo_shoots"
+  },
+  {
+    "name": "Banana Stem",
+    "id": "banana_stem",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "stem_vegetables",
+    "parent": "Stem Vegetables",
+    "url": "entity.html?universe=vegetables&path=stem_vegetables&id=banana_stem"
+  },
+  {
+    "name": "Celery",
+    "id": "celery",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "stem_vegetables",
+    "parent": "Stem Vegetables",
+    "url": "entity.html?universe=vegetables&path=stem_vegetables&id=celery"
+  },
+  {
+    "name": "Fennel",
+    "id": "fennel",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "stem_vegetables",
+    "parent": "Stem Vegetables",
+    "url": "entity.html?universe=vegetables&path=stem_vegetables&id=fennel"
+  },
+  {
+    "name": "Kohlrabi",
+    "id": "kohlrabi",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "stem_vegetables",
+    "parent": "Stem Vegetables",
+    "url": "entity.html?universe=vegetables&path=stem_vegetables&id=kohlrabi"
+  },
+  {
+    "name": "Lotus Stem",
+    "id": "lotus_stem",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "stem_vegetables",
+    "parent": "Stem Vegetables",
+    "url": "entity.html?universe=vegetables&path=stem_vegetables&id=lotus_stem"
+  },
+  {
+    "name": "Rhubarb",
+    "id": "rhubarb",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "stem_vegetables",
+    "parent": "Stem Vegetables",
+    "url": "entity.html?universe=vegetables&path=stem_vegetables&id=rhubarb"
+  },
+  {
+    "name": "Sugarcane",
+    "id": "sugarcane",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "stem_vegetables",
+    "parent": "Stem Vegetables",
+    "url": "entity.html?universe=vegetables&path=stem_vegetables&id=sugarcane"
+  },
+  {
     "name": "Flower Vegetables",
     "id": "flower_vegetables",
     "type": "category",
@@ -12679,6 +13282,69 @@
     "path": "",
     "parent": "Vegetables",
     "url": "category.html?universe=vegetables&path=flower_vegetables"
+  },
+  {
+    "name": "Artichoke",
+    "id": "artichoke",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "flower_vegetables",
+    "parent": "Flower Vegetables",
+    "url": "entity.html?universe=vegetables&path=flower_vegetables&id=artichoke"
+  },
+  {
+    "name": "Banana Flower",
+    "id": "banana_flower",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "flower_vegetables",
+    "parent": "Flower Vegetables",
+    "url": "entity.html?universe=vegetables&path=flower_vegetables&id=banana_flower"
+  },
+  {
+    "name": "Broccoli",
+    "id": "broccoli",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "flower_vegetables",
+    "parent": "Flower Vegetables",
+    "url": "entity.html?universe=vegetables&path=flower_vegetables&id=broccoli"
+  },
+  {
+    "name": "Cauliflower",
+    "id": "cauliflower",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "flower_vegetables",
+    "parent": "Flower Vegetables",
+    "url": "entity.html?universe=vegetables&path=flower_vegetables&id=cauliflower"
+  },
+  {
+    "name": "Drumstick Flower",
+    "id": "drumstick_flower",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "flower_vegetables",
+    "parent": "Flower Vegetables",
+    "url": "entity.html?universe=vegetables&path=flower_vegetables&id=drumstick_flower"
+  },
+  {
+    "name": "Pumpkin Flower",
+    "id": "pumpkin_flower",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "flower_vegetables",
+    "parent": "Flower Vegetables",
+    "url": "entity.html?universe=vegetables&path=flower_vegetables&id=pumpkin_flower"
+  },
+  {
+    "name": "Zucchini Flower",
+    "id": "zucchini_flower",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "flower_vegetables",
+    "parent": "Flower Vegetables",
+    "url": "entity.html?universe=vegetables&path=flower_vegetables&id=zucchini_flower"
   },
   {
     "name": "Legumes / Pod Vegetables",
@@ -12690,13 +13356,238 @@
     "url": "category.html?universe=vegetables&path=legumes_and_pod_vegetables"
   },
   {
-    "name": "Fungi (Edible Mushrooms)",
-    "id": "fungi_edible_mushrooms",
+    "name": "Broad Beans",
+    "id": "broad_beans",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=broad_beans"
+  },
+  {
+    "name": "Chickpeas (Green)",
+    "id": "chickpeas_green",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=chickpeas_green"
+  },
+  {
+    "name": "Cluster Beans",
+    "id": "cluster_beans",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=cluster_beans"
+  },
+  {
+    "name": "Fava Beans",
+    "id": "fava_beans",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=fava_beans"
+  },
+  {
+    "name": "French Beans",
+    "id": "french_beans",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=french_beans"
+  },
+  {
+    "name": "Green Beans",
+    "id": "green_beans",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=green_beans"
+  },
+  {
+    "name": "Green Peas",
+    "id": "green_peas",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=green_peas"
+  },
+  {
+    "name": "Hyacinth Beans",
+    "id": "hyacinth_beans",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=hyacinth_beans"
+  },
+  {
+    "name": "Lima Beans",
+    "id": "lima_beans",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=lima_beans"
+  },
+  {
+    "name": "Mung Bean Sprouts",
+    "id": "mung_bean_sprouts",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=mung_bean_sprouts"
+  },
+  {
+    "name": "Pea Pods",
+    "id": "pea_pods",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=pea_pods"
+  },
+  {
+    "name": "Snow Peas",
+    "id": "snow_peas",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=snow_peas"
+  },
+  {
+    "name": "Soybeans (Edamame)",
+    "id": "soybeans_edamame",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=soybeans_edamame"
+  },
+  {
+    "name": "Sugar Snap Peas",
+    "id": "sugar_snap_peas",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=sugar_snap_peas"
+  },
+  {
+    "name": "Winged Beans",
+    "id": "winged_beans",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=winged_beans"
+  },
+  {
+    "name": "Yardlong Beans",
+    "id": "yardlong_beans",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "legumes_and_pod_vegetables",
+    "parent": "Legumes / Pod Vegetables",
+    "url": "entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=yardlong_beans"
+  },
+  {
+    "name": "Mushroom Vegetables",
+    "id": "mushroom_vegetables",
     "type": "category",
     "universe": "vegetables",
     "path": "",
     "parent": "Vegetables",
-    "url": "category.html?universe=vegetables&path=fungi_edible_mushrooms"
+    "url": "category.html?universe=vegetables&path=mushroom_vegetables"
+  },
+  {
+    "name": "Button Mushroom",
+    "id": "button_mushroom",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "mushroom_vegetables",
+    "parent": "Mushroom Vegetables",
+    "url": "entity.html?universe=vegetables&path=mushroom_vegetables&id=button_mushroom"
+  },
+  {
+    "name": "Chanterelle Mushroom",
+    "id": "chanterelle_mushroom",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "mushroom_vegetables",
+    "parent": "Mushroom Vegetables",
+    "url": "entity.html?universe=vegetables&path=mushroom_vegetables&id=chanterelle_mushroom"
+  },
+  {
+    "name": "Cremini Mushroom",
+    "id": "cremini_mushroom",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "mushroom_vegetables",
+    "parent": "Mushroom Vegetables",
+    "url": "entity.html?universe=vegetables&path=mushroom_vegetables&id=cremini_mushroom"
+  },
+  {
+    "name": "Enoki Mushroom",
+    "id": "enoki_mushroom",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "mushroom_vegetables",
+    "parent": "Mushroom Vegetables",
+    "url": "entity.html?universe=vegetables&path=mushroom_vegetables&id=enoki_mushroom"
+  },
+  {
+    "name": "Morel Mushroom",
+    "id": "morel_mushroom",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "mushroom_vegetables",
+    "parent": "Mushroom Vegetables",
+    "url": "entity.html?universe=vegetables&path=mushroom_vegetables&id=morel_mushroom"
+  },
+  {
+    "name": "Oyster Mushroom",
+    "id": "oyster_mushroom",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "mushroom_vegetables",
+    "parent": "Mushroom Vegetables",
+    "url": "entity.html?universe=vegetables&path=mushroom_vegetables&id=oyster_mushroom"
+  },
+  {
+    "name": "Portobello Mushroom",
+    "id": "portobello_mushroom",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "mushroom_vegetables",
+    "parent": "Mushroom Vegetables",
+    "url": "entity.html?universe=vegetables&path=mushroom_vegetables&id=portobello_mushroom"
+  },
+  {
+    "name": "Shiitake Mushroom",
+    "id": "shiitake_mushroom",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "mushroom_vegetables",
+    "parent": "Mushroom Vegetables",
+    "url": "entity.html?universe=vegetables&path=mushroom_vegetables&id=shiitake_mushroom"
+  },
+  {
+    "name": "Wood Ear Mushroom",
+    "id": "wood_ear_mushroom",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "mushroom_vegetables",
+    "parent": "Mushroom Vegetables",
+    "url": "entity.html?universe=vegetables&path=mushroom_vegetables&id=wood_ear_mushroom"
   },
   {
     "name": "Sea Vegetables",
@@ -12708,6 +13599,87 @@
     "url": "category.html?universe=vegetables&path=sea_vegetables"
   },
   {
+    "name": "Agar (Agar-Agar)",
+    "id": "agar",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "sea_vegetables",
+    "parent": "Sea Vegetables",
+    "url": "entity.html?universe=vegetables&path=sea_vegetables&id=agar"
+  },
+  {
+    "name": "Dulse",
+    "id": "dulse",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "sea_vegetables",
+    "parent": "Sea Vegetables",
+    "url": "entity.html?universe=vegetables&path=sea_vegetables&id=dulse"
+  },
+  {
+    "name": "Hijiki",
+    "id": "hijiki",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "sea_vegetables",
+    "parent": "Sea Vegetables",
+    "url": "entity.html?universe=vegetables&path=sea_vegetables&id=hijiki"
+  },
+  {
+    "name": "Irish Moss",
+    "id": "irish_moss",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "sea_vegetables",
+    "parent": "Sea Vegetables",
+    "url": "entity.html?universe=vegetables&path=sea_vegetables&id=irish_moss"
+  },
+  {
+    "name": "Kelp",
+    "id": "kelp",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "sea_vegetables",
+    "parent": "Sea Vegetables",
+    "url": "entity.html?universe=vegetables&path=sea_vegetables&id=kelp"
+  },
+  {
+    "name": "Kombu",
+    "id": "kombu",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "sea_vegetables",
+    "parent": "Sea Vegetables",
+    "url": "entity.html?universe=vegetables&path=sea_vegetables&id=kombu"
+  },
+  {
+    "name": "Nori",
+    "id": "nori",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "sea_vegetables",
+    "parent": "Sea Vegetables",
+    "url": "entity.html?universe=vegetables&path=sea_vegetables&id=nori"
+  },
+  {
+    "name": "Sea Grapes",
+    "id": "sea_grapes",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "sea_vegetables",
+    "parent": "Sea Vegetables",
+    "url": "entity.html?universe=vegetables&path=sea_vegetables&id=sea_grapes"
+  },
+  {
+    "name": "Wakame",
+    "id": "wakame",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "sea_vegetables",
+    "parent": "Sea Vegetables",
+    "url": "entity.html?universe=vegetables&path=sea_vegetables&id=wakame"
+  },
+  {
     "name": "Herbs (Culinary Leaves)",
     "id": "herbs_culinary_leaves",
     "type": "category",
@@ -12717,6 +13689,132 @@
     "url": "category.html?universe=vegetables&path=herbs_culinary_leaves"
   },
   {
+    "name": "Basil Leaves",
+    "id": "basil_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=basil_leaves"
+  },
+  {
+    "name": "Bay Leaves",
+    "id": "bay_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=bay_leaves"
+  },
+  {
+    "name": "Chives",
+    "id": "chives",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=chives"
+  },
+  {
+    "name": "Coriander Leaves (Cilantro)",
+    "id": "coriander_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=coriander_leaves"
+  },
+  {
+    "name": "Curry Leaves",
+    "id": "curry_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=curry_leaves"
+  },
+  {
+    "name": "Dill Leaves",
+    "id": "dill_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=dill_leaves"
+  },
+  {
+    "name": "Lemongrass",
+    "id": "lemongrass",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=lemongrass"
+  },
+  {
+    "name": "Mint Leaves",
+    "id": "mint_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=mint_leaves"
+  },
+  {
+    "name": "Oregano Leaves",
+    "id": "oregano_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=oregano_leaves"
+  },
+  {
+    "name": "Parsley",
+    "id": "parsley",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=parsley"
+  },
+  {
+    "name": "Rosemary Leaves",
+    "id": "rosemary_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=rosemary_leaves"
+  },
+  {
+    "name": "Sage Leaves",
+    "id": "sage_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=sage_leaves"
+  },
+  {
+    "name": "Tarragon",
+    "id": "tarragon",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=tarragon"
+  },
+  {
+    "name": "Thyme Leaves",
+    "id": "thyme_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "herbs_culinary_leaves",
+    "parent": "Herbs (Culinary Leaves)",
+    "url": "entity.html?universe=vegetables&path=herbs_culinary_leaves&id=thyme_leaves"
+  },
+  {
     "name": "Exotic & Rare Vegetables",
     "id": "exotic_and_rare_vegetables",
     "type": "category",
@@ -12724,6 +13822,141 @@
     "path": "",
     "parent": "Vegetables",
     "url": "category.html?universe=vegetables&path=exotic_and_rare_vegetables"
+  },
+  {
+    "name": "Amaranth Root",
+    "id": "amaranth_root",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=amaranth_root"
+  },
+  {
+    "name": "Banana Blossom Stem",
+    "id": "banana_blossom_stem",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=banana_blossom_stem"
+  },
+  {
+    "name": "Breadfruit (Unripe)",
+    "id": "breadfruit_unripe",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=breadfruit_unripe"
+  },
+  {
+    "name": "Buddha’s Hand",
+    "id": "buddhas_hand",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=buddhas_hand"
+  },
+  {
+    "name": "Celtuce",
+    "id": "celtuce",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=celtuce"
+  },
+  {
+    "name": "Chayote Root",
+    "id": "chayote_root",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=chayote_root"
+  },
+  {
+    "name": "Fiddlehead Ferns",
+    "id": "fiddlehead_ferns",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=fiddlehead_ferns"
+  },
+  {
+    "name": "Kohlrabi (Purple)",
+    "id": "kohlrabi_purple",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=kohlrabi_purple"
+  },
+  {
+    "name": "Malanga Root",
+    "id": "malanga_root",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=malanga_root"
+  },
+  {
+    "name": "Romanesco Broccoli",
+    "id": "romanesco_broccoli",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=romanesco_broccoli"
+  },
+  {
+    "name": "Sunchoke (Jerusalem Artichoke)",
+    "id": "sunchoke",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=sunchoke"
+  },
+  {
+    "name": "Taro Leaves",
+    "id": "taro_leaves",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=taro_leaves"
+  },
+  {
+    "name": "Ulluco",
+    "id": "ulluco",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=ulluco"
+  },
+  {
+    "name": "Water Chestnut",
+    "id": "water_chestnut",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=water_chestnut"
+  },
+  {
+    "name": "White Asparagus",
+    "id": "white_asparagus",
+    "type": "entity",
+    "universe": "vegetables",
+    "path": "exotic_and_rare_vegetables",
+    "parent": "Exotic & Rare Vegetables",
+    "url": "entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=white_asparagus"
   },
   {
     "name": "Cars",

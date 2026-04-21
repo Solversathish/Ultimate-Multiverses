@@ -42,10 +42,10 @@
     "parent": "vegetables"
   },
   {
-    "id": "fungi_edible_mushrooms",
-    "name": "Fungi (Edible Mushrooms)",
+    "id": "mushroom_vegetables",
+    "name": "Mushroom Vegetables",
     "type": "category",
-    "url": "category.html?universe=vegetables&path=fungi_edible_mushrooms",
+    "url": "category.html?universe=vegetables&path=mushroom_vegetables",
     "parent": "vegetables"
   },
   {

@@ -1,0 +1,211 @@
+[
+{
+"id":"basil_leaves",
+"name":"Basil Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=basil_leaves",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"Asia","Nutrients:":"Vitamin K / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Basil leaves are aromatic herbs_culinary_leaves widely used in cooking.</li><li>They have a sweet and slightly spicy flavor.</li><li>Used in Italian and Indian cuisines.</li><li>Often added fresh to dishes.</li><li>Known for medicinal benefits.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Reduces stress</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Holy basil is sacred in India.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"bay_leaves",
+"name":"Bay Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=bay_leaves",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"Mediterranean","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Bay leaves are dried leaves used for flavoring dishes.</li><li>They have a strong aroma.</li><li>Used in soups, curries, and stews.</li><li>Removed before serving.</li><li>Common in global cuisines.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Not eaten directly due to tough texture.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chives",
+"name":"Chives",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=chives",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"Europe","Nutrients:":"Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Chives are thin green herbs_culinary_leaves with a mild onion flavor.</li><li>Used in salads and garnishing.</li><li>Popular in Western cuisine.</li><li>Best used fresh.</li><li>Delicate in taste.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Related to onions and garlic.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"coriander_leaves",
+"name":"Coriander Leaves (Cilantro)",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=coriander_leaves",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"Asia","Nutrients:":"Vitamin C / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Coriander leaves are widely used as garnish and flavoring.</li><li>They have a fresh citrus-like taste.</li><li>Common in Indian and global cuisines.</li><li>Used in chutneys and salads.</li><li>Adds aroma to dishes.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Detoxifies body</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called cilantro.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"curry_leaves",
+"name":"Curry Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=curry_leaves",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"India","Nutrients:":"Iron / Calcium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Curry leaves are aromatic herbs_culinary_leaves used in Indian cooking.</li><li>They add a distinct flavor to dishes.</li><li>Used in tempering and curries.</li><li>Have medicinal properties.</li><li>Essential in South Indian cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Supports hair health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in Ayurvedic medicine.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"dill_leaves",
+"name":"Dill Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=dill_leaves",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"Mediterranean","Nutrients:":"Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Dill leaves are aromatic herbs_culinary_leaves with a fresh flavor.</li><li>Used in salads, soups, and pickles.</li><li>Popular in European cuisine.</li><li>Often used fresh.</li><li>Nutritious and flavorful.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called dill weed.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"lemongrass",
+"name":"Lemongrass",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=lemongrass",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"Asia","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Lemongrass is a fragrant herb with a citrus flavor.</li><li>Used in soups, teas, and curries.</li><li>Popular in Asian cuisine.</li><li>Used fresh or dried.</li><li>Highly aromatic.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Reduces inflammation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in herbal teas.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mint_leaves",
+"name":"Mint Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=mint_leaves",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"Europe","Nutrients:":"Vitamin A","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Mint leaves are refreshing herbs_culinary_leaves with a cooling effect.</li><li>Used in drinks, chutneys, and dishes.</li><li>Popular worldwide.</li><li>Also used medicinally.</li><li>Provides fresh aroma.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Aids digestion</li><li>Freshens breath</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in teas and beverages.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"oregano_leaves",
+"name":"Oregano Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=oregano_leaves",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"Mediterranean","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Oregano is a strong-flavored herb used in cooking.</li><li>Common in Italian dishes.</li><li>Used in pizzas and sauces.</li><li>Highly aromatic.</li><li>Used dried or fresh.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Popular seasoning worldwide.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"parsley",
+"name":"Parsley",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=parsley",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"Mediterranean","Nutrients:":"Vitamin C / Vitamin K","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Parsley is a widely used herb for garnish and flavor.</li><li>It has a mild peppery taste.</li><li>Used in salads and sauces.</li><li>Common in global cuisine.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often used as garnish.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rosemary_leaves",
+"name":"Rosemary Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=rosemary_leaves",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"Mediterranean","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Rosemary is a woody herb with strong aroma.</li><li>Used in roasted dishes and meats.</li><li>Popular in Mediterranean cuisine.</li><li>Used fresh or dried.</li><li>Has medicinal properties.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves memory</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in herbal medicine.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sage_leaves",
+"name":"Sage Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=sage_leaves",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"Mediterranean","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Sage is an aromatic herb with a slightly bitter taste.</li><li>Used in savory dishes.</li><li>Popular in European cuisine.</li><li>Used fresh or dried.</li><li>Known for medicinal uses.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in traditional medicine.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"tarragon",
+"name":"Tarragon",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=tarragon",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"Europe","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Tarragon is a herb with a slightly sweet and licorice-like flavor.</li><li>Used in sauces and salads.</li><li>Popular in French cuisine.</li><li>Used fresh or dried.</li><li>Highly aromatic.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Key ingredient in French dishes.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"thyme_leaves",
+"name":"Thyme Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=herbs_culinary_leaves&id=thyme_leaves",
+"parent":"herbs_culinary_leaves",
+"info":{"Category:":"Herb","Origin:":"Mediterranean","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Thyme is a small aromatic herb used in cooking.</li><li>It has a strong earthy flavor.</li><li>Used in soups and meats.</li><li>Popular in Mediterranean cuisine.</li><li>Also used medicinally.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used since ancient times.</li></ul>"}
+},
+"gallery_count":5
+}
+]

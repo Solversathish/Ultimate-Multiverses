@@ -1,0 +1,316 @@
+[
+{
+"id":"ash_gourd",
+"name":"Ash Gourd",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=ash_gourd",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"Asia","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Ash gourd is a large fruit vegetable with a waxy outer layer.</li><li>It has a mild taste and high water content.</li><li>Used in curries, soups, and sweets.</li><li>Popular in Indian cuisine.</li><li>Known for its cooling properties.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Hydrates the body</li><li>Supports digestion</li><li>Helps in weight management</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called winter melon.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"bitter_gourd",
+"name":"Bitter Gourd",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=bitter_gourd",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"India","Nutrients:":"Vitamin C / Iron","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Bitter gourd is a green vegetable known for its strong bitter taste.</li><li>Widely used in Indian and Asian cooking.</li><li>It has a rough, textured surface.</li><li>Used in curries, stir-fries, and juices.</li><li>Highly valued for medicinal properties.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Controls blood sugar</li><li>Improves digestion</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in traditional medicine for diabetes.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"bottle_gourd",
+"name":"Bottle Gourd",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=bottle_gourd",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"Africa","Nutrients:":"Water / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Bottle gourd is a light green vegetable with high water content.</li><li>It has a mild taste.</li><li>Used in curries and soups.</li><li>Popular in Indian cooking.</li><li>Easy to digest.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Hydrates body</li><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also used to make utensils in ancient times.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"brinjal",
+"name":"Brinjal (Eggplant)",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=brinjal",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"India","Nutrients:":"Fiber / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Brinjal is a widely used vegetable also known as eggplant.</li><li>It comes in various shapes and colors.</li><li>Used in curries, roasted dishes, and fried recipes.</li><li>It has a soft texture when cooked.</li><li>Popular worldwide.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports heart health</li><li>Rich in antioxidants</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called aubergine.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"capsicum",
+"name":"Capsicum (Bell Pepper)",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=capsicum",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"Central America","Nutrients:":"Vitamin C / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Capsicum is a colorful vegetable available in red, green, and yellow varieties.</li><li>It has a sweet and mild flavor.</li><li>Used in salads, stir-fries, and pizzas.</li><li>Rich in vitamins.</li><li>Widely used in global cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Improves skin health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Low in calories and high in nutrients.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chayote",
+"name":"Chayote",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=chayote",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"Mexico","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Chayote is a light green fruit vegetable with a mild taste.</li><li>It has a crisp texture.</li><li>Used in salads and cooked dishes.</li><li>Popular in Latin American cuisine.</li><li>Low in calories.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Helps weight management</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called vegetable pear.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chili_pepper",
+"name":"Chili Pepper",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=chili_pepper",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"Mexico","Nutrients:":"Vitamin C / Capsaicin","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Chili pepper is a spicy fruit vegetable used worldwide.</li><li>It adds heat and flavor to dishes.</li><li>Available in many varieties.</li><li>Used fresh or dried.</li><li>Essential in many cuisines.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts metabolism</li><li>Improves circulation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Spiciness measured in Scoville units.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"cucumber",
+"name":"Cucumber",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=cucumber",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"India","Nutrients:":"Water / Vitamin K","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Cucumber is a refreshing vegetable with high water content.</li><li>It has a mild taste.</li><li>Used in salads and juices.</li><li>Helps in hydration.</li><li>Popular worldwide.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Hydrates the body</li><li>Supports skin health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Contains over 90% water.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"green_papaya",
+"name":"Green Papaya",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=green_papaya",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"Central America","Nutrients:":"Enzymes / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Green papaya is the unripe form of papaya fruit.</li><li>It is used as a vegetable in cooking.</li><li>Common in salads and curries.</li><li>Contains digestive enzymes.</li><li>Popular in Asian cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Supports gut health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in Thai papaya salad.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ivy_gourd",
+"name":"Ivy Gourd",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=ivy_gourd",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"Asia","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Ivy gourd is a small green vegetable used in Indian cooking.</li><li>It has a slightly crunchy texture.</li><li>Used in stir-fries and curries.</li><li>It is nutritious and easy to cook.</li><li>Common in South Asian cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Controls blood sugar</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called tindora.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"kakrol",
+"name":"Kakrol",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=kakrol",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"India","Nutrients:":"Fiber / Vitamins","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Kakrol is a spiny fruit vegetable used in Indian cuisine.</li><li>It has a unique appearance and texture.</li><li>Used in curries and fried dishes.</li><li>Rich in nutrients.</li><li>Popular in regional dishes.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called spiny gourd.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"kundru",
+"name":"Kundru",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=kundru",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"India","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Kundru is a small green vegetable commonly used in Indian cooking.</li><li>It has a mild taste and crunchy texture.</li><li>Used in stir-fries and curries.</li><li>Highly nutritious.</li><li>Popular in South Asian cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Controls blood sugar</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called ivy gourd in some regions.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"okra",
+"name":"Okra",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=okra",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"Africa","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Okra is a green vegetable known for its slimy texture when cooked.</li><li>Used in curries, soups, and fried dishes.</li><li>It has a mild flavor.</li><li>Popular in many cuisines worldwide.</li><li>Also called lady’s finger.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Supports heart health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Contains natural thickening agents.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"parwal",
+"name":"Parwal (Pointed Gourd)",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=parwal",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"India","Nutrients:":"Fiber / Vitamins","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Parwal is a small green vegetable widely used in Indian cuisine.</li><li>It has a mild flavor.</li><li>Used in curries and stuffed dishes.</li><li>Easy to cook and digest.</li><li>Popular in North India.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called pointed gourd.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"pumpkin",
+"name":"Pumpkin",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=pumpkin",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"North America","Nutrients:":"Vitamin A / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Pumpkin is a large fruit vegetable with bright orange flesh.</li><li>It has a sweet taste.</li><li>Used in soups, curries, and desserts.</li><li>Highly nutritious.</li><li>Popular worldwide.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves vision</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in Halloween traditions.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ridge_gourd",
+"name":"Ridge Gourd",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=ridge_gourd",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"Asia","Nutrients:":"Fiber / Water","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Ridge gourd is a green vegetable with ridged skin.</li><li>It has a soft texture when cooked.</li><li>Used in curries and chutneys.</li><li>Light and easy to digest.</li><li>Common in Indian cooking.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Hydrates body</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called luffa.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"snake_gourd",
+"name":"Snake Gourd",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=snake_gourd",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"India","Nutrients:":"Fiber / Vitamins","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Snake gourd is a long, slender vegetable.</li><li>It has a mild taste.</li><li>Used in curries and stir-fries.</li><li>Easy to digest.</li><li>Common in South Indian cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Helps detoxification</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Named for its snake-like shape.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"spaghetti_squash",
+"name":"Spaghetti Squash",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=spaghetti_squash",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"America","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Spaghetti squash is a unique vegetable with stringy flesh.</li><li>When cooked, it resembles spaghetti.</li><li>Used as a pasta substitute.</li><li>Low in calories.</li><li>Popular in healthy diets.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports weight loss</li><li>Low calorie</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used as a healthy pasta alternative.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"tinda",
+"name":"Tinda (Apple Gourd)",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=tinda",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"India","Nutrients:":"Water / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Tinda is a small round vegetable commonly used in Indian cooking.</li><li>It has a mild taste.</li><li>Used in curries and stews.</li><li>Easy to digest.</li><li>Popular in North India.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Hydrates body</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called apple gourd.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"tomato",
+"name":"Tomato",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=tomato",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"South America","Nutrients:":"Vitamin C / Lycopene","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Tomato is one of the most widely used fruit vegetables.</li><li>It has a juicy texture and tangy flavor.</li><li>Used in sauces, salads, and curries.</li><li>Rich in antioxidants.</li><li>Essential in global cuisines.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports heart health</li><li>Improves skin health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Technically a fruit but used as a vegetable.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"zucchini",
+"name":"Zucchini",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=fruit_vegetables&id=zucchini",
+"parent":"fruit_vegetables",
+"info":{"Category:":"Fruit Vegetable","Origin:":"Italy","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Zucchini is a soft-skinned vegetable similar to cucumber.</li><li>It has a mild flavor.</li><li>Used in stir-fries, soups, and grilled dishes.</li><li>Low in calories.</li><li>Popular in Mediterranean cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Helps weight management</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called courgette.</li></ul>"}
+},
+"gallery_count":5
+}
+]

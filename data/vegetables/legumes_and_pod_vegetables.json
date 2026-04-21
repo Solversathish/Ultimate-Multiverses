@@ -1,0 +1,241 @@
+[
+{
+"id":"broad_beans",
+"name":"Broad Beans",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=broad_beans",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"Mediterranean","Nutrients:":"Protein / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Broad beans are large flat beans widely used in cooking.</li><li>They have a slightly nutty flavor.</li><li>Used in soups, stews, and salads.</li><li>Popular in Mediterranean cuisine.</li><li>Rich in protein and fiber.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports muscle growth</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called fava beans.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chickpeas_green",
+"name":"Chickpeas (Green)",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=chickpeas_green",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"Middle East","Nutrients:":"Protein / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Green chickpeas are fresh, unprocessed chickpeas.</li><li>They have a soft texture and mild taste.</li><li>Used in curries and roasted snacks.</li><li>Popular in Indian cuisine.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Rich in protein</li><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called chana.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"cluster_beans",
+"name":"Cluster Beans",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=cluster_beans",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"India","Nutrients:":"Fiber / Iron","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Cluster beans are long pods used in Indian cooking.</li><li>They have a slightly bitter taste.</li><li>Used in curries and stir-fries.</li><li>Rich in fiber.</li><li>Common in Rajasthan cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Controls blood sugar</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called guar beans.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"fava_beans",
+"name":"Fava Beans",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=fava_beans",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"Mediterranean","Nutrients:":"Protein / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Fava beans are large, flat beans commonly used worldwide.</li><li>They have a creamy texture.</li><li>Used in stews and salads.</li><li>Popular in Middle Eastern cuisine.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports muscle health</li><li>Rich in protein</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Same as broad beans.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"french_beans",
+"name":"French Beans",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=french_beans",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"Central America","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>French beans are thin green pods widely used in cooking.</li><li>They have a crisp texture.</li><li>Used in stir-fries and salads.</li><li>Popular worldwide.</li><li>Easy to cook.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called green beans.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"green_beans",
+"name":"Green Beans",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=green_beans",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"America","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Green beans are tender pods eaten whole.</li><li>They have a mild flavor.</li><li>Used in salads and cooked dishes.</li><li>Popular worldwide.</li><li>Low in calories.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Improves heart health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called snap beans.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"green_peas",
+"name":"Green Peas",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=green_peas",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"Europe","Nutrients:":"Protein / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Green peas are small round seeds inside pods.</li><li>They have a sweet taste.</li><li>Used in curries, soups, and salads.</li><li>Popular worldwide.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports muscle growth</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often frozen for storage.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"hyacinth_beans",
+"name":"Hyacinth Beans",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=hyacinth_beans",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"India","Nutrients:":"Protein / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Hyacinth beans are flat pods used in Indian cooking.</li><li>They have a slightly bitter taste.</li><li>Used in curries and stir-fries.</li><li>Nutritious and filling.</li><li>Common in South India.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called avarakkai.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"lima_beans",
+"name":"Lima Beans",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=lima_beans",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"South America","Nutrients:":"Protein / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Lima beans are flat beans with a buttery texture.</li><li>Used in soups and stews.</li><li>Popular in American cuisine.</li><li>Rich in nutrients.</li><li>Soft when cooked.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports muscle growth</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called butter beans.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mung_bean_sprouts",
+"name":"Mung Bean Sprouts",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=mung_bean_sprouts",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"Asia","Nutrients:":"Protein / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Mung bean sprouts are germinated beans used in salads and stir-fries.</li><li>They have a crunchy texture.</li><li>Common in Asian cuisine.</li><li>Low in calories.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Popular in Chinese dishes.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"pea_pods",
+"name":"Pea Pods",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=pea_pods",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"Europe","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Pea pods are edible pods that contain peas.</li><li>They have a crunchy texture.</li><li>Used in stir-fries and salads.</li><li>Sweet and fresh taste.</li><li>Nutritious and low in calories.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Entire pod is edible.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"snow_peas",
+"name":"Snow Peas",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=snow_peas",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"Asia","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Snow peas are flat edible pods.</li><li>They have a sweet flavor.</li><li>Used in stir-fries.</li><li>Popular in Asian cuisine.</li><li>Crunchy and fresh.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Pods are eaten before peas mature.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"soybeans_edamame",
+"name":"Soybeans (Edamame)",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=soybeans_edamame",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"China","Nutrients:":"Protein / Iron","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Edamame are young soybeans served in pods.</li><li>They have a mild, nutty flavor.</li><li>Popular in Japanese cuisine.</li><li>Used as a snack or side dish.</li><li>Rich in protein.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports muscle growth</li><li>Rich in protein</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Served steamed with salt.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sugar_snap_peas",
+"name":"Sugar Snap Peas",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=sugar_snap_peas",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"America","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Sugar snap peas are round pods with edible seeds.</li><li>They are sweet and crunchy.</li><li>Used in salads and stir-fries.</li><li>Popular in modern cuisine.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Cross between snow peas and garden peas.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"winged_beans",
+"name":"Winged Beans",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=winged_beans",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"Asia","Nutrients:":"Protein / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Winged beans are unique pods with wing-like edges.</li><li>They are highly nutritious.</li><li>Used in salads and curries.</li><li>Popular in Southeast Asia.</li><li>All parts are edible.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Rich in protein</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Entire plant is edible.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"yardlong_beans",
+"name":"Yardlong Beans",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=legumes_and_pod_vegetables&id=yardlong_beans",
+"parent":"legumes_and_pod_vegetables",
+"info":{"Category:":"Legume","Origin:":"Asia","Nutrients:":"Fiber / Vitamins","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Yardlong beans are very long green beans.</li><li>They have a mild flavor.</li><li>Used in stir-fries.</li><li>Popular in Asian cuisine.</li><li>Easy to cook.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Can grow up to a yard long.</li></ul>"}
+},
+"gallery_count":5
+}
+]

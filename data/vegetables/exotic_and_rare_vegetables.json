@@ -1,0 +1,226 @@
+[
+{
+"id":"amaranth_root",
+"name":"Amaranth Root",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=amaranth_root",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"Asia","Nutrients:":"Fiber / Iron","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Amaranth root is a lesser-known edible part of the amaranth plant.</li><li>It has a mild earthy flavor.</li><li>Used in traditional dishes.</li><li>Rich in nutrients.</li><li>Popular in rural cuisines.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Supports blood health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>More commonly grown for its leaves and seeds.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"banana_blossom_stem",
+"name":"Banana Blossom Stem",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=banana_blossom_stem",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"India","Nutrients:":"Fiber / Potassium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Banana blossom stem is a fibrous edible part of the banana plant.</li><li>It has a mild flavor.</li><li>Used in curries and salads.</li><li>Common in South Indian cuisine.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Improves kidney health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often confused with banana flower.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"breadfruit_unripe",
+"name":"Breadfruit (Unripe)",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=breadfruit_unripe",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"Pacific Islands","Nutrients:":"Carbohydrates / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Unripe breadfruit is used as a vegetable.</li><li>It has a starchy texture.</li><li>Used in curries and roasted dishes.</li><li>Popular in tropical regions.</li><li>Highly filling.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Provides energy</li><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Becomes sweet when ripe.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"buddhas_hand",
+"name":"Buddha’s Hand",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=buddhas_hand",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"China","Nutrients:":"Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Buddha’s Hand is a citrus fruit used as a vegetable ingredient.</li><li>It has a strong fragrance.</li><li>Used in desserts and flavoring.</li><li>Contains no pulp or juice.</li><li>Highly unique appearance.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Named for its finger-like shape.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"celtuce",
+"name":"Celtuce",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=celtuce",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"China","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Celtuce is a stem vegetable with edible leaves.</li><li>It has a mild nutty flavor.</li><li>Used in stir-fries.</li><li>Popular in Chinese cuisine.</li><li>Crunchy texture.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called stem lettuce.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chayote_root",
+"name":"Chayote Root",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=chayote_root",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"Mexico","Nutrients:":"Fiber / Potassium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Chayote root is the underground part of the chayote plant.</li><li>It has a starchy texture.</li><li>Used in cooked dishes.</li><li>Less commonly known.</li><li>Nutritious and filling.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Provides energy</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Rarely used compared to the fruit.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"fiddlehead_ferns",
+"name":"Fiddlehead Ferns",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=fiddlehead_ferns",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"North America","Nutrients:":"Antioxidants / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Fiddlehead ferns are young coiled fern fronds.</li><li>They have a unique flavor similar to asparagus.</li><li>Used in gourmet cooking.</li><li>Must be cooked properly.</li><li>Seasonal vegetable.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Rich in antioxidants</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Named for their fiddle-like shape.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"kohlrabi_purple",
+"name":"Kohlrabi (Purple)",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=kohlrabi_purple",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"Europe","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Purple kohlrabi is a colorful variety of kohlrabi.</li><li>It has a sweet and crunchy texture.</li><li>Used in salads and cooked dishes.</li><li>Highly nutritious.</li><li>Popular in European cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Same taste as green kohlrabi.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"malanga_root",
+"name":"Malanga Root",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=malanga_root",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"Caribbean","Nutrients:":"Carbohydrates / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Malanga root is a starchy tropical root vegetable.</li><li>It has a nutty flavor.</li><li>Used in soups and stews.</li><li>Popular in Caribbean cuisine.</li><li>Highly filling.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Provides energy</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Similar to taro root.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"romanesco_broccoli",
+"name":"Romanesco Broccoli",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=romanesco_broccoli",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"Italy","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Romanesco broccoli is known for its spiral fractal shape.</li><li>It has a mild nutty flavor.</li><li>Used in salads and cooked dishes.</li><li>Visually unique.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Follows mathematical fractal patterns.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sunchoke",
+"name":"Sunchoke (Jerusalem Artichoke)",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=sunchoke",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"North America","Nutrients:":"Fiber / Iron","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Sunchoke is a knobby root vegetable with a nutty flavor.</li><li>Used in soups and roasted dishes.</li><li>Highly nutritious.</li><li>Also called Jerusalem artichoke.</li><li>Popular in healthy diets.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Not related to artichoke.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"taro_leaves",
+"name":"Taro Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=taro_leaves",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"Asia","Nutrients:":"Iron / Calcium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Taro leaves are large edible leaves used in cooking.</li><li>They must be cooked properly before eating.</li><li>Used in curries and traditional dishes.</li><li>Highly nutritious.</li><li>Popular in tropical regions.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves blood health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Raw leaves can cause irritation.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ulluco",
+"name":"Ulluco",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=ulluco",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"South America","Nutrients:":"Carbohydrates / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Ulluco is a colorful tuber from South America.</li><li>It has a waxy texture.</li><li>Used in traditional dishes.</li><li>Highly nutritious.</li><li>Brightly colored skin.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Provides energy</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Common in Andean cuisine.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"water_chestnut",
+"name":"Water Chestnut",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=water_chestnut",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"Asia","Nutrients:":"Fiber / Potassium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Water chestnut is an aquatic vegetable with a crunchy texture.</li><li>Used in stir-fries and salads.</li><li>Has a mildly sweet taste.</li><li>Popular in Asian cuisine.</li><li>Retains crunch when cooked.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Not related to chestnuts.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"white_asparagus",
+"name":"White Asparagus",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=exotic_and_rare_vegetables&id=white_asparagus",
+"parent":"exotic_and_rare_vegetables",
+"info":{"Category:":"Exotic Vegetable","Origin:":"Europe","Nutrients:":"Vitamin K / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>White asparagus is grown without sunlight.</li><li>It has a mild and delicate flavor.</li><li>Used in gourmet dishes.</li><li>Popular in European cuisine.</li><li>Considered a delicacy.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>More expensive than green asparagus.</li></ul>"}
+},
+"gallery_count":5
+}
+]

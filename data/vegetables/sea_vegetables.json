@@ -1,0 +1,136 @@
+[
+{
+"id":"agar",
+"name":"Agar (Agar-Agar)",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=sea_vegetables&id=agar",
+"parent":"sea_vegetables",
+"info":{"Category:":"Sea Vegetable","Origin:":"Asia","Nutrients:":"Fiber / Minerals","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Agar is a gelatinous substance derived from red algae.</li><li>It is commonly used as a vegetarian gelatin substitute.</li><li>Used in desserts and jellies.</li><li>Popular in Asian cuisine.</li><li>Highly versatile.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Low calorie</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in microbiology labs too.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"dulse",
+"name":"Dulse",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=sea_vegetables&id=dulse",
+"parent":"sea_vegetables",
+"info":{"Category:":"Sea Vegetable","Origin:":"Atlantic Ocean","Nutrients:":"Iron / Potassium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Dulse is a red seaweed with a slightly salty flavor.</li><li>It is eaten dried or cooked.</li><li>Used as a snack or seasoning.</li><li>Popular in coastal regions.</li><li>Rich in minerals.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves blood health</li><li>Rich in minerals</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Sometimes tastes like bacon when fried.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"hijiki",
+"name":"Hijiki",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=sea_vegetables&id=hijiki",
+"parent":"sea_vegetables",
+"info":{"Category:":"Sea Vegetable","Origin:":"Japan","Nutrients:":"Calcium / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Hijiki is a dark seaweed used in Japanese cuisine.</li><li>It has a strong flavor.</li><li>Used in salads and side dishes.</li><li>Rich in minerals.</li><li>Needs soaking before use.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports bone health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Expands when soaked.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"irish_moss",
+"name":"Irish Moss",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=sea_vegetables&id=irish_moss",
+"parent":"sea_vegetables",
+"info":{"Category:":"Sea Vegetable","Origin:":"Atlantic Ocean","Nutrients:":"Iodine / Minerals","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Irish moss is a red algae used as a thickener.</li><li>It has a mild taste.</li><li>Used in desserts and drinks.</li><li>Rich in nutrients.</li><li>Popular in Caribbean cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports thyroid health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in natural supplements.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"kelp",
+"name":"Kelp",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=sea_vegetables&id=kelp",
+"parent":"sea_vegetables",
+"info":{"Category:":"Sea Vegetable","Origin:":"Ocean","Nutrients:":"Iodine / Calcium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Kelp is a large brown seaweed.</li><li>Used in soups and broths.</li><li>Rich in iodine.</li><li>Common in Asian cuisine.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports thyroid function</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Grows in underwater forests.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"kombu",
+"name":"Kombu",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=sea_vegetables&id=kombu",
+"parent":"sea_vegetables",
+"info":{"Category:":"Sea Vegetable","Origin:":"Japan","Nutrients:":"Iodine / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Kombu is a type of kelp used in Japanese cooking.</li><li>Used to make broth (dashi).</li><li>It has a strong umami flavor.</li><li>Highly nutritious.</li><li>Essential in Japanese cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Key ingredient in dashi broth.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nori",
+"name":"Nori",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=sea_vegetables&id=nori",
+"parent":"sea_vegetables",
+"info":{"Category:":"Sea Vegetable","Origin:":"Japan","Nutrients:":"Protein / Iodine","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Nori is a dried seaweed used in sushi.</li><li>It has a mild salty flavor.</li><li>Used as wraps and snacks.</li><li>Popular worldwide.</li><li>Easy to use.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports thyroid health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used to wrap sushi rolls.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sea_grapes",
+"name":"Sea Grapes",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=sea_vegetables&id=sea_grapes",
+"parent":"sea_vegetables",
+"info":{"Category:":"Sea Vegetable","Origin:":"Pacific Ocean","Nutrients:":"Minerals / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Sea grapes are green algae that look like tiny grapes.</li><li>They have a salty taste.</li><li>Used in salads.</li><li>Popular in Southeast Asia.</li><li>Unique texture.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Rich in minerals</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called green caviar.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"wakame",
+"name":"Wakame",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=sea_vegetables&id=wakame",
+"parent":"sea_vegetables",
+"info":{"Category:":"Sea Vegetable","Origin:":"Japan","Nutrients:":"Iodine / Calcium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Wakame is a soft seaweed used in soups and salads.</li><li>It has a mild flavor.</li><li>Common in miso soup.</li><li>Highly nutritious.</li><li>Popular in Japanese cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports bone health</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Expands when soaked.</li></ul>"}
+},
+"gallery_count":5
+}
+]

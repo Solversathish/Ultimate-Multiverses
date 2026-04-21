@@ -1,0 +1,136 @@
+[
+{
+"id":"asparagus",
+"name":"Asparagus",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=stem_vegetables&id=asparagus",
+"parent":"stem_vegetables",
+"info":{"Category:":"Stem Vegetable","Origin:":"Europe","Nutrients:":"Vitamin K / Folate","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Asparagus is a tender green stem vegetable known for its unique taste.</li><li>It is commonly used in salads, soups, and grilled dishes.</li><li>It has a slightly earthy and nutty flavor.</li><li>Highly nutritious and low in calories.</li><li>Popular in Western cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Rich in antioxidants</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Considered a delicacy in many countries.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"bamboo_shoots",
+"name":"Bamboo Shoots",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=stem_vegetables&id=bamboo_shoots",
+"parent":"stem_vegetables",
+"info":{"Category:":"Stem Vegetable","Origin:":"Asia","Nutrients:":"Fiber / Potassium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Bamboo shoots are young edible stems of bamboo plants.</li><li>They are widely used in Asian cuisine.</li><li>They have a crunchy texture.</li><li>Used in stir-fries and soups.</li><li>Must be properly cooked before eating.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Low in calories</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Common in Chinese and Thai dishes.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"banana_stem",
+"name":"Banana Stem",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=stem_vegetables&id=banana_stem",
+"parent":"stem_vegetables",
+"info":{"Category:":"Stem Vegetable","Origin:":"India","Nutrients:":"Fiber / Potassium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Banana stem is the edible inner core of the banana plant.</li><li>It is widely used in South Indian cuisine.</li><li>It has a crunchy texture.</li><li>Used in salads and curries.</li><li>Known for its health benefits.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Supports kidney health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in traditional remedies.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"celery",
+"name":"Celery",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=stem_vegetables&id=celery",
+"parent":"stem_vegetables",
+"info":{"Category:":"Stem Vegetable","Origin:":"Mediterranean","Nutrients:":"Vitamin K / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Celery is a crunchy green stem vegetable widely used in salads.</li><li>It has a mild, slightly salty flavor.</li><li>Used raw or cooked.</li><li>Popular in Western cuisine.</li><li>Low in calories.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports hydration</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often eaten as a snack.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"fennel",
+"name":"Fennel",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=stem_vegetables&id=fennel",
+"parent":"stem_vegetables",
+"info":{"Category:":"Stem Vegetable","Origin:":"Mediterranean","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Fennel is a bulb-like stem vegetable with a mild licorice flavor.</li><li>Used in salads and cooked dishes.</li><li>It has a crisp texture.</li><li>Popular in Mediterranean cuisine.</li><li>Also used as a spice.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Supports gut health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Seeds are also used as spice.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"kohlrabi",
+"name":"Kohlrabi",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=stem_vegetables&id=kohlrabi",
+"parent":"stem_vegetables",
+"info":{"Category:":"Stem Vegetable","Origin:":"Europe","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Kohlrabi is a swollen stem vegetable with a mild sweet taste.</li><li>It is crunchy and juicy.</li><li>Used in salads and curries.</li><li>Popular in European cuisine.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Part of cabbage family.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"lotus_stem",
+"name":"Lotus Stem",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=stem_vegetables&id=lotus_stem",
+"parent":"stem_vegetables",
+"info":{"Category:":"Stem Vegetable","Origin:":"Asia","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Lotus stem is the edible stem of the lotus plant.</li><li>It has a crunchy texture and mild taste.</li><li>Used in Asian dishes.</li><li>It has a unique hole pattern.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Symbolic in many cultures.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rhubarb",
+"name":"Rhubarb",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=stem_vegetables&id=rhubarb",
+"parent":"stem_vegetables",
+"info":{"Category:":"Stem Vegetable","Origin:":"Asia","Nutrients:":"Fiber / Vitamin K","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Rhubarb is a red stalk vegetable used mainly in desserts.</li><li>It has a sour taste.</li><li>Used in pies and jams.</li><li>Only the stem is edible.</li><li>Popular in Western cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Leaves are toxic and not edible.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sugarcane",
+"name":"Sugarcane",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=stem_vegetables&id=sugarcane",
+"parent":"stem_vegetables",
+"info":{"Category:":"Stem Vegetable","Origin:":"India","Nutrients:":"Natural Sugars / Fiber","Nature:":"Energy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Sugarcane is a tall grass with sweet juicy stems.</li><li>Used to produce sugar and juice.</li><li>It is chewed for its sweetness.</li><li>Widely grown in tropical regions.</li><li>Important agricultural crop.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Provides instant energy</li><li>Supports hydration</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Main source of sugar worldwide.</li></ul>"}
+},
+"gallery_count":5
+}
+]

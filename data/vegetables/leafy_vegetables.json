@@ -1,0 +1,556 @@
+[
+{
+"id":"amaranth_leaves",
+"name":"Amaranth Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=amaranth_leaves",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Asia","Nutrients:":"Iron / Calcium / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Amaranth leaves are highly nutritious green leafy vegetables.</li><li>They are commonly used in Indian cooking.</li><li>They have a mild earthy flavor.</li><li>Used in stir-fries, curries, and soups.</li><li>Rich in essential vitamins and minerals.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves bone health</li><li>Boosts immunity</li><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also known as “Thotakura” in India.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"arugula",
+"name":"Arugula",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=arugula",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Mediterranean","Nutrients:":"Vitamin K / Folate","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Arugula is a leafy green with a peppery taste.</li><li>It is widely used in salads and sandwiches.</li><li>It adds a strong flavor to dishes.</li><li>Popular in Mediterranean cuisine.</li><li>It is low in calories and nutrient-rich.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports bone health</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called rocket leaves.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"basil_leaves",
+"name":"Basil Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=basil_leaves",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Herb / Leafy Vegetable","Origin:":"Asia","Nutrients:":"Antioxidants / Vitamin K","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Basil leaves are aromatic greens used in cooking and herbal medicine.</li><li>They have a sweet and slightly spicy flavor.</li><li>Widely used in Italian and Indian cuisines.</li><li>Often used fresh in salads and sauces.</li><li>Known for medicinal properties.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Reduces stress</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Holy basil is sacred in India.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"beet_greens",
+"name":"Beet Greens",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=beet_greens",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Europe","Nutrients:":"Iron / Vitamin A","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Beet greens are the leafy tops of the beetroot plant.</li><li>They are highly nutritious and edible.</li><li>Used in sautéed dishes and soups.</li><li>They have a slightly bitter taste.</li><li>Often overlooked but very healthy.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves blood health</li><li>Rich in vitamins</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often discarded despite being nutritious.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"bok_choy",
+"name":"Bok Choy",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=bok_choy",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"China","Nutrients:":"Vitamin C / Calcium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Bok choy is a Chinese leafy vegetable with crisp stems.</li><li>It has a mild flavor.</li><li>Used in stir-fries and soups.</li><li>Popular in Asian cuisine.</li><li>Rich in nutrients.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports bone health</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called Chinese cabbage.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"cabbage",
+"name":"Cabbage",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=cabbage",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Europe","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Cabbage is a leafy vegetable with tightly packed leaves.</li><li>Available in green, red, and purple varieties.</li><li>Used in salads, stir-fries, and curries.</li><li>It has a crunchy texture.</li><li>Widely consumed globally.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Supports immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used to make sauerkraut and kimchi.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"cassava_leaves",
+"name":"Cassava Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=cassava_leaves",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Africa","Nutrients:":"Protein / Vitamins","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Cassava leaves are edible leaves of the cassava plant.</li><li>They are rich in nutrients.</li><li>Used in African cuisine.</li><li>Must be properly cooked.</li><li>Have a slightly bitter taste.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Rich in protein</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Requires proper preparation to remove toxins.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chicory",
+"name":"Chicory",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=chicory",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Europe","Nutrients:":"Fiber / Vitamin K","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Chicory is a leafy vegetable with a slightly bitter taste.</li><li>Used in salads and coffee substitutes.</li><li>Popular in European cuisine.</li><li>It has medicinal uses.</li><li>Rich in fiber.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Supports gut health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used as coffee substitute.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chinese_spinach",
+"name":"Chinese Spinach",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=chinese_spinach",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Asia","Nutrients:":"Iron / Calcium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Chinese spinach is a nutritious leafy green used in Asian dishes.</li><li>It has soft leaves and mild taste.</li><li>Used in stir-fries and soups.</li><li>Rich in iron and vitamins.</li><li>Easy to cook.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves blood health</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Different from regular spinach.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"collard_greens",
+"name":"Collard Greens",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=collard_greens",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Africa","Nutrients:":"Vitamin K / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Collard greens are large, dark leafy vegetables.</li><li>They are commonly used in Southern cuisine.</li><li>Have a slightly bitter taste.</li><li>Used in stews and sautéed dishes.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports bone health</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Popular in American Southern dishes.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"coriander_leaves",
+"name":"Coriander Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=coriander_leaves",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Herb / Leafy Vegetable","Origin:":"Asia","Nutrients:":"Vitamin C / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Coriander leaves are widely used as garnish and flavoring.</li><li>They have a fresh citrus-like taste.</li><li>Used in many cuisines worldwide.</li><li>Common in Indian cooking.</li><li>Adds aroma to dishes.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Detoxifies body</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called cilantro.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"curry_leaves",
+"name":"Curry Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=curry_leaves",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Herb / Leafy Vegetable","Origin:":"India","Nutrients:":"Iron / Calcium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Curry leaves are aromatic leaves used in Indian cuisine.</li><li>They add a distinct flavor to dishes.</li><li>Used in tempering and curries.</li><li>They have medicinal benefits.</li><li>Essential in South Indian cooking.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Supports hair health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in Ayurvedic medicine.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"dill_leaves",
+"name":"Dill Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=dill_leaves",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Herb / Leafy Vegetable","Origin:":"Mediterranean","Nutrients:":"Vitamin C / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Dill leaves are aromatic herbs used in cooking and garnishing.</li><li>They have a fresh, slightly tangy flavor.</li><li>Common in European and Indian cuisines.</li><li>Used in salads, soups, and pickles.</li><li>Rich in nutrients and medicinal properties.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Reduces inflammation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called dill weed.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"endive",
+"name":"Endive",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=endive",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Europe","Nutrients:":"Fiber / Vitamin K","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Endive is a leafy vegetable with a slightly bitter taste.</li><li>It is commonly used in salads.</li><li>It has crisp texture and pale leaves.</li><li>Popular in European cuisine.</li><li>Low in calories and nutrient-rich.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Improves gut health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often used in gourmet dishes.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"fenugreek_leaves",
+"name":"Fenugreek Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=fenugreek_leaves",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"India","Nutrients:":"Iron / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Fenugreek leaves are widely used in Indian cooking.</li><li>They have a slightly bitter taste.</li><li>Used in curries and breads.</li><li>Highly nutritious and medicinal.</li><li>Commonly known as methi.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Controls blood sugar</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in traditional medicine.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"kale",
+"name":"Kale",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=kale",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Europe","Nutrients:":"Vitamin K / Vitamin C / Iron","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Kale is a highly nutritious leafy green vegetable.</li><li>It has dark green curly leaves.</li><li>Used in salads, smoothies, and cooked dishes.</li><li>Known as a superfood.</li><li>Rich in vitamins and minerals.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Supports heart health</li><li>Rich in antioxidants</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of the most nutrient-dense foods.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"lambs_lettuce",
+"name":"Lamb’s Lettuce",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=lambs_lettuce",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Europe","Nutrients:":"Vitamin C / Iron","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Lamb’s lettuce is a soft leafy green with a mild flavor.</li><li>Commonly used in salads.</li><li>It has small tender leaves.</li><li>Popular in European cuisine.</li><li>Easy to digest.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Rich in nutrients</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called corn salad.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"lettuce",
+"name":"Lettuce",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=lettuce",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Egypt","Nutrients:":"Vitamin A / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Lettuce is a popular leafy vegetable widely used in salads.</li><li>It has a crisp texture and mild taste.</li><li>Used in burgers, sandwiches, and wraps.</li><li>Available in many varieties.</li><li>Low in calories.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports hydration</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of the oldest cultivated vegetables.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"malabar_spinach",
+"name":"Malabar Spinach",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=malabar_spinach",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Asia","Nutrients:":"Iron / Calcium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Malabar spinach is a tropical leafy vegetable.</li><li>It has thick, glossy leaves.</li><li>Used in curries and stir-fries.</li><li>It grows as a vine.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves bone health</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Different from regular spinach.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mint_leaves",
+"name":"Mint Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=mint_leaves",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Herb / Leafy Vegetable","Origin:":"Europe","Nutrients:":"Vitamin A / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Mint leaves are aromatic greens with a refreshing flavor.</li><li>Used in beverages, chutneys, and dishes.</li><li>Provides a cooling effect.</li><li>Popular worldwide.</li><li>Also used medicinally.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Aids digestion</li><li>Freshens breath</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in teas and drinks.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mustard_greens",
+"name":"Mustard Greens",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=mustard_greens",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Asia","Nutrients:":"Vitamin K / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Mustard greens are spicy leafy vegetables.</li><li>Commonly used in Indian and Asian cuisines.</li><li>Used in curries and stir-fries.</li><li>Have a strong flavor.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports immunity</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used to make sarson ka saag.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"napa_cabbage",
+"name":"Napa Cabbage",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=napa_cabbage",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"China","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Napa cabbage is a soft leafy vegetable used in Asian cuisine.</li><li>It has a mild flavor.</li><li>Used in soups and kimchi.</li><li>Has tender leaves.</li><li>Easy to cook.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Main ingredient in kimchi.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"new_zealand_spinach",
+"name":"New Zealand Spinach",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=new_zealand_spinach",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"New Zealand","Nutrients:":"Vitamin C / Iron","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>New Zealand spinach is a leafy vegetable used as an alternative to spinach.</li><li>It grows well in warm climates.</li><li>Used in cooked dishes.</li><li>It has thick leaves.</li><li>Nutritious and easy to grow.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves blood health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used as spinach substitute.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"oregano_leaves",
+"name":"Oregano Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=oregano_leaves",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Herb / Leafy Vegetable","Origin:":"Mediterranean","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Oregano leaves are aromatic herbs used in cooking.</li><li>They have a strong flavor.</li><li>Common in Italian cuisine.</li><li>Used in pizzas and sauces.</li><li>Also has medicinal uses.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Has antibacterial properties</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Popular seasoning worldwide.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"parsley",
+"name":"Parsley",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=parsley",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Herb / Leafy Vegetable","Origin:":"Mediterranean","Nutrients:":"Vitamin C / Vitamin K","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Parsley is a fresh green herb widely used as garnish and seasoning.</li><li>It has a mild, slightly peppery flavor.</li><li>Used in salads, soups, and sauces.</li><li>Common in Mediterranean cuisine.</li><li>Rich in vitamins and antioxidants.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often used as garnish worldwide.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"purslane",
+"name":"Purslane",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=purslane",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Asia","Nutrients:":"Omega-3 / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Purslane is a leafy vegetable with thick succulent leaves.</li><li>It has a slightly sour taste.</li><li>Used in salads and traditional dishes.</li><li>Rich in omega-3 fatty acids.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports heart health</li><li>Rich in omega-3</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Considered a superfood.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"radish_leaves",
+"name":"Radish Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=radish_leaves",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Asia","Nutrients:":"Iron / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Radish leaves are edible greens of the radish plant.</li><li>They are often used in curries and stir-fries.</li><li>They have a slightly peppery flavor.</li><li>Highly nutritious.</li><li>Common in Indian cooking.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves blood health</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often discarded despite high nutrition.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"red_spinach",
+"name":"Red Spinach",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=red_spinach",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Asia","Nutrients:":"Iron / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Red spinach is a colorful leafy vegetable rich in nutrients.</li><li>It has a slightly sweet flavor.</li><li>Used in curries and stir-fries.</li><li>Contains powerful antioxidants.</li><li>Popular in Asian cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves blood health</li><li>Rich in antioxidants</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Color comes from natural pigments.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rosemary_leaves",
+"name":"Rosemary Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=rosemary_leaves",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Herb / Leafy Vegetable","Origin:":"Mediterranean","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Rosemary leaves are aromatic herbs with a strong woody flavor.</li><li>Used in roasting and seasoning.</li><li>Common in Mediterranean cuisine.</li><li>Used fresh or dried.</li><li>Also has medicinal uses.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves memory</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in herbal medicine.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sage_leaves",
+"name":"Sage Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=sage_leaves",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Herb / Leafy Vegetable","Origin:":"Mediterranean","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Sage leaves are aromatic herbs with a slightly bitter flavor.</li><li>Used in stuffing and meat dishes.</li><li>Popular in European cuisine.</li><li>Used in both fresh and dried forms.</li><li>Known for medicinal properties.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves digestion</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in traditional medicine.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sorrel",
+"name":"Sorrel",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=sorrel",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Europe","Nutrients:":"Vitamin C / Iron","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Sorrel is a leafy vegetable with a tangy, lemon-like flavor.</li><li>Used in soups and salads.</li><li>Popular in European cuisine.</li><li>It adds a unique taste to dishes.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known for its sour taste.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"spinach",
+"name":"Spinach",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=spinach",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Persia","Nutrients:":"Iron / Vitamin A / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Spinach is one of the most popular leafy vegetables worldwide.</li><li>It has soft green leaves and mild taste.</li><li>Used in salads, curries, and smoothies.</li><li>Highly nutritious and versatile.</li><li>Common in many cuisines.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves blood health</li><li>Boosts immunity</li><li>Supports eye health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Associated with strength in popular culture.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"swiss_chard",
+"name":"Swiss Chard",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=swiss_chard",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Mediterranean","Nutrients:":"Vitamin K / Magnesium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Swiss chard is a leafy vegetable with colorful stems.</li><li>It has a slightly bitter taste.</li><li>Used in sautés and soups.</li><li>Highly nutritious.</li><li>Popular in European cooking.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports bone health</li><li>Rich in minerals</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Comes in rainbow varieties.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"thyme_leaves",
+"name":"Thyme Leaves",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=thyme_leaves",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Herb / Leafy Vegetable","Origin:":"Mediterranean","Nutrients:":"Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Thyme leaves are small aromatic herbs used in cooking.</li><li>They have a strong earthy flavor.</li><li>Used in soups, meats, and sauces.</li><li>Common in Mediterranean cuisine.</li><li>Also used medicinally.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Has antibacterial properties</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used since ancient times.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"turnip_greens",
+"name":"Turnip Greens",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=turnip_greens",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Europe","Nutrients:":"Vitamin C / Calcium","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Turnip greens are the edible leaves of the turnip plant.</li><li>They have a slightly bitter taste.</li><li>Used in soups and sautéed dishes.</li><li>Highly nutritious.</li><li>Common in traditional cooking.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports bone health</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often cooked with spices.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"water_spinach",
+"name":"Water Spinach",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=water_spinach",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Asia","Nutrients:":"Iron / Vitamin A","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Water spinach is a semi-aquatic leafy vegetable.</li><li>It has hollow stems and soft leaves.</li><li>Used in stir-fries.</li><li>Popular in Asian cuisine.</li><li>Fast-growing plant.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves blood health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called kangkong.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"watercress",
+"name":"Watercress",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=leafy_vegetables&id=watercress",
+"parent":"leafy_vegetables",
+"info":{"Category:":"Leafy Vegetable","Origin:":"Europe","Nutrients:":"Vitamin K / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Watercress is a leafy green that grows in water.</li><li>It has a peppery flavor.</li><li>Used in salads and soups.</li><li>Highly nutritious.</li><li>Considered a superfood.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Rich in antioxidants</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of the oldest known vegetables.</li></ul>"}
+},
+"gallery_count":5
+}
+]

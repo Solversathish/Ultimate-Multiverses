@@ -1,0 +1,106 @@
+[
+{
+"id":"artichoke",
+"name":"Artichoke",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=flower_vegetables&id=artichoke",
+"parent":"flower_vegetables",
+"info":{"Category:":"Flower Vegetable","Origin:":"Mediterranean","Nutrients:":"Fiber / Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Artichoke is an edible flower bud known for its unique structure.</li><li>It has a mild, nutty flavor.</li><li>Used in salads, dips, and cooked dishes.</li><li>Popular in Mediterranean cuisine.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports liver health</li><li>Improves digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Only the bud is eaten, not the full flower.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"banana_flower",
+"name":"Banana Flower",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=flower_vegetables&id=banana_flower",
+"parent":"flower_vegetables",
+"info":{"Category:":"Flower Vegetable","Origin:":"India","Nutrients:":"Fiber / Iron","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Banana flower is the edible blossom of the banana plant.</li><li>It has a slightly bitter taste.</li><li>Used in curries and traditional dishes.</li><li>Common in South Indian cuisine.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Improves blood health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Requires proper cleaning before cooking.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"broccoli",
+"name":"Broccoli",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=flower_vegetables&id=broccoli",
+"parent":"flower_vegetables",
+"info":{"Category:":"Flower Vegetable","Origin:":"Italy","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Broccoli is a green flowering vegetable with small buds.</li><li>It has a mild, slightly bitter taste.</li><li>Used in stir-fries, soups, and salads.</li><li>Highly nutritious.</li><li>Popular worldwide.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Supports heart health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Part of the cabbage family.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"cauliflower",
+"name":"Cauliflower",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=flower_vegetables&id=cauliflower",
+"parent":"flower_vegetables",
+"info":{"Category:":"Flower Vegetable","Origin:":"Mediterranean","Nutrients:":"Vitamin C / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Cauliflower is a white flowering vegetable with dense florets.</li><li>It has a mild flavor.</li><li>Used in curries, stir-fries, and roasted dishes.</li><li>Versatile in cooking.</li><li>Widely consumed globally.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Available in purple and orange varieties too.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"drumstick_flower",
+"name":"Drumstick Flower",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=flower_vegetables&id=drumstick_flower",
+"parent":"flower_vegetables",
+"info":{"Category:":"Flower Vegetable","Origin:":"India","Nutrients:":"Calcium / Iron","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Drumstick flower comes from the moringa tree.</li><li>It has a mild flavor.</li><li>Used in traditional Indian dishes.</li><li>Highly nutritious.</li><li>Also used in herbal remedies.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves bone health</li><li>Boosts immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Moringa is known as a superfood plant.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"pumpkin_flower",
+"name":"Pumpkin Flower",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=flower_vegetables&id=pumpkin_flower",
+"parent":"flower_vegetables",
+"info":{"Category:":"Flower Vegetable","Origin:":"America","Nutrients:":"Vitamin A / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Pumpkin flower is an edible flower from the pumpkin plant.</li><li>It has a soft texture.</li><li>Used in fried and stuffed dishes.</li><li>Popular in various cuisines.</li><li>Delicate and nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports eye health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often stuffed and fried.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"zucchini_flower",
+"name":"Zucchini Flower",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=flower_vegetables&id=zucchini_flower",
+"parent":"flower_vegetables",
+"info":{"Category:":"Flower Vegetable","Origin:":"Italy","Nutrients:":"Vitamin C","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Zucchini flower is an edible blossom of the zucchini plant.</li><li>It has a delicate flavor.</li><li>Often used in gourmet dishes.</li><li>Stuffed and fried or added to salads.</li><li>Popular in Italian cuisine.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Considered a delicacy.</li></ul>"}
+},
+"gallery_count":5
+}
+]

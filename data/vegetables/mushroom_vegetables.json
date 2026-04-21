@@ -1,0 +1,136 @@
+[
+{
+"id":"button_mushroom",
+"name":"Button Mushroom",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=mushroom_vegetables&id=button_mushroom",
+"parent":"mushroom_vegetables",
+"info":{"Category:":"Fungi","Origin:":"Europe","Nutrients:":"Protein / Vitamin D","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Button mushroom is the most commonly consumed mushroom worldwide.</li><li>It has a mild flavor and soft texture.</li><li>Used in salads, soups, and cooked dishes.</li><li>Available fresh and canned.</li><li>Highly versatile.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Supports bone health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called white mushroom.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"chanterelle_mushroom",
+"name":"Chanterelle Mushroom",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=mushroom_vegetables&id=chanterelle_mushroom",
+"parent":"mushroom_vegetables",
+"info":{"Category:":"Fungi","Origin:":"Europe","Nutrients:":"Vitamin D / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Chanterelle mushrooms are golden-colored fungi with a fruity aroma.</li><li>They have a delicate flavor.</li><li>Used in gourmet cooking.</li><li>Popular in European cuisine.</li><li>Considered a delicacy.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Rich in antioxidants</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Highly valued in fine dining.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"cremini_mushroom",
+"name":"Cremini Mushroom",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=mushroom_vegetables&id=cremini_mushroom",
+"parent":"mushroom_vegetables",
+"info":{"Category:":"Fungi","Origin:":"Europe","Nutrients:":"Protein / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Cremini mushrooms are slightly mature versions of button mushrooms.</li><li>They have a deeper flavor.</li><li>Used in soups and sautéed dishes.</li><li>Also called baby bella.</li><li>Nutritious and tasty.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports digestion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Intermediate stage between button and portobello.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"enoki_mushroom",
+"name":"Enoki Mushroom",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=mushroom_vegetables&id=enoki_mushroom",
+"parent":"mushroom_vegetables",
+"info":{"Category:":"Fungi","Origin:":"Asia","Nutrients:":"Fiber / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Enoki mushrooms are long, thin white mushrooms.</li><li>They have a mild flavor.</li><li>Used in soups and salads.</li><li>Popular in Asian cuisine.</li><li>Have a crunchy texture.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports immunity</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often used in hot pot dishes.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"morel_mushroom",
+"name":"Morel Mushroom",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=mushroom_vegetables&id=morel_mushroom",
+"parent":"mushroom_vegetables",
+"info":{"Category:":"Fungi","Origin:":"North America","Nutrients:":"Vitamin D / Iron","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Morel mushrooms are prized for their honeycomb appearance.</li><li>They have a rich, earthy flavor.</li><li>Used in gourmet dishes.</li><li>Rare and expensive.</li><li>Highly valued by chefs.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Rich in nutrients</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Must be cooked before eating.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"oyster_mushroom",
+"name":"Oyster Mushroom",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=mushroom_vegetables&id=oyster_mushroom",
+"parent":"mushroom_vegetables",
+"info":{"Category:":"Fungi","Origin:":"Asia","Nutrients:":"Protein / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Oyster mushrooms have a soft texture and mild flavor.</li><li>They resemble oyster shells.</li><li>Used in stir-fries and soups.</li><li>Popular in Asian cuisine.</li><li>Easy to cook.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports heart health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Grows on trees naturally.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"portobello_mushroom",
+"name":"Portobello Mushroom",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=mushroom_vegetables&id=portobello_mushroom",
+"parent":"mushroom_vegetables",
+"info":{"Category:":"Fungi","Origin:":"Europe","Nutrients:":"Protein / Fiber","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Portobello mushrooms are large, mature mushrooms.</li><li>They have a meaty texture.</li><li>Used as meat substitutes in dishes.</li><li>Popular in grilled recipes.</li><li>Highly nutritious.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Supports muscle health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Fully grown cremini mushrooms.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shiitake_mushroom",
+"name":"Shiitake Mushroom",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=mushroom_vegetables&id=shiitake_mushroom",
+"parent":"mushroom_vegetables",
+"info":{"Category:":"Fungi","Origin:":"Japan","Nutrients:":"Vitamin D / Antioxidants","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Shiitake mushrooms are popular in Asian cuisine.</li><li>They have a rich umami flavor.</li><li>Used in soups and stir-fries.</li><li>Known for medicinal properties.</li><li>Widely consumed worldwide.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Boosts immunity</li><li>Supports heart health</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Used in traditional medicine.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"wood_ear_mushroom",
+"name":"Wood Ear Mushroom",
+"type":"entity",
+"url":"entity.html?universe=vegetables&path=mushroom_vegetables&id=wood_ear_mushroom",
+"parent":"mushroom_vegetables",
+"info":{"Category:":"Fungi","Origin:":"Asia","Nutrients:":"Fiber / Iron","Nature:":"Healthy"},
+"tabs":{
+"tab1":{"title":"Details","content":"<ul><li>Wood ear mushrooms have a jelly-like texture.</li><li>They are used in Asian dishes.</li><li>Have a mild flavor.</li><li>Used in soups and salads.</li><li>Unique in texture.</li></ul>"},
+"tab2":{"title":"Benefits","content":"<ul><li>Improves blood circulation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called black fungus.</li></ul>"}
+},
+"gallery_count":5
+}
+]
